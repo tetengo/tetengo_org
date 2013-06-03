@@ -54,7 +54,7 @@
     
     header, footer
     {
-        max-width: 896px;
+        max-width: 864px;
         margin: 0px auto;
         padding: 16px 64px;
         overflow: hidden;
@@ -92,9 +92,9 @@
     {
         color: #405040;
         
-        margin: 24px auto;
-        padding: 24px 48px;
-        border-radius: 24px;
+        margin: 32px auto;
+        padding: 32px 32px;
+        border-radius: 16px;
         background-color: #FFFFFF;
         
         max-width: 800px;
@@ -127,7 +127,7 @@
     article ul.links
     {
         width: 320px;
-        margin: -48px 0px 0px 0px;
+        margin: -48px 0px 0px 16px;
         padding: 0px;
         
         float: right;
@@ -141,7 +141,7 @@
         background-repeat: no-repeat;
         background-position: bottom left;
         margin: 8px 0px;
-        padding: 8px 16px 8px 48px;
+        padding: 8px 8px 8px 48px;
     }
     
     article ul.links li.doxygen
