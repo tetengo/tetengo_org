@@ -9,7 +9,7 @@
 {
     a
     {
-        color: #306030;
+        color: #408040;
         font-weight: bold;
         text-decoration: none;
         
@@ -135,6 +135,8 @@
     
     article ul.links li
     {
+        font-weight: bold;
+        
         min-height: 48px;
         border: 1px solid #406050;
         border-radius: 8px;
@@ -144,12 +146,18 @@
         padding: 8px 8px 8px 48px;
     }
     
+    article ul.links li.download
+    {
+        border: 3px solid #F06040;
+        background-image: url("images/download.png");
+    }
+    
     article ul.links li.doxygen
     {
         background-image: url("images/doxygen.png");
     }
     
-    article ul.links li.download
+    article ul.links li.download-src
     {
         background-image: url("images/download.png");
     }
