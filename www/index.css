@@ -112,6 +112,8 @@
     
     article p
     {
+        text-align: justify;
+        
         margin: 16px 0px;
         padding: 0px;
     }
@@ -155,11 +157,6 @@
     article ul.links li.doxygen
     {
         background-image: url("images/doxygen.png");
-    }
-    
-    article ul.links li.download-src
-    {
-        background-image: url("images/download.png");
     }
     
     article ul.links li.github
