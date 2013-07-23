@@ -1,0 +1,6 @@
+ok     /cygwin warning:/
+error  /error:/
+error  /エラー:/
+warn   /warning:/
+warn   /警告:/
+warn   /warning in/
