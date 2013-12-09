@@ -7,6 +7,149 @@
 
 @media screen
 {
+    body
+    {
+        font-family: "Consolas", monospace;
+        
+        background: #FFFFFF;
+        background-image: url('./images/logo.png');
+        background-position: 10% 10%;
+        background-repeat: no-repeat;
+    }
     
+    a, a:visited
+    {
+        color: #4040FF;
+        text-decoration: none;
+        
+        background: transparent;
+    }
     
+    a:hover
+    {
+        text-decoration: underline;
+    }
+    
+    h1
+    {
+        display: none;
+    }
+    
+    nav
+    {
+        color: #404040;
+        font-size: 14px;
+        text-align: right;
+        
+        background: transparent;
+        
+        margin: 16px 32px;
+    }
+    
+    article
+    {
+        text-align: center;
+        
+        width: 800px;
+        margin: 15% auto 5% auto;
+        padding: 0px;
+    }
+    
+    .box
+    {
+        display: inline-block;
+        
+        text-align: left;
+        vertical-align: middle;
+        
+        margin: 4px;
+        padding: 8px 16px;
+    }
+    
+    div.item-title
+    {
+        color: #404040;
+        
+        background: #E4E4E4;
+        
+        width: 464px;
+        height: 96px;
+        overflow: hidden;
+    }
+    
+    h2
+    {
+        font-size: 20px;
+        
+        margin: 8px 0px;
+        padding: 0px;
+    }
+    
+    p
+    {
+        font-size: 14px;
+        text-align: justify;
+        text-justify: newspaper;
+        
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    div.download
+    {
+        color: #FFFFFF;
+        font-size: 20px;
+        text-align: center;
+        
+        background: #E44050;
+        background-image: url('./images/download.png');
+        background-repeat: no-repeat;
+        
+        width: 128px;
+        height: 96px;
+        overflow: hidden;
+    }
+    
+    div.download ul
+    {
+        margin: 38px auto;
+    }
+    
+    div.download a
+    {
+        color: #FFFFFF;
+        
+        background: transparent;
+    }
+    
+    ul
+    {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    div.commands ul li.box
+    {
+        color: #404040;
+        font-size: 14px;
+        text-align: justify;
+        text-justify: newspaper;
+        
+        background: #E4E4E4;
+        background-image: url('./images/command.png');
+        background-repeat: no-repeat;
+        
+        width: 128px;
+        height: 72px;
+        overflow: hidden;
+    }
+    
+    ul ul
+    {
+        margin: 0px 12px;
+    }
+    article ul
+    {
+        list-style-type: none;
+    }
 }
