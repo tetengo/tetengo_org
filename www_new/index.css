@@ -9,7 +9,7 @@
 {
     body
     {
-        font-family: "Consolas", monospace;
+        font-family: "Lucida Grande", "Verdana", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
         
         background: #FFFFFF;
         background-image: url('./images/logo.png');
@@ -28,6 +28,12 @@
     a:hover
     {
         text-decoration: underline;
+        text-shadow: 0px 0px 0.5px #FFFFFF;
+    }
+    
+    a img
+    {
+        border: none;
     }
     
     h1
@@ -39,6 +45,7 @@
     {
         color: #404040;
         font-size: 14px;
+        letter-spacing: 2px;
         text-align: right;
         
         background: transparent;
@@ -51,7 +58,7 @@
         text-align: center;
         
         width: 800px;
-        margin: 15% auto 5% auto;
+        margin: 17% auto 5% auto;
         padding: 0px;
     }
     
@@ -63,7 +70,8 @@
         vertical-align: middle;
         
         margin: 4px;
-        padding: 8px 16px;
+        padding: 16px;
+        overflow: hidden;
     }
     
     div.item-title
@@ -73,32 +81,35 @@
         background: #E4E4E4;
         
         width: 464px;
-        height: 96px;
-        overflow: hidden;
+        height: 80px;
     }
     
     h2
     {
-        font-size: 20px;
+        font-size: 18px;
+        letter-spacing: 2px;
         
-        margin: 8px 0px;
+        margin: 0px 0px 4px 0px;
         padding: 0px;
     }
     
     p
     {
-        font-size: 14px;
+        font-size: 12px;
         text-align: justify;
         text-justify: newspaper;
         
-        margin: 0px;
+        margin: 0px 0px 0px 8px;
         padding: 0px;
     }
     
     div.download
     {
         color: #FFFFFF;
-        font-size: 20px;
+        font-size: 16px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-transform: uppercase;
         text-align: center;
         
         background: #E44050;
@@ -106,13 +117,12 @@
         background-repeat: no-repeat;
         
         width: 128px;
-        height: 96px;
-        overflow: hidden;
+        height: 80px;
     }
     
     div.download ul
     {
-        margin: 38px auto;
+        margin: 30px auto;
     }
     
     div.download a
@@ -128,28 +138,49 @@
         padding: 0px;
     }
     
+    div.screenshot
+    {
+        background: #E4E4E4;
+        
+        width: 664px;
+        height: 48px;
+        padding: 0px;
+    }
+    
     div.commands ul li.box
     {
         color: #404040;
         font-size: 14px;
-        text-align: justify;
-        text-justify: newspaper;
+        letter-spacing: 1px;
         
         background: #E4E4E4;
         background-image: url('./images/command.png');
         background-repeat: no-repeat;
         
         width: 128px;
-        height: 72px;
-        overflow: hidden;
+        height: 56px;
     }
     
     ul ul
     {
+        font-size: 12px;
+        letter-spacing: 0px;
+        
         margin: 0px 12px;
     }
     article ul
     {
         list-style-type: none;
+    }
+    
+    footer
+    {
+        font-size: 14px;
+        letter-spacing: 1px;
+        text-align: center;
+        
+        width: 800px;
+        margin: 15% auto 0px auto;
+        padding: 0px;
     }
 }
