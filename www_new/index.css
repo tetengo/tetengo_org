@@ -58,7 +58,7 @@
         text-align: center;
         
         width: 800px;
-        margin: 17% auto 5% auto;
+        margin: 15% auto 5% auto;
         padding: 0px;
     }
     
@@ -79,9 +79,10 @@
         color: #404040;
         
         background: #E4E4E4;
+        background-image: url('./images/image-title.png');
         
         width: 464px;
-        height: 80px;
+        height: 96px;
     }
     
     h2
@@ -89,13 +90,13 @@
         font-size: 18px;
         letter-spacing: 2px;
         
-        margin: 0px 0px 4px 0px;
+        margin: 0px 0px 8px 0px;
         padding: 0px;
     }
     
     p
     {
-        font-size: 12px;
+        font-size: 14px;
         text-align: justify;
         text-justify: newspaper;
         
@@ -105,29 +106,29 @@
     
     div.download
     {
-        color: #FFFFFF;
+        color: #F8E0E0;
         font-size: 16px;
         font-weight: bold;
         letter-spacing: 2px;
         text-transform: uppercase;
         text-align: center;
         
-        background: #E44050;
+        background: #E04050;
         background-image: url('./images/download.png');
         background-repeat: no-repeat;
         
-        width: 128px;
-        height: 80px;
+        width: 160px;
+        height: 96px;
     }
     
     div.download ul
     {
-        margin: 30px auto;
+        margin: 38px auto;
     }
     
     div.download a
     {
-        color: #FFFFFF;
+        color: #F8E0E4;
         
         background: transparent;
     }
@@ -142,8 +143,8 @@
     {
         background: #E4E4E4;
         
-        width: 664px;
-        height: 48px;
+        width: 696px;
+        height: 96px;
         padding: 0px;
     }
     
@@ -157,13 +158,13 @@
         background-image: url('./images/command.png');
         background-repeat: no-repeat;
         
-        width: 128px;
-        height: 56px;
+        width: 136px;
+        height: 64px;
     }
     
     ul ul
     {
-        font-size: 12px;
+        font-size: 13px;
         letter-spacing: 0px;
         
         margin: 0px 12px;
@@ -180,7 +181,7 @@
         text-align: center;
         
         width: 800px;
-        margin: 15% auto 0px auto;
+        margin: 10% auto 0px auto;
         padding: 0px;
     }
 }
