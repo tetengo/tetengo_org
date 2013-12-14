@@ -2,199 +2,186 @@
 
 /*
     Stylesheet for www.tetengo.org
-    Copyright (C) 2007-2013 kaoru
+    Copyright (C) 2007-2014 kaoru
 */
 
 @media screen
 {
-    a
+    body
     {
-        color: #408040;
-        font-weight: bold;
+        font-family: "Lucida Grande", "Verdana", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+        
+        background: #FFFFFF;
+        background-image: url('./images/logo.png');
+        background-position: 10% 10%;
+        background-repeat: no-repeat;
+    }
+    
+    a, a:visited
+    {
+        color: #4040FF;
         text-decoration: none;
         
-        background-color: transparent;
+        background: transparent;
     }
     
     a:hover
     {
         text-decoration: underline;
+        text-shadow: 0px 0px 0.5px #FFFFFF;
     }
     
     a img
     {
-        border-style: none;
+        border: none;
     }
     
-    body
+    h1
     {
-        color: #FFFFFF;
-        font-family: "Century Gothic", sans-serif;
-        font-size: 16px;
-        
-        margin: 0px;
-        padding: 0px;
-        background-color: #60A040;
+        display: none;
     }
     
-    div.content-area
+    nav
     {
-        color: #405040;
-        
-        background-color: #A06050;
-    }
-    
-    div.header-container, div.footer-container
-    {
-        color: #FFFFFF;
-        
-        margin: 0px;
-        background-color: #60A040;
-    }
-    
-    header, footer
-    {
-        max-width: 864px;
-        margin: 0px auto;
-        padding: 16px 64px;
-        overflow: hidden;
-    }
-    
-    header a, footer a
-    {
-        color: #F0FFF0;
-        
-        background-color: transparent;
-    }
-    
-    header h1
-    {
-        font-size: 24px;
-        line-height: 1;
-        
-        margin: 0px;
-    }
-    
-    header nav
-    {
+        color: #404040;
+        font-size: 14px;
+        letter-spacing: 2px;
         text-align: right;
         
-        margin: -24px 0px 0px 0px;
-        padding: 0px;
-    }
-    
-    div.article-list
-    {
-        margin: 0px 64px;
+        background: transparent;
+        
+        margin: 16px 32px;
     }
     
     article
     {
-        color: #405040;
+        text-align: center;
         
-        margin: 32px auto;
-        padding: 32px 32px;
-        border-radius: 16px;
-        background-color: #FFFFFF;
+        width: 800px;
+        margin: 15% auto 5% auto;
+        padding: 0px;
+    }
+    
+    .box
+    {
+        display: inline-block;
         
-        max-width: 800px;
+        text-align: left;
+        vertical-align: middle;
+        
+        margin: 4px;
+        padding: 16px;
         overflow: hidden;
     }
     
-    article h2
+    div.item-title
     {
-        font-size: 20px;
-        line-height: 1;
+        color: #404040;
         
-        margin: 0px 0px 24px 0px;
+        background: #E4E4E4;
+        background-image: url('./images/image-title.png');
+        
+        width: 464px;
+        height: 96px;
+    }
+    
+    h2
+    {
+        font-size: 18px;
+        letter-spacing: 2px;
+        
+        margin: 0px 0px 8px 0px;
         padding: 0px;
     }
     
-    article p
+    p
     {
+        font-size: 14px;
         text-align: justify;
+        text-justify: newspaper;
         
-        margin: 16px 0px;
+        margin: 0px 0px 0px 8px;
         padding: 0px;
     }
     
-    article ul
+    div.download
+    {
+        color: #F8E0E0;
+        font-size: 16px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        text-align: center;
+        
+        background: #E04050;
+        background-image: url('./images/download.png');
+        background-repeat: no-repeat;
+        
+        width: 160px;
+        height: 96px;
+    }
+    
+    div.download ul
+    {
+        margin: 38px auto;
+    }
+    
+    div.download a
+    {
+        color: #F8E0E4;
+        
+        background: transparent;
+    }
+    
+    ul
     {
         margin: 0px;
         padding: 0px;
+    }
+    
+    div.screenshot
+    {
+        background: #E4E4E4;
         
+        width: 696px;
+        height: 96px;
+        padding: 0px;
+    }
+    
+    div.commands ul li.box
+    {
+        color: #404040;
+        font-size: 14px;
+        letter-spacing: 1px;
+        
+        background: #E4E4E4;
+        background-image: url('./images/command.png');
+        background-repeat: no-repeat;
+        
+        width: 136px;
+        height: 64px;
+    }
+    
+    ul ul
+    {
+        font-size: 13px;
+        letter-spacing: 0px;
+        
+        margin: 0px 12px;
+    }
+    article ul
+    {
         list-style-type: none;
     }
     
-    article ul.links
+    footer
     {
-        width: 320px;
-        margin: -48px 0px 0px 16px;
-        padding: 0px;
-        
-        float: right;
-    }
-    
-    article ul.links li
-    {
-        font-weight: bold;
-        
-        min-height: 48px;
-        border: 1px solid #406050;
-        border-radius: 8px;
-        background-repeat: no-repeat;
-        background-position: bottom left;
-        margin: 8px 0px;
-        padding: 8px 8px 8px 48px;
-    }
-    
-    article ul.links li.download
-    {
-        border: 3px solid #F06040;
-        background-image: url("images/download.png");
-    }
-    
-    article ul.links li.doxygen
-    {
-        background-image: url("images/doxygen.png");
-    }
-    
-    article ul.links li.github
-    {
-        background-image: url("images/github.png");
-    }
-    
-    article ul.links li.jenkins
-    {
-        background-image: url("images/jenkins.png");
-    }
-    
-    article ul.links ul
-    {
-        margin: 0px 0px 0px 64px;
-        padding: 0px;
-    }
-    
-    article ul.links ul li
-    {
-        min-height: 16px;
-        border-style: none;
-        padding: 0px;
-    }
-    
-    footer address
-    {
-        font-style: normal;
+        font-size: 14px;
+        letter-spacing: 1px;
         text-align: center;
         
-        margin: 0px;
+        width: 800px;
+        margin: 10% auto 0px auto;
+        padding: 0px;
     }
-    
-    footer p
-    {
-        text-align: center;
-        
-        margin: 0px;
-    }
-    
 }
