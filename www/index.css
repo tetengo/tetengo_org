@@ -79,9 +79,9 @@
         color: #404040;
         
         background: #E4E4E4;
-        background-image: url('./images/image-title.png');
+        background-image: url('./images/item-title.png');
         
-        width: 464px;
+        width: 488px;
         height: 96px;
     }
     
@@ -109,7 +109,7 @@
         color: #F8E0E0;
         font-size: 16px;
         font-weight: bold;
-        letter-spacing: 2px;
+        letter-spacing: 1px;
         text-transform: uppercase;
         text-align: center;
         
@@ -117,7 +117,7 @@
         background-image: url('./images/download.png');
         background-repeat: no-repeat;
         
-        width: 160px;
+        width: 136px;
         height: 96px;
     }
     
