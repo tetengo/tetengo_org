@@ -36,6 +36,11 @@
         border: none;
     }
     
+    header
+    {
+        margin: 0px 0px 192px 0px;
+    }
+    
     h1
     {
         display: none;
@@ -58,7 +63,7 @@
         text-align: center;
         
         width: 800px;
-        margin: 15% auto 5% auto;
+        margin: 32px auto;
         padding: 0px;
     }
     
@@ -128,7 +133,7 @@
     
     div.download a
     {
-        color: #F8E0E4;
+        color: #FFF0F8;
         
         background: transparent;
     }
@@ -181,7 +186,7 @@
         text-align: center;
         
         width: 800px;
-        margin: 10% auto 0px auto;
+        margin: 32px auto 0px auto;
         padding: 0px;
     }
 }
