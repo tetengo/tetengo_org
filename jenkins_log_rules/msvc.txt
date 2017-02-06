@@ -1,3 +1,0 @@
-error  /error [A-Z0-9]+:/
-warn   /warning [A-Z0-9]+:/
-warn   /warning in/
