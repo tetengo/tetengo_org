@@ -12,9 +12,6 @@
         font-family: "Lucida Grande", "Verdana", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
         
         background: #FFFFFF;
-        background-image: url('./images/logo.png');
-        background-position: 10% 10%;
-        background-repeat: no-repeat;
     }
     
     a, a:visited
@@ -38,7 +35,14 @@
     
     header
     {
-        margin: 0px 0px 192px 0px;
+        background-image: url('./images/logo.png');
+        background-position: 52px;
+        background-repeat: no-repeat;
+        
+        width: 800px;
+        height: 128px;
+        margin: 32px auto;
+        padding: 0px;
     }
     
     h1
@@ -55,7 +59,8 @@
         
         background: transparent;
         
-        margin: 16px 32px;
+        width: 696px;
+        margin: 0px auto 0px auto;
     }
     
     article
