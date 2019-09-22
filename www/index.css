@@ -120,7 +120,6 @@
         font-size: 16px;
         font-weight: bold;
         letter-spacing: 1px;
-        text-transform: uppercase;
         text-align: center;
         
         background: #E04050;
@@ -133,7 +132,14 @@
     
     div.download ul
     {
-        margin: 38px auto;
+        margin: 16px auto;
+    }
+    
+    div.download ul ul
+    {
+        font-size: 14px;
+        
+        margin: 8px auto;
     }
     
     div.download a
