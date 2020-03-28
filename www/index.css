@@ -1,203 +1,137 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 
 /*
     Stylesheet for www.tetengo.org
-    Copyright (C) 2007-2019 kaoru
+    Copyright (C) 2007-2020 kaoru
 */
 
 @media screen
 {
     body
     {
-        font-family: "Lucida Grande", "Verdana", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+        color: #E04040;
+        font-family: "Century Gothic", "BIZ UDゴシック", sans-serif;
+        font-size: 16px;
         
+        padding: 0px;
+        margin: 0px;
         background: #FFFFFF;
+        background-image: url("images/back.svg");
+        background-repeat: no-repeat;
     }
     
-    a, a:visited
+    a
     {
-        color: #4040FF;
+        color: #4040E0;
         text-decoration: none;
-        
-        background: transparent;
     }
     
     a:hover
     {
         text-decoration: underline;
-        text-shadow: 0px 0px 0.5px #FFFFFF;
-    }
-    
-    a img
-    {
-        border: none;
     }
     
     header
     {
-        background-image: url('./images/logo.png');
-        background-position: 52px;
-        background-repeat: no-repeat;
-        
-        width: 800px;
-        height: 128px;
-        margin: 32px auto;
-        padding: 0px;
+        margin: 8px 16px;
     }
     
-    h1
+    header h1
     {
         display: none;
     }
     
-    nav
+    section#description
     {
-        color: #404040;
-        font-size: 14px;
-        letter-spacing: 2px;
-        text-align: right;
+        color: #FFFFFF;
         
-        background: transparent;
+        width: 480px;
         
-        width: 696px;
-        margin: 0px auto 0px auto;
+        margin: 400px 16px 8px 84px;
     }
     
-    article
+    section#description a
     {
-        text-align: center;
-        
-        width: 800px;
-        margin: 32px auto;
-        padding: 0px;
+        color: #FFFFFF;
     }
     
-    .box
+    section#description p
     {
-        display: inline-block;
-        
-        text-align: left;
-        vertical-align: middle;
-        
-        margin: 4px;
-        padding: 16px;
-        overflow: hidden;
-    }
-    
-    div.item-title
-    {
-        color: #404040;
-        
-        background: #E4E4E4;
-        background-image: url('./images/item-title.png');
-        
-        width: 488px;
-        height: 96px;
-    }
-    
-    h2
-    {
-        font-size: 18px;
-        letter-spacing: 2px;
-        
-        margin: 0px 0px 8px 0px;
-        padding: 0px;
-    }
-    
-    p
-    {
-        font-size: 14px;
         text-align: justify;
-        text-justify: newspaper;
         
-        margin: 0px 0px 0px 8px;
-        padding: 0px;
+        margin: 16px 0px;
     }
     
-    div.download
+    section#description ul
     {
-        color: #F8E0E0;
-        font-size: 16px;
+        margin: 16px 0px;
+        padding: 0px 0px 0px 20px;
+    }
+    
+    section#description span.details
+    {
+        font-size: 12px;
+    }
+    
+    section#links
+    {
+        position: absolute;
+        top: 20px;
+        left: 580px;
+        width: 360px;
+        height: 700px;
+    }
+    
+    section#links a
+    {
+        color: #FFFFFF;
+    }
+    
+    section#links ul
+    {
+        color: #FFFFFF;
+        font-size: 18px;
         font-weight: bold;
-        letter-spacing: 1px;
         text-align: center;
+        list-style-type: none;
         
-        background: #E04050;
-        background-image: url('./images/download.png');
-        background-repeat: no-repeat;
-        
-        width: 136px;
-        height: 96px;
-    }
-    
-    div.download ul
-    {
-        margin: 16px auto;
-    }
-    
-    div.download ul ul
-    {
-        font-size: 14px;
-        
-        margin: 8px auto;
-    }
-    
-    div.download a
-    {
-        color: #FFF0F8;
-        
-        background: transparent;
-    }
-    
-    ul
-    {
         margin: 0px;
         padding: 0px;
     }
     
-    div.screenshot
+    section#links ul ul
     {
-        background: #E4E4E4;
+        font-size: 16px;
+        font-weight: normal;
         
-        width: 696px;
-        height: 96px;
-        padding: 0px;
+        margin: 8px 0px;
     }
     
-    div.commands ul li.box
+    section#links li#download
     {
-        color: #404040;
-        font-size: 14px;
-        letter-spacing: 1px;
-        
-        background: #E4E4E4;
-        background-image: url('./images/command.png');
-        background-repeat: no-repeat;
-        
-        width: 136px;
-        height: 64px;
+        margin: 56px 160px 0px 0px;
     }
     
-    ul ul
+    section#links li#documents
     {
-        font-size: 13px;
-        letter-spacing: 0px;
-        
-        margin: 0px 12px;
-    }
-    article ul
-    {
-        list-style-type: none;
+        margin: 168px 0px 0px 160px;
     }
     
+    section#links li#github
+    {
+        margin: 224px 16px 0px 140px;
+    }
+    
+    section#links *
+    {
+    }
     footer
     {
-        font-size: 14px;
-        letter-spacing: 1px;
-        text-align: center;
+        text-align: right;
         
-        width: 800px;
-        margin: 32px auto 0px auto;
-        padding: 0px;
+        position: absolute;
+        top: 816px;
+        left: 0px;
+        width: 936px;
     }
 }
