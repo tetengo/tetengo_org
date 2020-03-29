@@ -5,7 +5,7 @@
     Copyright (C) 2007-2020 kaoru
 */
 
-@media screen and (min-width: 750px)
+@media screen and (min-width: 705px)
 {
     body
     {
@@ -72,7 +72,7 @@
     }
 }
 
-@media screen and (min-width: 1000px)
+@media screen and (min-width: 940px)
 {
     body
     {
@@ -171,7 +171,7 @@
     }
 }
 
-@media screen and (min-width: 750px) and (max-width: 1000px)
+@media screen and (min-width: 705px) and (max-width: 940px)
 {
     body
     {
