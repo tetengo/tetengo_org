@@ -40,6 +40,11 @@
         color: #FFFFFF;
     }
     
+    section#description a
+    {
+        color: #FFFFFF;
+    }
+    
     section#description p
     {
         text-align: justify;
@@ -48,6 +53,11 @@
     section#description ul
     {
         text-align: justify;
+    }
+    
+    section#links a
+    {
+        color: #FFFFFF;
     }
     
     section#links ul
@@ -76,24 +86,19 @@
 {
     body
     {
-        font-size: 16px;
+        font-size: 18px;
     }
     
     header
     {
-        margin: 8px 16px;
+        margin: 20px 16px;
     }
     
     section#description
     {
-        width: 480px;
+        width: 520px;
         
-        margin: 400px 16px 8px 84px;
-    }
-    
-    section#description a
-    {
-        color: #FFFFFF;
+        margin: 380px 16px 8px 80px;
     }
     
     section#description p
@@ -104,12 +109,12 @@
     section#description ul
     {
         margin: 16px 0px;
-        padding: 0px 0px 0px 20px;
+        padding: 0px 0px 0px 32px;
     }
     
     section#description span.details
     {
-        font-size: 12px;
+        font-size: 14px;
     }
     
     section#links
@@ -121,19 +126,14 @@
         height: 700px;
     }
     
-    section#links a
-    {
-        color: #FFFFFF;
-    }
-    
     section#links ul
     {
-        font-size: 18px;
+        font-size: 24px;
     }
     
     section#links ul ul
     {
-        font-size: 16px;
+        font-size: 18px;
         
         margin: 8px 0px;
     }
@@ -141,7 +141,7 @@
     section#links li#download
     {
         position: absolute;
-        top: 60px;
+        top: 55px;
         left: 0px;
         width: 200px;
     }
@@ -165,13 +165,115 @@
     footer
     {
         position: absolute;
-        top: 816px;
+        top: 818px;
         left: 0px;
         width: 940px;
     }
 }
 
-@media screen and (min-width: 705px) and (max-width: 940px)
+@media screen and (min-width: 846px) and (max-width: 940px)
+{
+    body
+    {
+        font-size: 24px;
+        
+        background-size: 900px;
+    }
+    
+    header
+    {
+        margin: 18px 8px;
+    }
+    
+    section#description
+    {
+        font-size: 24px;
+        
+        width: 550px;
+        
+        margin: 320px 16px 8px 20px;
+    }
+    
+    section#description p
+    {
+        line-height: 1;
+        
+        margin: 12px 0px;
+    }
+    
+    section#description ul
+    {
+        line-height: 1;
+        
+        margin: 8px 0px;
+        padding: 0px 0px 0px 20px;
+    }
+    
+    section#description span.details
+    {
+        font-size: 20px;
+    }
+    
+    section#links
+    {
+        position: absolute;
+        top: 18px;
+        left: 522px;
+        width: 324px;
+        height: 630px;
+    }
+    
+    section#links ul
+    {
+        font-size: 28px;
+    }
+    
+    section#links ul ul
+    {
+        font-size: 24px;
+        
+        margin: 8px 0px;
+    }
+    
+    section#links li#download
+    {
+        position: absolute;
+        top: 40px;
+        left: 0px;
+        width: 180px;
+    }
+    
+    section#links li#documents
+    {
+        position: absolute;
+        top: 250px;
+        left: 144px;
+        width: 180px;
+    }
+    
+    section#links li#github
+    {
+        position: absolute;
+        top: 490px;
+        left: 125px;
+        width: 180px;
+    }
+    
+    span.hidden_on_small_device
+    {
+        display: none;
+    }
+    
+    footer
+    {
+        position: absolute;
+        top: 726px;
+        left: 0px;
+        width: 846px;
+    }
+}
+
+@media screen and (min-width: 705px) and (max-width: 846px)
 {
     body
     {
@@ -182,7 +284,7 @@
     
     header
     {
-        margin: 4px 8px;
+        margin: 15px 8px;
     }
     
     section#description
@@ -192,11 +294,6 @@
         width: 470px;
         
         margin: 270px 16px 8px 20px;
-    }
-    
-    section#description a
-    {
-        color: #FFFFFF;
     }
     
     section#description p
@@ -216,7 +313,7 @@
     
     section#description span.details
     {
-        font-size: 14px;
+        font-size: 16px;
     }
     
     section#links
@@ -226,11 +323,6 @@
         left: 435px;
         width: 268px;
         height: 524px;
-    }
-    
-    section#links a
-    {
-        color: #FFFFFF;
     }
     
     section#links ul
@@ -277,7 +369,7 @@
     footer
     {
         position: absolute;
-        top: 630px;
+        top: 600px;
         left: 0px;
         width: 705px;
     }
