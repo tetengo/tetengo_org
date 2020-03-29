@@ -167,7 +167,7 @@
         position: absolute;
         top: 816px;
         left: 0px;
-        width: 936px;
+        width: 940px;
     }
 }
 
@@ -279,6 +279,37 @@
         position: absolute;
         top: 630px;
         left: 0px;
-        width: 710px;
+        width: 705px;
     }
 }
+
+@media screen and (max-width: 705px)
+{
+    body
+    {
+        color: #404040;
+        font-family: "Century Gothic", "BIZ UDゴシック", sans-serif;
+        font-size: 24px;
+        
+        padding: 24px;
+        margin: 0px;
+        background: #FFFFFF;
+    }
+    
+    a
+    {
+        color: #E04040;
+        text-decoration: none;
+    }
+    
+    a:hover
+    {
+        text-decoration: underline;
+    }
+    
+    h1
+    {
+        margin: 16px 0px;
+    }
+}
+
