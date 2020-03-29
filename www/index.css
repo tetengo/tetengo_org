@@ -109,17 +109,26 @@
     
     section#links li#download
     {
-        margin: 56px 160px 0px 0px;
+        position: absolute;
+        top: 60px;
+        left: 0px;
+        width: 200px;
     }
     
     section#links li#documents
     {
-        margin: 168px 0px 0px 160px;
+        position: absolute;
+        top: 290px;
+        left: 160px;
+        width: 200px;
     }
     
     section#links li#github
     {
-        margin: 224px 16px 0px 140px;
+        position: absolute;
+        top: 560px;
+        left: 140px;
+        width: 200px;
     }
     
     section#links *
