@@ -64,6 +64,8 @@
     
     section#description ul
     {
+        text-align: justify;
+        
         margin: 16px 0px;
         padding: 0px 0px 0px 20px;
     }
