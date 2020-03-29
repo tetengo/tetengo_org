@@ -5,13 +5,12 @@
     Copyright (C) 2007-2020 kaoru
 */
 
-@media screen
+@media screen and (min-width: 750px)
 {
     body
     {
         color: #E04040;
         font-family: "Century Gothic", "BIZ UDゴシック", sans-serif;
-        font-size: 16px;
         
         padding: 0px;
         margin: 0px;
@@ -31,11 +30,6 @@
         text-decoration: underline;
     }
     
-    header
-    {
-        margin: 8px 16px;
-    }
-    
     header h1
     {
         display: none;
@@ -44,7 +38,54 @@
     section#description
     {
         color: #FFFFFF;
+    }
+    
+    section#description p
+    {
+        text-align: justify;
+    }
+    
+    section#description ul
+    {
+        text-align: justify;
+    }
+    
+    section#links ul
+    {
+        color: #FFFFFF;
+        font-weight: bold;
+        text-align: center;
+        list-style-type: none;
         
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    section#links ul ul
+    {
+        font-weight: normal;
+    }
+    
+    footer
+    {
+        text-align: right;
+    }
+}
+
+@media screen and (min-width: 1000px)
+{
+    body
+    {
+        font-size: 16px;
+    }
+    
+    header
+    {
+        margin: 8px 16px;
+    }
+    
+    section#description
+    {
         width: 480px;
         
         margin: 400px 16px 8px 84px;
@@ -57,15 +98,11 @@
     
     section#description p
     {
-        text-align: justify;
-        
         margin: 16px 0px;
     }
     
     section#description ul
     {
-        text-align: justify;
-        
         margin: 16px 0px;
         padding: 0px 0px 0px 20px;
     }
@@ -91,20 +128,12 @@
     
     section#links ul
     {
-        color: #FFFFFF;
         font-size: 18px;
-        font-weight: bold;
-        text-align: center;
-        list-style-type: none;
-        
-        margin: 0px;
-        padding: 0px;
     }
     
     section#links ul ul
     {
         font-size: 16px;
-        font-weight: normal;
         
         margin: 8px 0px;
     }
@@ -133,16 +162,123 @@
         width: 200px;
     }
     
-    section#links *
-    {
-    }
     footer
     {
-        text-align: right;
-        
         position: absolute;
         top: 816px;
         left: 0px;
         width: 936px;
+    }
+}
+
+@media screen and (min-width: 750px) and (max-width: 1000px)
+{
+    body
+    {
+        font-size: 24px;
+        
+        background-size: 750px;
+    }
+    
+    header
+    {
+        margin: 4px 8px;
+    }
+    
+    section#description
+    {
+        font-size: 20px;
+        
+        width: 470px;
+        
+        margin: 270px 16px 8px 20px;
+    }
+    
+    section#description a
+    {
+        color: #FFFFFF;
+    }
+    
+    section#description p
+    {
+        line-height: 1;
+        
+        margin: 8px 0px;
+    }
+    
+    section#description ul
+    {
+        line-height: 1;
+        
+        margin: 8px 0px;
+        padding: 0px 0px 0px 20px;
+    }
+    
+    section#description span.details
+    {
+        font-size: 14px;
+    }
+    
+    section#links
+    {
+        position: absolute;
+        top: 15px;
+        left: 435px;
+        width: 268px;
+        height: 524px;
+    }
+    
+    section#links a
+    {
+        color: #FFFFFF;
+    }
+    
+    section#links ul
+    {
+        font-size: 24px;
+    }
+    
+    section#links ul ul
+    {
+        font-size: 20px;
+        
+        margin: 0px;
+    }
+    
+    section#links li#download
+    {
+        position: absolute;
+        top: 35px;
+        left: 0px;
+        width: 150px;
+    }
+    
+    section#links li#documents
+    {
+        position: absolute;
+        top: 210px;
+        left: 120px;
+        width: 150px;
+    }
+    
+    section#links li#github
+    {
+        position: absolute;
+        top: 405px;
+        left: 105px;
+        width: 150px;
+    }
+    
+    span.hidden_on_small_device
+    {
+        display: none;
+    }
+    
+    footer
+    {
+        position: absolute;
+        top: 630px;
+        left: 0px;
+        width: 710px;
     }
 }
