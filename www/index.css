@@ -5,7 +5,7 @@
     Copyright (C) 2007-2020 kaoru
 */
 
-@media screen and (min-width: 705px)
+@media only screen and (min-width: 705px)
 {
     body
     {
@@ -82,7 +82,7 @@
     }
 }
 
-@media screen and (min-width: 940px)
+@media only screen and (min-width: 1040px)
 {
     body
     {
@@ -171,7 +171,103 @@
     }
 }
 
-@media screen and (min-width: 846px) and (max-width: 940px)
+@media only screen and (min-width: 940px) and (max-width: 1040px)
+{
+    body
+    {
+        font-size: 24px;
+    }
+    
+    header
+    {
+        margin: 20px 16px;
+    }
+    
+    section#description
+    {
+        width: 560px;
+        
+        margin: 360px 16px 8px 50px;
+    }
+    
+    section#description p
+    {
+        line-height: 1;
+        
+        margin: 8px 0px;
+    }
+    
+    section#description ul
+    {
+        margin: 16px 0px;
+        padding: 0px 0px 0px 32px;
+    }
+    
+    section#description span.details
+    {
+        font-size: 18px;
+    }
+    
+    section#links
+    {
+        position: absolute;
+        top: 20px;
+        left: 580px;
+        width: 360px;
+        height: 700px;
+    }
+    
+    section#links ul
+    {
+        font-size: 28px;
+    }
+    
+    section#links ul ul
+    {
+        font-size: 24px;
+        
+        margin: 8px 0px;
+    }
+    
+    section#links li#download
+    {
+        position: absolute;
+        top: 50px;
+        left: 0px;
+        width: 200px;
+    }
+    
+    section#links li#documents
+    {
+        position: absolute;
+        top: 285px;
+        left: 160px;
+        width: 200px;
+    }
+    
+    section#links li#github
+    {
+        position: absolute;
+        top: 555px;
+        left: 140px;
+        width: 200px;
+    }
+    
+    span.hidden_on_small_device
+    {
+        display: none;
+    }
+    
+    footer
+    {
+        position: absolute;
+        top: 818px;
+        left: 0px;
+        width: 940px;
+    }
+}
+
+@media only screen and (min-width: 846px) and (max-width: 940px)
 {
     body
     {
@@ -273,7 +369,7 @@
     }
 }
 
-@media screen and (min-width: 705px) and (max-width: 846px)
+@media only screen and (min-width: 705px) and (max-width: 846px)
 {
     body
     {
@@ -375,7 +471,7 @@
     }
 }
 
-@media screen and (max-width: 705px)
+@media only screen and (max-width: 705px)
 {
     body
     {
