@@ -5,12 +5,15 @@
     Copyright (C) 2007-2020 kaoru
 */
 
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Kosugi+Maru&display=swap');
+
 @media only screen and (min-width: 705px)
 {
     body
     {
         color: #E04040;
-        font-family: "Century Gothic", "BIZ UDゴシック", sans-serif;
+        font-family: "Comfortaa", "Kosugi Maru", sans-serif;
         
         padding: 0px;
         margin: 0px;
@@ -40,19 +43,14 @@
         color: #FFFFFF;
     }
     
+    section#description span.heading
+    {
+        font-weight: bold;
+    }
+    
     section#description a
     {
         color: #FFFFFF;
-    }
-    
-    section#description p
-    {
-        text-align: justify;
-    }
-    
-    section#description ul
-    {
-        text-align: justify;
     }
     
     section#links a
@@ -96,19 +94,32 @@
     
     section#description
     {
-        width: 520px;
+        width: 540px;
         
-        margin: 380px 16px 8px 80px;
+        margin: 250px 16px 8px 60px;
     }
     
     section#description p
     {
-        margin: 16px 0px;
+        margin: 8px 0px;
+    }
+    
+    section#description p#version
+    {
+        font-size: 36px;
+        text-align: right;
+        
+        margin: 0px 0px 80px 0px;
+    }
+    
+    section#description p#lisence
+    {
+        margin: 24px 0px;
     }
     
     section#description ul
     {
-        margin: 16px 0px;
+        margin: 8px 0px;
         padding: 0px 0px 0px 32px;
     }
     
@@ -169,13 +180,23 @@
         left: 0px;
         width: 940px;
     }
+    
+    span#screensize:after
+    {
+        font-size: 8px;
+    }
+    
+    span#screensize:after
+    {
+        content: "(L)";
+    }
 }
 
 @media only screen and (min-width: 940px) and (max-width: 1040px)
 {
     body
     {
-        font-size: 24px;
+        font-size: 20px;
     }
     
     header
@@ -185,9 +206,9 @@
     
     section#description
     {
-        width: 560px;
+        width: 580px;
         
-        margin: 360px 16px 8px 50px;
+        margin: 270px 16px 8px 16px;
     }
     
     section#description p
@@ -197,15 +218,35 @@
         margin: 8px 0px;
     }
     
+    section#description p#version
+    {
+        font-size: 32px;
+        text-align: right;
+        
+        margin: 0px 0px 60px 0px;
+    }
+    
+    section#description p#lisence
+    {
+        text-align: center;
+        
+        margin: 24px 0px;
+    }
+    
     section#description ul
     {
-        margin: 16px 0px;
+        margin: 8px 0px;
         padding: 0px 0px 0px 32px;
+    }
+    
+    section#description ul li
+    {
+        margin: 0px;
     }
     
     section#description span.details
     {
-        font-size: 18px;
+        font-size: 16px;
     }
     
     section#links
@@ -226,7 +267,7 @@
     {
         font-size: 24px;
         
-        margin: 8px 0px;
+        margin: 0px 0px;
     }
     
     section#links li#download
@@ -265,13 +306,23 @@
         left: 0px;
         width: 940px;
     }
+    
+    span#screensize:after
+    {
+        font-size: 8px;
+    }
+    
+    span#screensize:after
+    {
+        content: "(M)";
+    }
 }
 
 @media only screen and (min-width: 846px) and (max-width: 940px)
 {
     body
     {
-        font-size: 24px;
+        font-size: 18px;
         
         background-size: 900px;
     }
@@ -283,31 +334,46 @@
     
     section#description
     {
-        font-size: 24px;
+        font-size: 18px;
         
-        width: 550px;
+        width: 540px;
         
-        margin: 320px 16px 8px 20px;
+        margin: 260px 16px 8px 20px;
     }
     
     section#description p
     {
         line-height: 1;
         
-        margin: 12px 0px;
+        margin: 8px 0px;
+    }
+    
+    section#description p#version
+    {
+        font-size: 32px;
+        text-align: right;
+        
+        margin: 0px 0px 40px 0px;
+    }
+    
+    section#description p#lisence
+    {
+        text-align: center;
+        
+        margin: 24px 0px;
     }
     
     section#description ul
     {
         line-height: 1;
         
-        margin: 8px 0px;
+        margin: 0px 0px;
         padding: 0px 0px 0px 20px;
     }
     
     section#description span.details
     {
-        font-size: 20px;
+        font-size: 16px;
     }
     
     section#links
@@ -328,7 +394,7 @@
     {
         font-size: 24px;
         
-        margin: 8px 0px;
+        margin: 0px 0px;
     }
     
     section#links li#download
@@ -367,13 +433,23 @@
         left: 0px;
         width: 846px;
     }
+    
+    span#screensize:after
+    {
+        font-size: 8px;
+    }
+    
+    span#screensize:after
+    {
+        content: "(S)";
+    }
 }
 
 @media only screen and (min-width: 705px) and (max-width: 846px)
 {
     body
     {
-        font-size: 24px;
+        font-size: 18px;
         
         background-size: 750px;
     }
@@ -385,11 +461,11 @@
     
     section#description
     {
-        font-size: 20px;
+        font-size: 18px;
         
-        width: 470px;
+        width: 450px;
         
-        margin: 270px 16px 8px 20px;
+        margin: 200px 16px 8px 20px;
     }
     
     section#description p
@@ -397,6 +473,21 @@
         line-height: 1;
         
         margin: 8px 0px;
+    }
+    
+    section#description p#version
+    {
+        font-size: 28px;
+        text-align: right;
+        
+        margin: 0px 0px 45px 0px;
+    }
+    
+    section#description p#lisence
+    {
+        text-align: center;
+        
+        margin: 24px 0px;
     }
     
     section#description ul
@@ -409,7 +500,7 @@
     
     section#description span.details
     {
-        font-size: 16px;
+        font-size: 14px;
     }
     
     section#links
@@ -469,6 +560,16 @@
         left: 0px;
         width: 705px;
     }
+    
+    span#screensize:after
+    {
+        font-size: 8px;
+    }
+    
+    span#screensize:after
+    {
+        content: "(SS)";
+    }
 }
 
 @media only screen and (max-width: 705px)
@@ -476,7 +577,7 @@
     body
     {
         color: #404040;
-        font-family: "Century Gothic", "BIZ UDゴシック", sans-serif;
+        font-family: "Comfortaa", "Kosugi Maru", sans-serif;
         font-size: 24px;
         
         padding: 24px;
@@ -498,6 +599,31 @@
     h1
     {
         margin: 16px 0px;
+    }
+    
+    p#version
+    {
+        font-size: 32px;
+    }
+    
+    section#description li
+    {
+        margin: 12px 0px;
+    }
+    
+    span.heading
+    {
+        font-weight: bold;
+    }
+    
+    span#screensize:after
+    {
+        font-size: 8px;
+    }
+    
+    span#screensize:after
+    {
+        content: "(XS)";
     }
 }
 
