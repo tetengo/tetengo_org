@@ -1,0 +1,217 @@
+@charset "UTF-8";
+/*
+    Stylesheet for www.tetengo.org
+    
+    Copyright (C) 2019-2020 kaoru
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=EB+Garamond&family=Kosugi&display=swap');
+
+
+@media only screen and (min-width: 640px) and (min-width: 640px)
+{
+    *
+    {
+        box-sizing: border-box;
+    }
+    
+    body
+    {
+        color: #000000;
+        font-family: "EB Garamond", "Kosugi", serif;
+        font-size: 1.5vmin;
+        
+        background-color: #209060;
+        
+        margin: 0vmin;
+        padding: 0vmin;
+    }
+    
+    a
+    {
+        text-decoration: none;
+    }
+    
+    a:hover
+    {
+        text-decoration: underline;
+    }
+    
+    ul, li
+    {
+        margin: 0vmin;
+        padding: 0vmin;
+    }
+    
+    li
+    {
+        list-style-type: none;
+    }
+    
+    p
+    {
+        margin: 0vmin;
+        padding: 0vmin;
+    }
+    
+    nav#language
+    {
+        font-size: 2vmin;
+        
+        position: absolute;
+        left: 2vmin;
+        top: 2vmin;
+    }
+    
+    nav#language a
+    {
+        color: #000000;
+    }
+    
+    heading
+    {
+        position: absolute;
+        left: 15vmin;
+        top: 10vmin;
+    }
+    
+    h1
+    {
+        font-family: "Crimson Text", serif;
+        font-size: 9vmin;
+        font-weight: normal;
+        letter-spacing: 0.5vmin;
+        
+        margin: 0vmin;
+    }
+    
+    p#subtitle, p#version
+    {
+        font-size: 3vmin;
+    }
+    
+    article#features
+    {
+        z-index: -1;
+        
+        background-color: #FFFFFF;
+        
+        position: absolute;
+        left: 0vmin;
+        top: 0vmin;
+        width: 40vmin;
+        height: 100vh;
+    }
+    
+    p.item-title
+    {
+        font-size: 4.5vmin;
+        vertical-align: middle;
+        
+        border-color: #209060;
+        border-style: none none none solid;
+        border-width: 2vmin;
+        
+        padding: 0vmin 0vmin 0vmin 2vmin;
+        
+        position: absolute;
+        left: 15vmin;
+    }
+    
+    p#json-title, ul#json-description
+    {
+        top: 38vmin;
+    }
+    
+    p#lattice-title, ul#lattice-description
+    {
+        top: 50vmin;
+    }
+    
+    p#text-title, ul#text-description
+    {
+        top: 62vmin;
+    }
+    
+    p#trie-title, ul#trie-description
+    {
+        top: 74vmin;
+    }
+    
+    ul.item-description, ul.item-description a
+    {
+        color: #FFFFFF;
+    }
+    
+    ul.item-description
+    {
+        font-size: 2.5vmin;
+        
+        transform: scaleX(0.9);
+        
+        position: absolute;
+        left: 40vmin;
+        width: 60vmin;
+        height: 7.5vmin;
+    }
+    
+    p#license, p#license a
+    {
+        color: #FFFFFF;
+    }
+    
+    p#license
+    {
+        font-size: 2.5vmin;
+        text-align: right;
+        
+        position: absolute;
+        left: 42vmin;
+        top: 90vmin;
+        width: 50vmin;
+    }
+    
+    nav#links li, nav#links li a
+    {
+        color: #FFFFFF;
+    }
+    
+    nav#links li
+    {
+        font-size: 3vmin;
+        
+        position: absolute;
+        top: 4vmin;
+    }
+    
+    li#download
+    {
+        left: 47vmin;
+    }
+    
+    li#documents
+    {
+        left: 67vmin;
+    }
+    
+    li#github
+    {
+        left: 87vmin;
+    }
+    
+    footer, footer a
+    {
+        color: #FFFFFF;
+    }
+    
+    footer
+    {
+        font-size: 2.5vmin;
+        text-align: right;
+        
+        position: absolute;
+        left: 42vmin;
+        top: 94vmin;
+        width: 50vmin;
+    }
+}
