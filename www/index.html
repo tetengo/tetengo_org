@@ -2,94 +2,74 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
-  <link rel="Stylesheet" type="text/css" href="index.css"/>
+  <link rel="Stylesheet" type="text/css" href="style.css"/>
   <title>tetengo.</title>
 </head>
-<body>
-  <header>
+  <nav id="language"><a href="index.ja.html">日本語</a></nav>
+  <heading>
     <h1>tetengo.</h1>
-    <nav>
-      <a href="index.ja.html">日本語</a>
-    </nav>
-  </header>
-  <article>
-    <section id="description">
-      <p id="version">
-        ver. 1.2.0
-      </p>
-      <p>
-        This library set for C and C++ provides the following features:
-      </p>
-      <ul>
-        <li>
-          <span class="heading">Json</span> -
-          <span class="details">
-            A pull-style JSON parser library based on
-            <a href="https://tools.ietf.org/html/rfc8259">RFC 8259</a>.
-          </span>
-        </li>
-        <li>
-          <span class="heading">Lattice</span> -
-          <span class="details">
-            An implementation of the Viterbi and the A* (A star) algorithm.
-          </span>
-        </li>
-        <li>
-          <span class="heading">Text</span> -
-          <span class="details">
-            A text processing library.
-            This library now provides a grapheme splitter conforming to
-            <a href="https://unicode.org/versions/Unicode13.0.0/">Unicode 13.0.0</a>.
-          </span>
-        </li>
-        <li>
-          <span class="heading">Trie</span> -
-          <span class="details">
-            An associative data structure for common prefix search.
-            Implemented with double array.
-          </span>
-        </li>
-      </ul>
-      <p id="lisence">
-        Licensed under <a href="https://github.com/kaorut/tetengo/blob/master/COPYING">the MIT license</a>.
-      </p>
-    </section>
-    <section id="links">
-      <ul>
-        <li id="download">
-          <a href="https://github.com/kaorut/tetengo/releases/tag/v1.2.0">Download</a>
-          <ul>
-            <li>
-              <a href="https://github.com/kaorut/tetengo/releases/download/v1.2.0/tetengo-1.2.0.tar.bz2">
-                <span class="hidden_on_small_device">Source</span> for Linux
-              </a>
-            </li>
-            <li>
-              <a href="https://github.com/kaorut/tetengo/releases/download/v1.2.0/tetengo-windows-1.2.0.zip">
-                <span class="hidden_on_small_device">Binary</span> for Windows
-              </a>
-            </li>
-          </ul>
-        </li>
-        <li id="documents">
-          <a href="doc/index.html">Documents</a>
-          <ul>
-            <li><a href="doc/index.html">Reference</a></li>
-          </ul>
-        </li>
-        <li id="github">
-          <a href="https://github.com/kaorut/tetengo/">GitHub</a>
-          <ul>
-            <li><a href="https://github.com/kaorut/tetengo/issues">Issues</a></li>
-            <li><a href="https://github.com/kaorut/tetengo/actions">Actions</a></li>
-          </ul>
-        </li>
-      </ul>
-    </section>
+    <p id="subtitle">Library Set for C and C++</p>
+    <p id="version">Version 1.2.0</p>
+  </heading>
+  <article id="features">
+    <ul>
+      <li>
+        <p class="item-title" id="json-title">Json</p>
+        <ul class="item-description" id="json-description">
+          <li>
+            <p>
+              A pull-style JSON parser library based on <a href="https://tools.ietf.org/html/rfc8259">RFC 8259</a>.
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p class="item-title" id="lattice-title">Lattice</p>
+        <ul class="item-description" id="lattice-description">
+          <li>
+            <p>
+              An implementation of the Viterbi and the A* (A star) algorithm.
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p class="item-title" id="text-title">Text</p>
+        <ul class="item-description" id="text-description">
+          <li>
+            <p>
+              A text processing library.
+              This library now provides a grapheme splitter conforming to
+              <a href="https://unicode.org/versions/Unicode13.0.0/">Unicode 13.0.0</a>.
+            </p>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p class="item-title" id="trie-title">Trie</p>
+        <ul class="item-description" id="trie-description">
+          <li>
+            <p>
+              An associative data structure for common prefix search. Implemented with double array.
+            </p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p id="license">
+      Licensed under <a href="https://github.com/kaorut/tetengo/blob/master/COPYING">the MIT license</a>.
+    </p>
   </article>
+  <nav id="links">
+    <ul>
+      <li id="download"><a href="https://github.com/kaorut/tetengo/releases/tag/v1.2.0">Download</a></li>
+      <li id="documents"><a href="doc/index.html">Documents</a></li>
+      <li id="github"><a href="https://github.com/kaorut/tetengo/">GitHub</a></li>
+    </ul>
+  </nav>
   <footer>
-    Copyright &copy; 2007-2020 <a href="http://twitter.com/kaorut">kaoru</a>
-    <span id="screensize"></span>
+    <p>Copyright &copy; 2019-2020 <a href="http://twitter.com/kaorut">kaoru</a></p>
   </footer>
+<body>
 </body>
 </html>
