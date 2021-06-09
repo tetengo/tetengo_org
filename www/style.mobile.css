@@ -119,22 +119,27 @@
     
     p#json-title, ul#json-description
     {
-        top: 75vmin;
+        top: 74vmin;
     }
     
     p#lattice-title, ul#lattice-description
     {
-        top: 95vmin;
+        top: 90vmin;
+    }
+    
+    p#property-title, ul#property-description
+    {
+        top: 106vmin;
     }
     
     p#text-title, ul#text-description
     {
-        top: 115vmin;
+        top: 122vmin;
     }
     
     p#trie-title, ul#trie-description
     {
-        top: 135vmin;
+        top: 138vmin;
     }
     
     ul.item-description, ul.item-description a
@@ -144,14 +149,14 @@
     
     ul.item-description
     {
-        font-size: 4.5vmin;
+        font-size: 4.3vmin;
         text-align: justify;
         line-height: 1.1;
-        transform: scaleX(0.8);
+        transform: scaleX(0.85);
         
         position: absolute;
-        left: 32vmin;
-        width: 70vmin;
+        left: 35vmin;
+        width: 65vmin;
     }
     
     p#license, p#license a

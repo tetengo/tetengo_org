@@ -119,22 +119,27 @@
     
     p#json-title, ul#json-description
     {
-        top: 38vmin;
+        top: 37vmin;
     }
     
     p#lattice-title, ul#lattice-description
     {
-        top: 50vmin;
+        top: 47vmin;
+    }
+    
+    p#property-title, ul#property-description
+    {
+        top: 57vmin;
     }
     
     p#text-title, ul#text-description
     {
-        top: 62vmin;
+        top: 67vmin;
     }
     
     p#trie-title, ul#trie-description
     {
-        top: 74vmin;
+        top: 77vmin;
     }
     
     ul.item-description, ul.item-description a
