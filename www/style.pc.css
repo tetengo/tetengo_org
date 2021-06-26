@@ -15,7 +15,6 @@
     body
     {
         color: #000000;
-        font-family: "EB Garamond", "Kosugi", serif;
         font-size: 2vmin;
         
         background-color: #209060;
@@ -113,8 +112,13 @@
         
         padding: 0vmin 0vmin 0vmin 2vmin;
         
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        
         position: absolute;
         left: 15vmin;
+        height: 7.5vmin;
     }
     
     p#json-title, ul#json-description
@@ -151,6 +155,10 @@
     {
         font-size: 2.5vmin;
         text-align: justify;
+        
+        display: flex;
+        justify-content: left;
+        align-items: center;
         
         position: absolute;
         left: 45vmin;

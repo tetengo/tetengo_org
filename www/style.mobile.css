@@ -15,7 +15,6 @@
     body
     {
         color: #000000;
-        font-family: "EB Garamond", "Kosugi", serif;
         font-size: 2vmin;
         
         background-color: #209060;
@@ -111,10 +110,16 @@
         border-style: none none none solid;
         border-width: 3vmin;
         
+        margin: 3vmin 0vmin;
         padding: 0vmin 0vmin 0vmin 2vmin;
+        
+        display: flex;
+        justify-content: left;
+        align-items: center;
         
         position: absolute;
         left: 5vmin;
+        height: 10vmin;
     }
     
     p#json-title, ul#json-description
@@ -154,9 +159,14 @@
         line-height: 1.1;
         transform: scaleX(0.85);
         
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        
         position: absolute;
         left: 35vmin;
         width: 65vmin;
+        height: 16vmin;
     }
     
     p#license, p#license a
