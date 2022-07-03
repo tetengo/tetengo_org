@@ -1,0 +1,15 @@
+Content-Type: text/css;
+charset=UTF-8 @charset "UTF-8";
+@media only screen and (min-width:641px) {
+    /*
+    :root {
+    }
+    div#styleholder-pc {
+        background: var(--panel-background);
+    }
+    */
+}
+
+body {
+    background-image: url("background/06-08.jpg");
+}
