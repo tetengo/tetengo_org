@@ -179,12 +179,17 @@
     footer {
         color: var(--article-foreground-color);
         font-family: var(--article-description-font-family);
-        margin: 1em 0em;
+        margin: 1em 0em 2em 0em;
         padding: 0em max(2em, calc((100vw - var(--content-width)) / 2));
     }
-    footer p {
+    p#copyright {
         font-size: 80%;
         letter-spacing: 0.1em;
+        text-align: center;
+        margin: 0em;
+    }
+    p#background-provider {
+        font-size: 67%;
         text-align: center;
         margin: 0em;
     }
