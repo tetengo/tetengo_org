@@ -11,7 +11,7 @@
     }
     
     header {
-        background-image: url("background/nashi.jpg");
+        background-image: url("background/ichigo.jpg");
         /*
         background-image: url("background/ichigo.jpg");
         background-image: url("background/mikan.jpg");
@@ -21,7 +21,7 @@
     }
     
     article dt {
-        background: linear-gradient(120deg, rgba(160, 160, 32, 10%), rgba(160, 160, 32, 30%));
+        background: linear-gradient(120deg, rgba(255, 64, 96, 20%), rgba(255, 64, 96, 40%));
         /*
         background: linear-gradient(120deg, rgba(255, 64, 96, 20%), rgba(255, 64, 96, 40%));
         background: linear-gradient(120deg, rgba(255, 128, 32, 20%), rgba(255, 128, 32, 40%));

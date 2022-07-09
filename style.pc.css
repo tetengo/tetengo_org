@@ -26,10 +26,12 @@
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr, 1fr;
         gap: 2em;
+        border-bottom-left-radius: 50% 4em;
+        border-bottom-right-radius: 50% 4em;
         background-size: cover;
         background-position: center center;
-        margin: 0em;
-        --horizontal_padding: max(2em, calc((100vw - var(--content-width)) / 2));
+        margin: 0em -4em;
+        --horizontal_padding: max(2em, calc(4em + (100vw - var(--content-width)) / 2));
         padding: 1em var(--horizontal_padding) 6em var(--horizontal_padding);
     }
     nav#language,
@@ -139,7 +141,7 @@
         font-weight: bold;
         letter-spacing: 0.1em;
         line-height: 1;
-        box-shadow: 0.1em 0.05em 0.12em rgb(128, 128, 128);
+        box-shadow: 0.05em 0.05em 0.15em rgb(192, 192, 192);
         border-radius: 1em 2em;
         margin: 1em auto 0em 0em;
         padding: 1em 2em;
@@ -149,7 +151,7 @@
         line-height: 1;
         background-color: val(--background-color);
         border-radius: 1em 2em;
-        box-shadow: 0.2em 0.1em 0.25em rgb(128, 128, 128);
+        box-shadow: 0.05em 0.05em 0.15em rgb(192, 192, 192);
         margin: -1em 0em 2em 2em;
         padding: 1.5em 2em;
         z-index: 1;
