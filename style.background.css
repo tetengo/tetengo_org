@@ -1,15 +1,31 @@
-Content-Type: text/css;
-charset=UTF-8 @charset "UTF-8";
-@media only screen and (min-width:641px) {
-    /*
+    Content-Type: text/css;
+    charset=UTF-8 @charset "UTF-8";
+    @media only screen and (min-width:641px) {
+        /*
     :root {
     }
     div#styleholder-pc {
         background: var(--panel-background);
     }
     */
-}
-
-body {
-    background-image: url("background/06-08.jpg");
-}
+    }
+    
+    header {
+        background-image: url("background/nashi.jpg");
+        /*
+        background-image: url("background/ichigo.jpg");
+        background-image: url("background/mikan.jpg");
+        background-image: url("background/nashi.jpg");
+        background-image: url("background/suika.jpg");
+        */
+    }
+    
+    article dt {
+        background: linear-gradient(120deg, rgba(160, 160, 32, 10%), rgba(160, 160, 32, 30%));
+        /*
+        background: linear-gradient(120deg, rgba(255, 64, 96, 20%), rgba(255, 64, 96, 40%));
+        background: linear-gradient(120deg, rgba(255, 128, 32, 20%), rgba(255, 128, 32, 40%));
+        background: linear-gradient(120deg, rgba(160, 160, 32, 10%), rgba(160, 160, 32, 30%));
+        background: linear-gradient(120deg, rgba(128, 208, 255, 30%), rgba(128, 208, 255, 50%));
+        */
+    }

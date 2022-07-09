@@ -10,65 +10,58 @@
 
 <body onload="GridSwitcher.instance.onLoad()">
     <header>
-        <h1>tetengo.</h1>
+        <section id="logo">
+            <h1>tetengo.</h1>
+            <p id="description">Library Set for C and C++</p>
+        </section>
+        <nav id="links">
+            <p id="version">Version 1.7.0</p>
+            <p id="download"><a href="https://github.com/kaorut/tetengo/releases/tag/v1.7.0">Download</a></p>
+            <p id="license">
+                Licensed under <a href="https://github.com/kaorut/tetengo/blob/master/COPYING">the MIT license</a>
+            </p>
+            <ul>
+                <li><a href="doc/index.html">Documents</a></li>
+                <li><a href="https://github.com/kaorut/tetengo/">GitHub</a></li>
+            </ul>
+        </nav>
     </header>
-    <section>
-        <p>Library Set for C and C++</p>
-        <p>Version 1.7.0</p>
-        <p><a href="https://github.com/kaorut/tetengo/releases/tag/v1.7.0">Download</a></p>
-        <p>Licensed under <a href="https://github.com/kaorut/tetengo/blob/master/COPYING">the MIT license</a>.</p>
-    </section>
-    <nav>
-        <ul>
-            <li><a href="doc/index.html">Documents</a></li>
-            <li><a href="https://github.com/kaorut/tetengo/">GitHub</a></li>
-        </ul>
-    </nav>
     <article>
-        <ul>
-            <li>
-                <p><a href="https://www.tetengo.org/doc/namespacetetengo_1_1json.html">Json</a></p>
-                <ul>
-                    <li>
-                        A pull-style JSON parser library based on <a href="https://tools.ietf.org/html/rfc8259">RFC
-                        8259</a>.
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <p><a href="https://www.tetengo.org/doc/namespacetetengo_1_1lattice.html">Lattice</a></p>
-                <ul>
-                    <li>
-                        An implementation of the Viterbi and the A* (A star) algorithm.
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <p><a href="https://www.tetengo.org/doc/namespacetetengo_1_1property.html">Property</a></p>
-                <ul>
-                    <li>
-                        Platform-independent access to application settings.
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <p><a href="https://www.tetengo.org/doc/namespacetetengo_1_1text.html">Text</a></p>
-                <ul>
-                    <li>
-                        A grapheme splitter conforming to
-                        <a href="https://unicode.org/versions/Unicode13.0.0/">Unicode 13.0.0</a>, and a string encoding converter.
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <p><a href="https://www.tetengo.org/doc/namespacetetengo_1_1trie.html">Trie</a></p>
-                <ul>
-                    <li>
-                        An associative data structure for common prefix search. Implemented with double array.
-                    </li>
-                </ul>
-            </li>
-        </ul>
+        <h2>Features</h2>
+        <dl>
+            <dt><a href="https://www.tetengo.org/doc/namespacetetengo_1_1json.html">Json</a></dt>
+            <dd>
+                <p>
+                    A pull-style JSON parser library based on <a href="https://tools.ietf.org/html/rfc8259">RFC
+                    8259</a>.
+                </p>
+            </dd>
+            <dt><a href="https://www.tetengo.org/doc/namespacetetengo_1_1lattice.html">Lattice</a></dt>
+            <dd>
+                <p>
+                    An implementation of the Viterbi and the A* (A star) algorithm.
+                </p>
+            </dd>
+            <dt><a href="https://www.tetengo.org/doc/namespacetetengo_1_1property.html">Property</a></dt>
+            <dd>
+                <p>
+                    Platform-independent access to application settings.
+                </p>
+            </dd>
+            <dt><a href="https://www.tetengo.org/doc/namespacetetengo_1_1text.html">Text</a></dt>
+            <dd>
+                <p>
+                    A grapheme splitter conforming to <a href="https://unicode.org/versions/Unicode14.0.0/">Unicode
+                    14.0.0</a>, and a string encoding converter.
+                </p>
+            </dd>
+            <dt><a href="https://www.tetengo.org/doc/namespacetetengo_1_1trie.html">Trie</a></dt>
+            <dd>
+                <p>
+                    An associative data structure for common prefix search. Implemented with double array.
+                </p>
+            </dd>
+        </dl>
     </article>
     <footer>
         <p>Copyright &copy; 2019-2022 <a href="https://twitter.com/kaorut">kaoru</a></p>
