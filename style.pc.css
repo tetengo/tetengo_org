@@ -18,6 +18,7 @@
         background-color: val(--background-color);
         margin: 0em;
         padding: 0em;
+        overflow: hidden auto;
     }
     header {
         color: var(--header-foreground-color);
@@ -31,7 +32,7 @@
         background-size: cover;
         background-position: center center;
         margin: 0em -4em;
-        --horizontal_padding: max(2em, calc(4em + (100vw - var(--content-width)) / 2));
+        --horizontal_padding: max(6em, calc(4em + (100vw - var(--content-width)) / 2));
         padding: 1em var(--horizontal_padding) 6em var(--horizontal_padding);
     }
     nav#language,
