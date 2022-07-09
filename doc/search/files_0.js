@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['0namespace_2edox_0',['0namespace.dox',['../docsrc_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2json_2cpp_2include_2tetengo_2json_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2lattice_2cpp_2include_2tetengo_2lattice_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2platform__dependent_2cpp_2include_2tetengo_2platform__dependent_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2property_2cpp_2include_2tetengo_2property_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2text_2cpp_2include_2tetengo_2text_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2text_2cpp_2include_2tetengo_2text_2encoding_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2text_2cpp_2include_2tetengo_2text_2grapheme__splitting_20namespace_8dox.html',1,'(Global Namespace)'],['../library_2trie_2cpp_2include_2tetengo_2trie_20namespace_8dox.html',1,'(Global Namespace)']]]
+];

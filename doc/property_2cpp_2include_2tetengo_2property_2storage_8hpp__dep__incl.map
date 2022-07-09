@@ -1,0 +1,7 @@
+<map id="library/property/cpp/include/tetengo/property/storage.hpp" name="library/property/cpp/include/tetengo/property/storage.hpp">
+<area shape="rect" id="node1" title="A storage." alt="" coords="321,5,508,61"/>
+<area shape="rect" id="node2" href="$file__storage_8hpp.html" title="A file storage." alt="" coords="5,109,192,165"/>
+<area shape="rect" id="node3" href="$property_2cpp_2include_2tetengo_2property_2memory__storage_8hpp.html" title="A memory storage." alt="" coords="216,109,403,165"/>
+<area shape="rect" id="node4" href="$storage__proxy_8hpp.html" title="A storage proxy." alt="" coords="427,109,613,165"/>
+<area shape="rect" id="node5" href="$windows__registry__storage_8hpp.html" title="A Windows registry storage." alt="" coords="637,109,861,165"/>
+</map>
