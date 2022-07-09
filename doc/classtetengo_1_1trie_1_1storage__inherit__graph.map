@@ -1,0 +1,7 @@
+<map id="tetengo::trie::storage" name="tetengo::trie::storage">
+<area shape="rect" id="node1" title="A storage." alt="" coords="203,78,361,105"/>
+<area shape="rect" id="node3" href="$classtetengo_1_1trie_1_1memory__storage.html" title="A memory storage." alt="" coords="409,5,575,47"/>
+<area shape="rect" id="node4" href="$classtetengo_1_1trie_1_1mmap__storage.html" title="An mmap storage." alt="" coords="416,71,568,112"/>
+<area shape="rect" id="node5" href="$classtetengo_1_1trie_1_1shared__storage.html" title="A shared storage." alt="" coords="415,136,569,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,78,155,105"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tetengo_lattice_keyEntriesPair_tag" name="tetengo_lattice_keyEntriesPair_tag">
+<area shape="rect" id="node1" title="A pair of a key and entries." alt="" coords="135,95,329,136"/>
+<area shape="rect" id="node2" href="$structtetengo__lattice__stringView__tag.html" title="A string view." alt="" coords="5,5,229,32"/>
+<area shape="rect" id="node3" href="$structtetengo__lattice__entry__tag.html" title="An entry." alt="" coords="253,5,443,32"/>
+</map>
