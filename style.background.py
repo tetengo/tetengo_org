@@ -3,51 +3,43 @@
 import random
 from typing import List, Tuple
 
-background_list: List[Tuple[str, str, str]] = [
-    ("10%", "30%", "ariake.jpg"),
-    ("25%", "75%", "jigoku.jpg"),
-    ("10%", "30%", "laputa.jpg"),
-    ("25%", "75%", "liccakuma.jpg"),
-    ("10%", "30%", "mogushi.jpg"),
-    ("10%", "30%", "shower.jpg"),
-    ("25%", "75%", "sl.jpg"),
-    ("10%", "30%", "suika.jpg"),
-    ("25%", "75%", "tram.jpg"),
-    ("10%", "30%", "tsujun.jpg"),
+background_list: List[Tuple[str, str]] = [
+    (
+        "ichigo.jpg",
+        "linear-gradient(120deg, rgba(255, 64, 96, 20%), rgba(255, 64, 96, 40%))",
+    ),
+    (
+        "mikan.jpg",
+        "linear-gradient(120deg, rgba(255, 128, 32, 20%), rgba(255, 128, 32, 40%))",
+    ),
+    (
+        "nashi.jpg",
+        "linear-gradient(120deg, rgba(160, 160, 32, 10%), rgba(160, 160, 32, 30%))",
+    ),
+    (
+        "suika.jpg",
+        "linear-gradient(120deg, rgba(128, 208, 255, 30%), rgba(128, 208, 255, 50%))",
+    ),
 ]
 
 stylesheet_template: str = """@charset "UTF-8";
-@media only screen and (min-width:801px) {{
-    :root {{
-        --panel-background: linear-gradient(175deg, rgba(100%, 100%, 100%, {}), rgba(100%, 100%, 100%, {}));
-    }}
-    div#styleholder-pc {{
-        background: var(--panel-background);
-    }}
-    section h2 {{
-        background: var(--panel-background);
-    }}
-    div.grid {{
-        background: var(--panel-background);
-    }}
-}}
-body {{
+header {{
     background-image: url("{}");
+}}
+
+article dt {{
+    background: {};
 }}
 """
 
 
 def main() -> None:
-    background: Tuple[str, str, str] = select_background()
+    background: Tuple[str, str] = select_background()
     print("Content-Type: text/css; charset=UTF-8\n")
-    print(
-        stylesheet_template.format(
-            background[0], background[1], "background/" + background[2]
-        )
-    )
+    print(stylesheet_template.format("background/" + background[0], background[1]))
 
 
-def select_background() -> Tuple[str, str, str]:
+def select_background() -> Tuple[str, str]:
     return random.choice(background_list)
 
 
