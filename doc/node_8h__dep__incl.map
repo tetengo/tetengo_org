@@ -1,9 +1,9 @@
 <map id="library/lattice/c/include/tetengo/lattice/node.h" name="library/lattice/c/include/tetengo/lattice/node.h">
-<area shape="rect" id="node1" title="A node." alt="" coords="259,5,430,47"/>
-<area shape="rect" id="node2" href="$constraint_8h.html" title="A constraint." alt="" coords="53,184,255,225"/>
-<area shape="rect" id="node3" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="271,273,493,315"/>
-<area shape="rect" id="node4" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="26,95,282,136"/>
-<area shape="rect" id="node5" href="$lattice_8h.html" title="A lattice." alt="" coords="357,184,535,225"/>
-<area shape="rect" id="node6" href="$path_8h.html" title="A path." alt="" coords="563,184,734,225"/>
-<area shape="rect" id="node7" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="408,95,615,136"/>
+<area shape="rect" id="node1" title="A node." alt="" coords="259,5,430,45"/>
+<area shape="rect" id="node2" href="$constraint_8h.html" title="A constraint." alt="" coords="53,181,255,221"/>
+<area shape="rect" id="node3" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="271,269,493,309"/>
+<area shape="rect" id="node4" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="26,93,282,133"/>
+<area shape="rect" id="node5" href="$lattice_8h.html" title="A lattice." alt="" coords="357,181,535,221"/>
+<area shape="rect" id="node6" href="$path_8h.html" title="A path." alt="" coords="563,181,734,221"/>
+<area shape="rect" id="node7" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="408,93,615,133"/>
 </map>

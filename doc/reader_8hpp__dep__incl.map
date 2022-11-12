@@ -1,6 +1,6 @@
 <map id="library/json/cpp/include/tetengo/json/reader.hpp" name="library/json/cpp/include/tetengo/json/reader.hpp">
-<area shape="rect" id="node1" title="A reader." alt="" coords="282,5,462,47"/>
-<area shape="rect" id="node2" href="$comment__removing__reader_8hpp.html" title="A comment removing reader." alt="" coords="5,95,248,151"/>
-<area shape="rect" id="node3" href="$line__counting__reader_8hpp.html" title="A line counting reader." alt="" coords="273,95,471,151"/>
-<area shape="rect" id="node4" href="$stream__reader_8hpp.html" title="A stream reader." alt="" coords="495,102,729,143"/>
+<area shape="rect" id="node1" title="A reader." alt="" coords="282,5,462,45"/>
+<area shape="rect" id="node2" href="$comment__removing__reader_8hpp.html" title="A comment removing reader." alt="" coords="5,93,248,148"/>
+<area shape="rect" id="node3" href="$line__counting__reader_8hpp.html" title="A line counting reader." alt="" coords="273,93,471,148"/>
+<area shape="rect" id="node4" href="$stream__reader_8hpp.html" title="A stream reader." alt="" coords="495,101,729,141"/>
 </map>

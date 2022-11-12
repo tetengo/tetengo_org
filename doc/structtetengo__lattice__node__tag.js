@@ -1,6 +1,7 @@
 var structtetengo__lattice__node__tag =
 [
     [ "best_preceding_node", "structtetengo__lattice__node__tag.html#a1f36ced6223b95da62755514fbe76042", null ],
+    [ "index_in_step", "structtetengo__lattice__node__tag.html#adc01797f15a327a9ce8f85e9cccb16d2", null ],
     [ "key_handle", "structtetengo__lattice__node__tag.html#a6fc74f332805cf013112d117fb7d4c0d", null ],
     [ "node_cost", "structtetengo__lattice__node__tag.html#a799df02c6e9d05faff626322ce037504", null ],
     [ "p_preceding_edge_costs", "structtetengo__lattice__node__tag.html#afcaaf0ee7abdfd9085bd64a076b75d15", null ],

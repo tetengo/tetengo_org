@@ -1,6 +1,6 @@
 <map id="tetengo::lattice::constraint_element" name="tetengo::lattice::constraint_element">
-<area shape="rect" id="node1" title="A constraint element." alt="" coords="203,39,397,80"/>
-<area shape="rect" id="node3" href="$classtetengo_1_1lattice_1_1node__constraint__element.html" title="A node constraint element." alt="" coords="457,5,618,47"/>
-<area shape="rect" id="node4" href="$classtetengo_1_1lattice_1_1wildcard__constraint__element.html" title="A wildcard constraint element." alt="" coords="445,71,629,112"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,46,155,73"/>
+<area shape="rect" id="node1" title="A constraint element." alt="" coords="203,37,397,77"/>
+<area shape="rect" id="node3" href="$classtetengo_1_1lattice_1_1node__constraint__element.html" title="A node constraint element." alt="" coords="457,5,618,45"/>
+<area shape="rect" id="node4" href="$classtetengo_1_1lattice_1_1wildcard__constraint__element.html" title="A wildcard constraint element." alt="" coords="445,69,629,109"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,45,155,70"/>
 </map>

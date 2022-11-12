@@ -1,6 +1,6 @@
 <map id="tetengo::lattice::input" name="tetengo::lattice::input">
-<area shape="rect" id="node1" title="An input." alt="" coords="125,95,288,121"/>
-<area shape="rect" id="node4" href="$classtetengo_1_1lattice_1_1string__input.html" title="A string input." alt="" coords="123,169,290,211"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,208,47"/>
-<area shape="rect" id="node3" title=" " alt="" coords="232,13,381,39"/>
+<area shape="rect" id="node1" title="An input." alt="" coords="125,93,288,119"/>
+<area shape="rect" id="node4" href="$classtetengo_1_1lattice_1_1string__input.html" title="A string input." alt="" coords="123,167,290,207"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,208,45"/>
+<area shape="rect" id="node3" title=" " alt="" coords="232,13,381,38"/>
 </map>

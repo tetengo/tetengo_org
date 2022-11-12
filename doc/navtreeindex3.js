@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"classtetengo_1_1trie_1_1storage.html#ac5f06049a60b5d713c191cf0f28166ce":[1,0,0,5,7,6],
+"classtetengo_1_1trie_1_1storage.html#ac5f06049a60b5d713c191cf0f28166ce":[2,0,0,5,7,6],
 "classtetengo_1_1trie_1_1storage.html#ac849f004473f3fa72dfe78e2e06368bc":[2,0,0,5,7,3],
 "classtetengo_1_1trie_1_1storage.html#ac849f004473f3fa72dfe78e2e06368bc":[1,0,0,5,7,3],
 "classtetengo_1_1trie_1_1storage.html#ae5e9ade83531cc50af504dfa6755f740":[1,0,0,5,7,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "encoder_8h.html#abafbd5bbc0869f788e63909d7e6a1efe":[3,0,0,4,0,0,0,0,0,2],
 "encoder_8h.html#ac48528cd650565693680d86c77b39306":[3,0,0,4,0,0,0,0,0,0],
 "encoder_8h_source.html":[3,0,0,4,0,0,0,0,0],
-"encoder_8hpp.html":[3,0,0,4,1,0,0,0,2],
-"encoder_8hpp_source.html":[3,0,0,4,1,0,0,0,2],
-"entry_8h.html":[3,0,0,1,0,0,0,0,3]
+"encoder_8hpp.html":[3,0,0,4,1,0,0,0,2]
 };

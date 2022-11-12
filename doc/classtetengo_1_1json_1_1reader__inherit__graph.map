@@ -1,7 +1,7 @@
 <map id="tetengo::json::reader" name="tetengo::json::reader">
-<area shape="rect" id="node1" title="A reader." alt="" coords="203,78,360,105"/>
-<area shape="rect" id="node3" href="$classtetengo_1_1json_1_1comment__removing__reader.html" title="A comment removing reader." alt="" coords="408,5,585,47"/>
-<area shape="rect" id="node4" href="$classtetengo_1_1json_1_1line__counting__reader.html" title="A line counting reader." alt="" coords="427,71,566,112"/>
-<area shape="rect" id="node5" href="$classtetengo_1_1json_1_1stream__reader.html" title="A stream reader." alt="" coords="416,136,577,177"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,78,155,105"/>
+<area shape="rect" id="node1" title="A reader." alt="" coords="203,77,360,102"/>
+<area shape="rect" id="node3" href="$classtetengo_1_1json_1_1comment__removing__reader.html" title="A comment removing reader." alt="" coords="408,5,585,45"/>
+<area shape="rect" id="node4" href="$classtetengo_1_1json_1_1line__counting__reader.html" title="A line counting reader." alt="" coords="427,69,566,109"/>
+<area shape="rect" id="node5" href="$classtetengo_1_1json_1_1stream__reader.html" title="A stream reader." alt="" coords="416,133,577,173"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,77,155,102"/>
 </map>

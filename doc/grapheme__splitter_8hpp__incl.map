@@ -1,10 +1,10 @@
 <map id="library/text/cpp/include/tetengo/text/grapheme_splitter.hpp" name="library/text/cpp/include/tetengo/text/grapheme_splitter.hpp">
-<area shape="rect" id="node1" title="A grapheme splitter." alt="" coords="249,5,425,61"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,109,76,136"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,109,162,136"/>
-<area shape="rect" id="node4" title=" " alt="" coords="186,109,263,136"/>
-<area shape="rect" id="node5" title=" " alt="" coords="288,109,385,136"/>
-<area shape="rect" id="node6" title=" " alt="" coords="409,109,472,136"/>
-<area shape="rect" id="node7" title=" " alt="" coords="497,109,702,136"/>
-<area shape="rect" id="node8" title=" " alt="" coords="726,109,878,136"/>
+<area shape="rect" id="node1" title="A grapheme splitter." alt="" coords="249,5,425,60"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,108,76,133"/>
+<area shape="rect" id="node3" title=" " alt="" coords="101,108,162,133"/>
+<area shape="rect" id="node4" title=" " alt="" coords="186,108,263,133"/>
+<area shape="rect" id="node5" title=" " alt="" coords="288,108,385,133"/>
+<area shape="rect" id="node6" title=" " alt="" coords="409,108,472,133"/>
+<area shape="rect" id="node7" title=" " alt="" coords="497,108,702,133"/>
+<area shape="rect" id="node8" title=" " alt="" coords="726,108,878,133"/>
 </map>

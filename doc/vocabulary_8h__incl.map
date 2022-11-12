@@ -1,10 +1,10 @@
 <map id="library/lattice/c/include/tetengo/lattice/vocabulary.h" name="library/lattice/c/include/tetengo/lattice/vocabulary.h">
-<area shape="rect" id="node1" title="A vocabulary." alt="" coords="209,5,416,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="514,319,596,345"/>
-<area shape="rect" id="node3" title=" " alt="" coords="224,319,299,345"/>
-<area shape="rect" id="node4" href="$connection_8h.html" title="A connection." alt="" coords="106,95,310,121"/>
-<area shape="rect" id="node5" href="$entry_8h.html" title="An entry." alt="" coords="110,169,275,196"/>
-<area shape="rect" id="node6" href="$input_8h.html" title="An input." alt="" coords="350,244,517,271"/>
-<area shape="rect" id="node8" href="$node_8h.html" title="A node." alt="" coords="335,95,500,121"/>
-<area shape="rect" id="node7" href="$stringView_8h.html" title="A string view." alt="" coords="22,244,224,271"/>
+<area shape="rect" id="node1" title="A vocabulary." alt="" coords="209,5,415,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="513,313,596,339"/>
+<area shape="rect" id="node3" title=" " alt="" coords="224,313,299,339"/>
+<area shape="rect" id="node4" href="$connection_8h.html" title="A connection." alt="" coords="106,93,310,119"/>
+<area shape="rect" id="node5" href="$entry_8h.html" title="An entry." alt="" coords="109,167,275,192"/>
+<area shape="rect" id="node6" href="$input_8h.html" title="An input." alt="" coords="350,240,517,265"/>
+<area shape="rect" id="node8" href="$node_8h.html" title="A node." alt="" coords="335,93,500,119"/>
+<area shape="rect" id="node7" href="$stringView_8h.html" title="A string view." alt="" coords="22,240,223,265"/>
 </map>

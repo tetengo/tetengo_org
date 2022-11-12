@@ -1,8 +1,8 @@
 <map id="tetengo::property::storage" name="tetengo::property::storage">
-<area shape="rect" id="node1" title="A storage." alt="" coords="203,104,345,145"/>
-<area shape="rect" id="node3" href="$classtetengo_1_1property_1_1file__storage.html" title="A file storage." alt="" coords="418,5,561,47"/>
-<area shape="rect" id="node4" href="$classtetengo_1_1property_1_1memory__storage.html" title="A memory storage." alt="" coords="418,71,561,112"/>
-<area shape="rect" id="node5" href="$classtetengo_1_1property_1_1storage__proxy.html" title="A storage proxy." alt="" coords="418,136,561,177"/>
-<area shape="rect" id="node6" href="$classtetengo_1_1property_1_1windows__registry__storage.html" title="A Windows registry storage." alt="" coords="393,201,585,243"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,111,155,138"/>
+<area shape="rect" id="node1" title="A storage." alt="" coords="203,101,345,141"/>
+<area shape="rect" id="node3" href="$classtetengo_1_1property_1_1file__storage.html" title="A file storage." alt="" coords="418,5,561,45"/>
+<area shape="rect" id="node4" href="$classtetengo_1_1property_1_1memory__storage.html" title="A memory storage." alt="" coords="418,69,561,109"/>
+<area shape="rect" id="node5" href="$classtetengo_1_1property_1_1storage__proxy.html" title="A storage proxy." alt="" coords="418,133,561,173"/>
+<area shape="rect" id="node6" href="$classtetengo_1_1property_1_1windows__registry__storage.html" title="A Windows registry storage." alt="" coords="393,197,585,237"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,155,134"/>
 </map>

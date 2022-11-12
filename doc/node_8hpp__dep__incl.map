@@ -1,5 +1,5 @@
 <map id="library/lattice/cpp/include/tetengo/lattice/node.hpp" name="library/lattice/cpp/include/tetengo/lattice/node.hpp">
-<area shape="rect" id="node1" title="A node." alt="" coords="5,5,177,61"/>
-<area shape="rect" id="node2" href="$n__best__iterator_8hpp.html" title="An N&#45;best lattice path iterator." alt="" coords="5,213,177,269"/>
-<area shape="rect" id="node3" href="$path_8hpp.html" title="A path." alt="" coords="68,109,240,165"/>
+<area shape="rect" id="node1" title="A node." alt="" coords="5,5,177,60"/>
+<area shape="rect" id="node2" href="$n__best__iterator_8hpp.html" title="An N&#45;best lattice path iterator." alt="" coords="5,211,177,265"/>
+<area shape="rect" id="node3" href="$path_8hpp.html" title="A path." alt="" coords="68,108,240,163"/>
 </map>

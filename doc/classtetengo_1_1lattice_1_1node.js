@@ -1,8 +1,9 @@
 var classtetengo_1_1lattice_1_1node =
 [
-    [ "node", "classtetengo_1_1lattice_1_1node.html#a40aae019604a1cc27422089d31c42a90", null ],
-    [ "node", "classtetengo_1_1lattice_1_1node.html#aa5ca96bdcd55c16536b21b13add4089c", null ],
+    [ "node", "classtetengo_1_1lattice_1_1node.html#a00a646a81e1a95b2fce02b4c34a51d5c", null ],
+    [ "node", "classtetengo_1_1lattice_1_1node.html#af1d0347543a70dab79a38fc503c0810e", null ],
     [ "best_preceding_node", "classtetengo_1_1lattice_1_1node.html#af692d9ed4269cfe83df6fe8d1d5d6536", null ],
+    [ "index_in_step", "classtetengo_1_1lattice_1_1node.html#a4e54b3fc75bd54e0027969517b63948c", null ],
     [ "is_bos", "classtetengo_1_1lattice_1_1node.html#a461c44c565c5d5b8099c3c4fbcc397a5", null ],
     [ "node_cost", "classtetengo_1_1lattice_1_1node.html#a5497a9f65c088117b965f2fcd391402b", null ],
     [ "p_key", "classtetengo_1_1lattice_1_1node.html#abd616af817aad5689a983a4fc72fdb3b", null ],

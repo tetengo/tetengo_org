@@ -1,10 +1,10 @@
 <map id="library/lattice/cpp/include/tetengo/lattice/input.hpp" name="library/lattice/cpp/include/tetengo/lattice/input.hpp">
-<area shape="rect" id="node1" title="An input." alt="" coords="187,5,359,61"/>
-<area shape="rect" id="node2" href="$entry_8hpp.html" title="An entry." alt="" coords="187,109,359,165"/>
-<area shape="rect" id="node3" href="$node_8hpp.html" title="A node." alt="" coords="63,213,235,269"/>
-<area shape="rect" id="node8" href="$string__input_8hpp.html" title="A string input." alt="" coords="383,109,555,165"/>
-<area shape="rect" id="node6" href="$unordered__map__vocabulary_8hpp.html" title="An unordered map vocabulary." alt="" coords="275,317,508,373"/>
-<area shape="rect" id="node7" href="$vocabulary_8hpp.html" title="A vocabulary." alt="" coords="311,213,483,269"/>
-<area shape="rect" id="node4" href="$n__best__iterator_8hpp.html" title="An N&#45;best lattice path iterator." alt="" coords="5,421,177,477"/>
-<area shape="rect" id="node5" href="$path_8hpp.html" title="A path." alt="" coords="68,317,240,373"/>
+<area shape="rect" id="node1" title="An input." alt="" coords="187,5,359,60"/>
+<area shape="rect" id="node2" href="$entry_8hpp.html" title="An entry." alt="" coords="187,108,359,163"/>
+<area shape="rect" id="node3" href="$node_8hpp.html" title="A node." alt="" coords="63,211,235,265"/>
+<area shape="rect" id="node8" href="$string__input_8hpp.html" title="A string input." alt="" coords="383,108,555,163"/>
+<area shape="rect" id="node6" href="$unordered__map__vocabulary_8hpp.html" title="An unordered map vocabulary." alt="" coords="275,313,508,368"/>
+<area shape="rect" id="node7" href="$vocabulary_8hpp.html" title="A vocabulary." alt="" coords="311,211,483,265"/>
+<area shape="rect" id="node4" href="$n__best__iterator_8hpp.html" title="An N&#45;best lattice path iterator." alt="" coords="5,416,177,471"/>
+<area shape="rect" id="node5" href="$path_8hpp.html" title="A path." alt="" coords="68,313,240,368"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="library/text/cpp/include/tetengo/text/grapheme_splitting/east_asian_characX.hpp" name="library/text/cpp/include/tetengo/text/grapheme_splitting/east_asian_characX.hpp">
-<area shape="rect" id="node1" title="An east Asian character width." alt="" coords="5,5,248,61"/>
-<area shape="rect" id="node2" title=" " alt="" coords="47,213,118,240"/>
-<area shape="rect" id="node3" title=" " alt="" coords="88,124,165,151"/>
-<area shape="rect" id="node4" href="$character__width_8hpp.html" title="A character width." alt="" coords="190,109,362,165"/>
-<area shape="rect" id="node5" title=" " alt="" coords="173,213,379,240"/>
+<area shape="rect" id="node1" title="An east Asian character width." alt="" coords="5,5,248,60"/>
+<area shape="rect" id="node2" title=" " alt="" coords="47,211,118,236"/>
+<area shape="rect" id="node3" title=" " alt="" coords="88,123,165,148"/>
+<area shape="rect" id="node4" href="$character__width_8hpp.html" title="A character width." alt="" coords="190,108,362,163"/>
+<area shape="rect" id="node5" title=" " alt="" coords="173,211,379,236"/>
 </map>

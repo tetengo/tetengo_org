@@ -1,13 +1,13 @@
 <map id="library/lattice/cpp/include/tetengo/lattice/node.hpp" name="library/lattice/cpp/include/tetengo/lattice/node.hpp">
-<area shape="rect" id="node1" title="A node." alt="" coords="328,5,500,61"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,184,52,211"/>
-<area shape="rect" id="node3" title=" " alt="" coords="218,259,287,285"/>
-<area shape="rect" id="node4" title=" " alt="" coords="541,259,612,285"/>
-<area shape="rect" id="node5" title=" " alt="" coords="632,109,695,136"/>
-<area shape="rect" id="node6" title=" " alt="" coords="637,259,789,285"/>
-<area shape="rect" id="node7" href="$entry_8hpp.html" title="An entry." alt="" coords="66,109,247,136"/>
-<area shape="rect" id="node10" href="$input_8hpp.html" title="An input." alt="" coords="323,184,505,211"/>
-<area shape="rect" id="node8" title=" " alt="" coords="117,259,194,285"/>
-<area shape="rect" id="node9" title=" " alt="" coords="76,184,136,211"/>
-<area shape="rect" id="node11" title=" " alt="" coords="311,259,517,285"/>
+<area shape="rect" id="node1" title="A node." alt="" coords="328,5,500,60"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,181,52,207"/>
+<area shape="rect" id="node3" title=" " alt="" coords="218,255,287,280"/>
+<area shape="rect" id="node4" title=" " alt="" coords="541,255,612,280"/>
+<area shape="rect" id="node5" title=" " alt="" coords="632,108,695,133"/>
+<area shape="rect" id="node6" title=" " alt="" coords="637,255,789,280"/>
+<area shape="rect" id="node7" href="$entry_8hpp.html" title="An entry." alt="" coords="66,108,247,133"/>
+<area shape="rect" id="node10" href="$input_8hpp.html" title="An input." alt="" coords="323,181,505,207"/>
+<area shape="rect" id="node8" title=" " alt="" coords="117,255,194,280"/>
+<area shape="rect" id="node9" title=" " alt="" coords="76,181,136,207"/>
+<area shape="rect" id="node11" title=" " alt="" coords="311,255,517,280"/>
 </map>

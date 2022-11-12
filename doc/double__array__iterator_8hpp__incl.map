@@ -1,12 +1,12 @@
 <map id="library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp" name="library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp">
-<area shape="rect" id="node1" title="A double array iterator." alt="" coords="320,5,511,61"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,117,76,143"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,117,167,143"/>
-<area shape="rect" id="node4" title=" " alt="" coords="192,117,263,143"/>
-<area shape="rect" id="node5" title=" " alt="" coords="287,117,362,143"/>
-<area shape="rect" id="node6" title=" " alt="" coords="387,117,444,143"/>
-<area shape="rect" id="node7" title=" " alt="" coords="469,117,527,143"/>
-<area shape="rect" id="node8" title=" " alt="" coords="552,117,612,143"/>
-<area shape="rect" id="node9" title=" " alt="" coords="636,117,699,143"/>
-<area shape="rect" id="node10" title=" " alt="" coords="723,109,889,151"/>
+<area shape="rect" id="node1" title="A double array iterator." alt="" coords="320,5,511,60"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,115,76,141"/>
+<area shape="rect" id="node3" title=" " alt="" coords="101,115,167,141"/>
+<area shape="rect" id="node4" title=" " alt="" coords="192,115,263,141"/>
+<area shape="rect" id="node5" title=" " alt="" coords="287,115,362,141"/>
+<area shape="rect" id="node6" title=" " alt="" coords="387,115,444,141"/>
+<area shape="rect" id="node7" title=" " alt="" coords="469,115,527,141"/>
+<area shape="rect" id="node8" title=" " alt="" coords="552,115,612,141"/>
+<area shape="rect" id="node9" title=" " alt="" coords="636,115,699,141"/>
+<area shape="rect" id="node10" title=" " alt="" coords="723,108,889,148"/>
 </map>

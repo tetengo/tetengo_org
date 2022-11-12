@@ -1,7 +1,7 @@
 <map id="library/lattice/c/include/tetengo/lattice/entry.h" name="library/lattice/c/include/tetengo/lattice/entry.h">
-<area shape="rect" id="node1" title="An entry." alt="" coords="39,5,209,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="87,169,161,196"/>
-<area shape="rect" id="node3" href="$input_8h.html" title="An input." alt="" coords="249,95,415,121"/>
-<area shape="rect" id="node5" href="$stringView_8h.html" title="A string view." alt="" coords="23,95,225,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="291,169,373,196"/>
+<area shape="rect" id="node1" title="An entry." alt="" coords="39,5,209,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="87,167,161,192"/>
+<area shape="rect" id="node3" href="$input_8h.html" title="An input." alt="" coords="249,93,415,119"/>
+<area shape="rect" id="node5" href="$stringView_8h.html" title="A string view." alt="" coords="23,93,225,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="291,167,373,192"/>
 </map>

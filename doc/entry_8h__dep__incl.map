@@ -1,11 +1,11 @@
 <map id="library/lattice/c/include/tetengo/lattice/entry.h" name="library/lattice/c/include/tetengo/lattice/entry.h">
-<area shape="rect" id="node1" title="An entry." alt="" coords="165,5,336,47"/>
-<area shape="rect" id="node2" href="$connection_8h.html" title="A connection." alt="" coords="5,95,213,136"/>
-<area shape="rect" id="node3" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="53,184,259,225"/>
-<area shape="rect" id="node6" href="$node_8h.html" title="A node." alt="" coords="288,95,459,136"/>
-<area shape="rect" id="node4" href="$lattice_8h.html" title="A lattice." alt="" coords="132,273,311,315"/>
-<area shape="rect" id="node5" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="307,363,528,404"/>
-<area shape="rect" id="node7" href="$constraint_8h.html" title="A constraint." alt="" coords="385,273,588,315"/>
-<area shape="rect" id="node8" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="436,184,692,225"/>
-<area shape="rect" id="node9" href="$path_8h.html" title="A path." alt="" coords="628,273,799,315"/>
+<area shape="rect" id="node1" title="An entry." alt="" coords="165,5,336,45"/>
+<area shape="rect" id="node2" href="$connection_8h.html" title="A connection." alt="" coords="5,93,213,133"/>
+<area shape="rect" id="node3" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="53,181,259,221"/>
+<area shape="rect" id="node6" href="$node_8h.html" title="A node." alt="" coords="288,93,459,133"/>
+<area shape="rect" id="node4" href="$lattice_8h.html" title="A lattice." alt="" coords="132,269,311,309"/>
+<area shape="rect" id="node5" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="307,357,528,397"/>
+<area shape="rect" id="node7" href="$constraint_8h.html" title="A constraint." alt="" coords="385,269,588,309"/>
+<area shape="rect" id="node8" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="436,181,692,221"/>
+<area shape="rect" id="node9" href="$path_8h.html" title="A path." alt="" coords="628,269,799,309"/>
 </map>

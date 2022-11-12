@@ -1,12 +1,12 @@
 <map id="library/lattice/c/include/tetengo/lattice/input.h" name="library/lattice/c/include/tetengo/lattice/input.h">
-<area shape="rect" id="node1" title="An input." alt="" coords="535,5,706,47"/>
-<area shape="rect" id="node2" href="$entry_8h.html" title="An entry." alt="" coords="378,95,548,136"/>
-<area shape="rect" id="node4" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="446,273,653,315"/>
-<area shape="rect" id="node5" href="$lattice_8h.html" title="A lattice." alt="" coords="460,363,639,404"/>
-<area shape="rect" id="node3" href="$connection_8h.html" title="A connection." alt="" coords="324,184,532,225"/>
-<area shape="rect" id="node7" href="$node_8h.html" title="A node." alt="" coords="130,184,300,225"/>
-<area shape="rect" id="node6" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="135,452,356,493"/>
-<area shape="rect" id="node8" href="$constraint_8h.html" title="A constraint." alt="" coords="39,363,242,404"/>
-<area shape="rect" id="node9" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="64,273,320,315"/>
-<area shape="rect" id="node10" href="$path_8h.html" title="A path." alt="" coords="266,363,436,404"/>
+<area shape="rect" id="node1" title="An input." alt="" coords="534,5,705,45"/>
+<area shape="rect" id="node2" href="$entry_8h.html" title="An entry." alt="" coords="377,93,548,133"/>
+<area shape="rect" id="node4" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="446,269,652,309"/>
+<area shape="rect" id="node5" href="$lattice_8h.html" title="A lattice." alt="" coords="460,357,638,397"/>
+<area shape="rect" id="node3" href="$connection_8h.html" title="A connection." alt="" coords="324,181,532,221"/>
+<area shape="rect" id="node7" href="$node_8h.html" title="A node." alt="" coords="129,181,300,221"/>
+<area shape="rect" id="node6" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="134,445,356,485"/>
+<area shape="rect" id="node8" href="$constraint_8h.html" title="A constraint." alt="" coords="38,357,241,397"/>
+<area shape="rect" id="node9" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="64,269,320,309"/>
+<area shape="rect" id="node10" href="$path_8h.html" title="A path." alt="" coords="265,357,436,397"/>
 </map>

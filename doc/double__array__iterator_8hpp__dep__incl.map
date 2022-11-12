@@ -1,6 +1,6 @@
 <map id="library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp" name="library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp">
-<area shape="rect" id="node1" title="A double array iterator." alt="" coords="137,5,328,61"/>
-<area shape="rect" id="node2" href="$double__array_8hpp.html" title="A double array." alt="" coords="5,109,223,151"/>
-<area shape="rect" id="node3" href="$trie__iterator_8hpp.html" title="A trie iterator." alt="" coords="247,109,458,151"/>
-<area shape="rect" id="node4" href="$trie_8hpp.html" title="A trie." alt="" coords="269,199,437,240"/>
+<area shape="rect" id="node1" title="A double array iterator." alt="" coords="137,5,328,60"/>
+<area shape="rect" id="node2" href="$double__array_8hpp.html" title="A double array." alt="" coords="5,108,223,148"/>
+<area shape="rect" id="node3" href="$trie__iterator_8hpp.html" title="A trie iterator." alt="" coords="247,108,458,148"/>
+<area shape="rect" id="node4" href="$trie_8hpp.html" title="A trie." alt="" coords="269,196,437,236"/>
 </map>

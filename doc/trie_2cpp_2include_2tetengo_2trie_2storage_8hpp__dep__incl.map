@@ -1,6 +1,6 @@
 <map id="library/trie/cpp/include/tetengo/trie/storage.hpp" name="library/trie/cpp/include/tetengo/trie/storage.hpp">
-<area shape="rect" id="node1" title="A storage." alt="" coords="299,5,482,47"/>
-<area shape="rect" id="node2" href="$trie_2cpp_2include_2tetengo_2trie_2memory__storage_8hpp.html" title="A memory storage." alt="" coords="5,95,251,136"/>
-<area shape="rect" id="node3" href="$mmap__storage_8hpp.html" title="An mmap storage." alt="" coords="275,95,507,136"/>
-<area shape="rect" id="node4" href="$shared__storage_8hpp.html" title="A shared storage." alt="" coords="531,95,765,136"/>
+<area shape="rect" id="node1" title="A storage." alt="" coords="299,5,482,45"/>
+<area shape="rect" id="node2" href="$trie_2cpp_2include_2tetengo_2trie_2memory__storage_8hpp.html" title="A memory storage." alt="" coords="5,93,251,133"/>
+<area shape="rect" id="node3" href="$mmap__storage_8hpp.html" title="An mmap storage." alt="" coords="275,93,507,133"/>
+<area shape="rect" id="node4" href="$shared__storage_8hpp.html" title="A shared storage." alt="" coords="531,93,765,133"/>
 </map>

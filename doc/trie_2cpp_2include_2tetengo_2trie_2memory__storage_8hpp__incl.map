@@ -1,10 +1,10 @@
 <map id="library/trie/cpp/include/tetengo/trie/memory_storage.hpp" name="library/trie/cpp/include/tetengo/trie/memory_storage.hpp">
-<area shape="rect" id="node1" title="A memory storage." alt="" coords="145,5,390,47"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,169,52,196"/>
-<area shape="rect" id="node3" title=" " alt="" coords="76,169,147,196"/>
-<area shape="rect" id="node4" title=" " alt="" coords="171,169,238,196"/>
-<area shape="rect" id="node5" title=" " alt="" coords="491,169,563,196"/>
-<area shape="rect" id="node6" title=" " alt="" coords="587,169,665,196"/>
-<area shape="rect" id="node7" href="$trie_2cpp_2include_2tetengo_2trie_2storage_8hpp.html" title="A storage." alt="" coords="242,95,421,121"/>
-<area shape="rect" id="node8" title=" " alt="" coords="262,169,467,196"/>
+<area shape="rect" id="node1" title="A memory storage." alt="" coords="145,5,390,45"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,167,52,192"/>
+<area shape="rect" id="node3" title=" " alt="" coords="76,167,147,192"/>
+<area shape="rect" id="node4" title=" " alt="" coords="171,167,238,192"/>
+<area shape="rect" id="node5" title=" " alt="" coords="491,167,563,192"/>
+<area shape="rect" id="node6" title=" " alt="" coords="587,167,665,192"/>
+<area shape="rect" id="node7" href="$trie_2cpp_2include_2tetengo_2trie_2storage_8hpp.html" title="A storage." alt="" coords="242,93,421,119"/>
+<area shape="rect" id="node8" title=" " alt="" coords="262,167,467,192"/>
 </map>

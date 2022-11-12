@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "tetengo", "index.html", [
-    [ "tetengo 1.7.0", "index.html", [
+    [ "tetengo 1.8.0", "index.html", [
       [ "Features", "index.html#autotoc_md0", [
         [ "tetengo::json", "index.html#autotoc_md1", null ],
         [ "tetengo::lattice", "index.html#autotoc_md2", null ],
@@ -85,10 +85,10 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classtetengo_1_1lattice_1_1input.html#aa90824a75a01922ffa46882126832892",
-"classtetengo_1_1text_1_1encoder.html#a3784bedcf6cbf38b7e1bd46c022b96eb",
-"classtetengo_1_1trie_1_1storage.html#ac849f004473f3fa72dfe78e2e06368bc",
-"entry_8h.html#a0c9c0bc9acff1a8b0ed706333527b0df",
-"shared__storage_8hpp_source.html"
+"classtetengo_1_1text_1_1encoder.html#a229ca456414fdbe85958660640b7f124",
+"classtetengo_1_1trie_1_1storage.html#ac5f06049a60b5d713c191cf0f28166ce",
+"encoder_8hpp_source.html",
+"reader__iterator_8hpp_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

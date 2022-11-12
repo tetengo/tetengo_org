@@ -1,8 +1,8 @@
 <map id="library/lattice/c/include/tetengo/lattice/connection.h" name="library/lattice/c/include/tetengo/lattice/connection.h">
-<area shape="rect" id="node1" title="A connection." alt="" coords="20,5,228,47"/>
-<area shape="rect" id="node2" href="$entry_8h.html" title="An entry." alt="" coords="41,95,206,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="86,244,161,271"/>
-<area shape="rect" id="node4" href="$input_8h.html" title="An input." alt="" coords="248,169,415,196"/>
-<area shape="rect" id="node6" href="$stringView_8h.html" title="A string view." alt="" coords="23,169,224,196"/>
-<area shape="rect" id="node5" title=" " alt="" coords="290,244,373,271"/>
+<area shape="rect" id="node1" title="A connection." alt="" coords="20,5,228,45"/>
+<area shape="rect" id="node2" href="$entry_8h.html" title="An entry." alt="" coords="41,93,206,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="86,240,161,265"/>
+<area shape="rect" id="node4" href="$input_8h.html" title="An input." alt="" coords="248,167,415,192"/>
+<area shape="rect" id="node6" href="$stringView_8h.html" title="A string view." alt="" coords="23,167,224,192"/>
+<area shape="rect" id="node5" title=" " alt="" coords="290,240,373,265"/>
 </map>
