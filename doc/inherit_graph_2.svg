@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 178)">
 <title>Graphical Class Hierarchy</title>
 <!-- Node0 -->
-<g id="node1" class="node">
+<g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_Node000000"><a xlink:title=" ">
 <polygon fill="#e0e0e0" stroke="#999999" points="116,-102 0,-102 0,-72 116,-72 116,-102"/>
 <text text-anchor="start" x="8" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00">boost::stl_interfaces</text>
 <text text-anchor="middle" x="58" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00">::iterator_interface</text>
@@ -19,9 +19,9 @@
 </g>
 </g>
 <!-- Node1 -->
-<g id="node2" class="node">
+<g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_node2"><a xlink:href="classtetengo_1_1json_1_1reader__iterator.html" target="_top" xlink:title="A reader iterator.">
+<g id="a_Node000001"><a xlink:href="classtetengo_1_1json_1_1reader__iterator.html" target="_top" xlink:title="A reader iterator.">
 <polygon fill="white" stroke="#666666" points="270,-174 152,-174 152,-144 270,-144 270,-174"/>
 <text text-anchor="start" x="160" y="-162" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::json::reader</text>
 <text text-anchor="middle" x="211" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">_iterator</text>
@@ -29,15 +29,18 @@
 </g>
 </g>
 <!-- Node0&#45;&gt;Node1 -->
-<g id="edge1" class="edge">
+<g id="edge54_Node000000_Node000001" class="edge">
 <title>Node0&#45;&gt;Node1</title>
+<g id="a_edge54_Node000000_Node000001"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M95.8,-106.9C112.75,-115.83 133.23,-126.29 152,-135 158.52,-138.03 165.54,-141.09 172.36,-143.97"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="97.25,-103.71 86.78,-102.11 93.97,-109.89 97.25,-103.71"/>
+</a>
+</g>
 </g>
 <!-- Node2 -->
-<g id="node3" class="node">
+<g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_node3"><a xlink:href="classtetengo_1_1lattice_1_1n__best__iterator.html" target="_top" xlink:title="An N&#45;best lattice path iterator.">
+<g id="a_Node000002"><a xlink:href="classtetengo_1_1lattice_1_1n__best__iterator.html" target="_top" xlink:title="An N&#45;best lattice path iterator.">
 <polygon fill="white" stroke="#666666" points="262.5,-126 159.5,-126 159.5,-96 262.5,-96 262.5,-126"/>
 <text text-anchor="start" x="167.5" y="-114" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::lattice::n</text>
 <text text-anchor="middle" x="211" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">_best_iterator</text>
@@ -45,15 +48,18 @@
 </g>
 </g>
 <!-- Node0&#45;&gt;Node2 -->
-<g id="edge2" class="edge">
+<g id="edge55_Node000000_Node000002" class="edge">
 <title>Node0&#45;&gt;Node2</title>
+<g id="a_edge55_Node000000_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M126.19,-97.68C137.3,-99.45 148.66,-101.25 159.28,-102.94"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="126.51,-94.19 116.09,-96.07 125.41,-101.1 126.51,-94.19"/>
+</a>
+</g>
 </g>
 <!-- Node3 -->
-<g id="node4" class="node">
+<g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_node4"><a xlink:href="classtetengo_1_1trie_1_1double__array__iterator.html" target="_top" xlink:title="A double array iterator.">
+<g id="a_Node000003"><a xlink:href="classtetengo_1_1trie_1_1double__array__iterator.html" target="_top" xlink:title="A double array iterator.">
 <polygon fill="white" stroke="#666666" points="269,-78 153,-78 153,-48 269,-48 269,-78"/>
 <text text-anchor="start" x="161" y="-66" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::trie::double</text>
 <text text-anchor="middle" x="211" y="-55" font-family="Helvetica,sans-Serif" font-size="10.00">_array_iterator</text>
@@ -61,15 +67,18 @@
 </g>
 </g>
 <!-- Node0&#45;&gt;Node3 -->
-<g id="edge3" class="edge">
+<g id="edge56_Node000000_Node000003" class="edge">
 <title>Node0&#45;&gt;Node3</title>
+<g id="a_edge56_Node000000_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M126.07,-76.34C135,-74.92 144.09,-73.48 152.83,-72.09"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="125.41,-72.9 116.09,-77.93 126.51,-79.81 125.41,-72.9"/>
+</a>
+</g>
 </g>
 <!-- Node4 -->
-<g id="node5" class="node">
+<g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_node5"><a xlink:href="classtetengo_1_1trie_1_1trie__iterator.html" target="_top" xlink:title="A trie iterator.">
+<g id="a_Node000004"><a xlink:href="classtetengo_1_1trie_1_1trie__iterator.html" target="_top" xlink:title="A trie iterator.">
 <polygon fill="white" stroke="#666666" points="264.5,-30 157.5,-30 157.5,0 264.5,0 264.5,-30"/>
 <text text-anchor="start" x="165.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::trie::trie</text>
 <text text-anchor="middle" x="211" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">_iterator&lt; Value &gt;</text>
@@ -77,10 +86,13 @@
 </g>
 </g>
 <!-- Node0&#45;&gt;Node4 -->
-<g id="edge4" class="edge">
+<g id="edge57_Node000000_Node000004" class="edge">
 <title>Node0&#45;&gt;Node4</title>
+<g id="a_edge57_Node000000_Node000004"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M95.8,-67.1C112.75,-58.17 133.23,-47.71 152,-39 158.52,-35.97 165.54,-32.91 172.36,-30.03"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="93.97,-64.11 86.78,-71.89 97.25,-70.29 93.97,-64.11"/>
+</a>
+</g>
 </g>
 </g>
 </svg>

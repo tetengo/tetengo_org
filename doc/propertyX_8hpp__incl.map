@@ -1,6 +1,9 @@
 <map id="library/platform_dependent/cpp/include/tetengo/platform_dependent/propertyX.hpp" name="library/platform_dependent/cpp/include/tetengo/platform_dependent/propertyX.hpp">
-<area shape="rect" id="node1" title="A property set file path." alt="" coords="51,5,266,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,108,96,133"/>
-<area shape="rect" id="node3" title=" " alt="" coords="120,108,197,133"/>
-<area shape="rect" id="node4" title=" " alt="" coords="221,108,427,133"/>
+<area shape="rect" id="Node000001" title="A property set file path." alt="" coords="51,5,266,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,96,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,62,78,101,75,97,124,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="120,108,197,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,60,161,94,156,94,156,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="221,108,427,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,58,291,99,289,104,208,62"/>
 </map>

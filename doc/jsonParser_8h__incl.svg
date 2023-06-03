@@ -6,12 +6,22 @@
 <!-- Title: library/json/c/include/tetengo/json/jsonParser.h Pages: 1 -->
 <svg width="329pt" height="148pt"
  viewBox="0.00 0.00 329.00 148.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
+<style type="text/css"><![CDATA[
+.node, .edge {opacity: 0.7;}
+.node.selected, .edge.selected {opacity: 1;}
+.edge:hover path { stroke: red; }
+.edge:hover polygon { stroke: red; fill: red; }
+]]></style>
+<script type="application/ecmascript" xlink:href="svg.min.js"/>
+<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 144)">
 <title>library/json/c/include/tetengo/json/jsonParser.h</title>
 <!-- Node1 -->
-<g id="node1" class="node">
+<g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="A JSON parser.">
+<g id="a_Node000001"><a xlink:title="A JSON parser.">
 <polygon fill="#999999" stroke="#666666" points="190,-140 48,-140 48,-110 190,-110 190,-140"/>
 <text text-anchor="start" x="56" y="-128" font-family="Helvetica,sans-Serif" font-size="10.00">library/json/c/include</text>
 <text text-anchor="middle" x="119" y="-117" font-family="Helvetica,sans-Serif" font-size="10.00">/tetengo/json/jsonParser.h</text>
@@ -19,82 +29,118 @@
 </g>
 </g>
 <!-- Node2 -->
-<g id="node2" class="node">
+<g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:title=" ">
+<g id="a_Node000002"><a xlink:title=" ">
 <polygon fill="#e0e0e0" stroke="#999999" points="62,-19 0,-19 0,0 62,0 62,-19"/>
 <text text-anchor="middle" x="31" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">stdbool.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge">
+<g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
+<g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M54.63,-109.93C35.74,-102.49 17.18,-91.17 6,-74 -3.54,-59.34 6.24,-40.47 16.23,-27.12"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="19.04,-29.21 22.62,-19.24 13.6,-24.8 19.04,-29.21"/>
+</a>
+</g>
 </g>
 <!-- Node3 -->
-<g id="node3" class="node">
+<g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:title=" ">
+<g id="a_Node000003"><a xlink:title=" ">
 <polygon fill="#e0e0e0" stroke="#999999" points="191,-19 135,-19 135,0 191,0 191,-19"/>
 <text text-anchor="middle" x="163" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">stddef.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge">
+<g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
+<g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M126.89,-109.86C132.19,-100.01 139.07,-86.45 144,-74 149.83,-59.27 154.89,-42.02 158.31,-29.22"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="161.77,-29.85 160.88,-19.29 154.99,-28.09 161.77,-29.85"/>
+</a>
+</g>
 </g>
 <!-- Node4 -->
-<g id="node4" class="node">
+<g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="element_8h.html" target="_top" xlink:title="An element.">
+<g id="a_Node000004"><a xlink:href="element_8h.html" target="_top" xlink:title="An element.">
 <polygon fill="white" stroke="#666666" points="321,-74 191,-74 191,-55 321,-55 321,-74"/>
 <text text-anchor="middle" x="256" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo/json/element.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
+<g id="edge3_Node000001_Node000004" class="edge">
 <title>Node1&#45;&gt;Node4</title>
+<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M151.81,-109.99C174.47,-100.31 204.35,-87.56 226.3,-78.18"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="227.95,-81.29 235.77,-74.14 225.2,-74.85 227.95,-81.29"/>
+</a>
+</g>
 </g>
 <!-- Node5 -->
-<g id="node5" class="node">
+<g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="reader_8h.html" target="_top" xlink:title="A reader.">
+<g id="a_Node000005"><a xlink:href="reader_8h.html" target="_top" xlink:title="A reader.">
 <polygon fill="white" stroke="#666666" points="135,-74 15,-74 15,-55 135,-55 135,-74"/>
 <text text-anchor="middle" x="75" y="-62" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo/json/reader.h</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
-<g id="edge5" class="edge">
+<g id="edge5_Node000001_Node000005" class="edge">
 <title>Node1&#45;&gt;Node5</title>
+<g id="a_edge5_Node000001_Node000005"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M108.35,-109.84C102.16,-101.61 94.31,-91.18 87.79,-82.51"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="90.4,-80.15 81.59,-74.27 84.81,-84.36 90.4,-80.15"/>
+</a>
+</g>
 </g>
 <!-- Node4&#45;&gt;Node3 -->
-<g id="edge4" class="edge">
+<g id="edge4_Node000004_Node000003" class="edge">
 <title>Node4&#45;&gt;Node3</title>
+<g id="a_edge4_Node000004_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M241.06,-54.98C226.5,-46.69 204.13,-33.94 187.07,-24.22"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="188.64,-21.08 178.21,-19.17 185.17,-27.16 188.64,-21.08"/>
+</a>
+</g>
 </g>
 <!-- Node5&#45;&gt;Node2 -->
-<g id="edge6" class="edge">
+<g id="edge6_Node000005_Node000002" class="edge">
 <title>Node5&#45;&gt;Node2</title>
+<g id="a_edge6_Node000005_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M67.73,-54.75C61.46,-47.18 52.21,-36.05 44.57,-26.84"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="47.21,-24.55 38.13,-19.09 41.83,-29.02 47.21,-24.55"/>
+</a>
+</g>
 </g>
 <!-- Node5&#45;&gt;Node3 -->
-<g id="edge7" class="edge">
+<g id="edge7_Node000005_Node000003" class="edge">
 <title>Node5&#45;&gt;Node3</title>
+<g id="a_edge7_Node000005_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M89.14,-54.98C102.79,-46.77 123.69,-34.18 139.78,-24.49"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="141.84,-27.33 148.6,-19.17 138.23,-21.33 141.84,-27.33"/>
+</a>
 </g>
 </g>
+</g>
+</svg>
+</svg>
+
+<style type='text/css'>
+<![CDATA[
+[data-mouse-over-selected='false'] { opacity: 0.7; }
+[data-mouse-over-selected='true']  { opacity: 1.0; }
+]]>
+</style>
+<script type="application/ecmascript"><![CDATA[
+document.addEventListener('DOMContentLoaded', (event) => {
+  highlightEdges();
+  highlightAdjacentNodes();
+});
+]]></script>
 </svg>

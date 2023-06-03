@@ -1,5 +1,7 @@
 <map id="library/text/cpp/include/tetengo/text/grapheme_splitting/character_width.hpp" name="library/text/cpp/include/tetengo/text/grapheme_splitting/character_width.hpp">
-<area shape="rect" id="node1" title="A character width." alt="" coords="13,5,231,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,108,76,133"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,108,306,133"/>
+<area shape="rect" id="Node000001" title="A character width." alt="" coords="13,5,231,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,76,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,62,63,100,59,96,95,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,108,306,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,58,185,96,181,100,145,62"/>
 </map>

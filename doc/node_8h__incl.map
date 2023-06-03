@@ -1,8 +1,17 @@
 <map id="library/lattice/c/include/tetengo/lattice/node.h" name="library/lattice/c/include/tetengo/lattice/node.h">
-<area shape="rect" id="node1" title="A node." alt="" coords="143,5,313,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,240,88,265"/>
-<area shape="rect" id="node3" title=" " alt="" coords="260,240,335,265"/>
-<area shape="rect" id="node4" href="$entry_8h.html" title="An entry." alt="" coords="145,93,311,119"/>
-<area shape="rect" id="node5" href="$input_8h.html" title="An input." alt="" coords="23,167,190,192"/>
-<area shape="rect" id="node6" href="$stringView_8h.html" title="A string view." alt="" coords="266,167,467,192"/>
+<area shape="rect" id="Node000001" title="A node." alt="" coords="143,5,313,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,240,88,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,48,130,67,85,93,44,126,13,168,9,183,12,198,29,228,24,231,7,200,4,183,8,166,41,123,82,88,127,62,170,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="260,240,335,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,43,351,61,401,87,446,121,466,142,482,165,489,185,484,202,471,216,451,227,401,242,349,250,348,245,400,236,449,222,467,211,479,199,483,185,478,168,462,145,443,125,398,91,349,66,301,48"/>
+<area shape="rect" id="Node000004" href="$entry_8h.html" title="An entry." alt="" coords="145,93,311,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,46,231,79,225,79,225,46"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="233,118,241,152,256,191,280,228,276,231,251,193,236,153,228,119"/>
+<area shape="rect" id="Node000005" href="$input_8h.html" title="An input." alt="" coords="23,167,190,192"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="210,121,139,162,137,157,207,116"/>
+<area shape="rect" id="Node000006" href="$stringView_8h.html" title="A string view." alt="" coords="266,167,467,192"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="251,116,333,158,331,163,249,121"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="99,194,67,231,63,228,95,191"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="138,190,254,232,252,237,136,195"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="357,194,320,232,316,228,353,190"/>
 </map>

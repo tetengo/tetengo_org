@@ -1,4 +1,5 @@
 <map id="tetengo::lattice::n_best_iterator" name="tetengo::lattice::n_best_iterator">
-<area shape="rect" id="node1" title="An N&#45;best lattice path iterator." alt="" coords="220,27,357,67"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,172,89"/>
+<area shape="rect" id="Node000001" title="An N&#45;best lattice path iterator." alt="" coords="220,27,357,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,172,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,45,219,45,219,50,186,50"/>
 </map>

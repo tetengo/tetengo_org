@@ -1,8 +1,13 @@
 <map id="tetengo::property::storage" name="tetengo::property::storage">
-<area shape="rect" id="node1" title="A storage." alt="" coords="203,101,345,141"/>
-<area shape="rect" id="node3" href="$classtetengo_1_1property_1_1file__storage.html" title="A file storage." alt="" coords="418,5,561,45"/>
-<area shape="rect" id="node4" href="$classtetengo_1_1property_1_1memory__storage.html" title="A memory storage." alt="" coords="418,69,561,109"/>
-<area shape="rect" id="node5" href="$classtetengo_1_1property_1_1storage__proxy.html" title="A storage proxy." alt="" coords="418,133,561,173"/>
-<area shape="rect" id="node6" href="$classtetengo_1_1property_1_1windows__registry__storage.html" title="A Windows registry storage." alt="" coords="393,197,585,237"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,109,155,134"/>
+<area shape="rect" id="Node000001" title="A storage." alt="" coords="203,101,345,141"/>
+<area shape="rect" id="Node000003" href="$classtetengo_1_1property_1_1file__storage.html" title="A file storage." alt="" coords="418,5,561,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,92,392,55,423,43,425,48,394,60,322,97"/>
+<area shape="rect" id="Node000004" href="$classtetengo_1_1property_1_1memory__storage.html" title="A memory storage." alt="" coords="418,69,561,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="358,106,417,97,418,103,359,111"/>
+<area shape="rect" id="Node000005" href="$classtetengo_1_1property_1_1storage__proxy.html" title="A storage proxy." alt="" coords="418,133,561,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="359,131,418,140,417,145,358,137"/>
+<area shape="rect" id="Node000006" href="$classtetengo_1_1property_1_1windows__registry__storage.html" title="A Windows registry storage." alt="" coords="393,197,585,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="322,146,394,183,425,195,423,200,392,188,320,151"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,109,155,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,119,202,119,202,124,168,124"/>
 </map>

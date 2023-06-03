@@ -1,9 +1,20 @@
 <map id="library/lattice/c/include/tetengo/lattice/constraintElement.h" name="library/lattice/c/include/tetengo/lattice/constraintElement.h">
-<area shape="rect" id="node1" title="A constraint element." alt="" coords="307,5,563,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="416,313,491,339"/>
-<area shape="rect" id="node3" href="$node_8h.html" title="A node." alt="" coords="292,93,458,119"/>
-<area shape="rect" id="node4" title=" " alt="" coords="6,313,88,339"/>
-<area shape="rect" id="node5" href="$entry_8h.html" title="An entry." alt="" coords="262,167,427,192"/>
-<area shape="rect" id="node6" href="$input_8h.html" title="An input." alt="" coords="24,240,190,265"/>
-<area shape="rect" id="node7" href="$stringView_8h.html" title="A string view." alt="" coords="214,240,416,265"/>
+<area shape="rect" id="Node000001" title="A constraint element." alt="" coords="307,5,563,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="416,313,491,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,44,462,67,472,93,484,140,488,179,487,217,479,266,468,302,463,300,474,265,481,217,483,179,479,141,467,94,458,69,445,47"/>
+<area shape="rect" id="Node000003" href="$node_8h.html" title="A node." alt="" coords="292,93,458,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="423,47,394,84,390,81,418,44"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="394,117,419,137,441,165,455,200,461,236,460,300,455,300,455,237,450,201,437,168,415,141,391,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="6,313,88,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="293,114,221,125,144,148,106,164,71,185,40,211,13,241,8,256,11,271,28,301,24,304,6,273,3,255,9,239,36,207,68,181,104,160,142,143,220,120,292,109"/>
+<area shape="rect" id="Node000005" href="$entry_8h.html" title="An entry." alt="" coords="262,167,427,192"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="372,120,357,155,352,153,368,118"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="370,190,402,210,431,238,446,269,453,299,448,300,441,271,426,242,398,214,367,194"/>
+<area shape="rect" id="Node000006" href="$input_8h.html" title="An input." alt="" coords="24,240,190,265"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="307,195,159,239,158,233,306,189"/>
+<area shape="rect" id="Node000007" href="$stringView_8h.html" title="A string view." alt="" coords="214,240,416,265"/>
+<area shape="poly" id="edge10_Node000005_Node000007" title=" " alt="" coords="342,193,328,228,323,226,337,191"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="163,263,404,312,403,317,162,268"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="99,267,68,305,64,301,95,264"/>
+<area shape="poly" id="edge11_Node000007_Node000002" title=" " alt="" coords="339,263,420,305,418,309,336,268"/>
 </map>

@@ -1,12 +1,26 @@
 <map id="library/property/cpp/include/tetengo/property/storage_proxy.hpp" name="library/property/cpp/include/tetengo/property/storage_proxy.hpp">
-<area shape="rect" id="node1" title="A storage proxy." alt="" coords="181,5,368,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,181,72,207"/>
-<area shape="rect" id="node3" title=" " alt="" coords="96,181,187,207"/>
-<area shape="rect" id="node4" title=" " alt="" coords="211,181,288,207"/>
-<area shape="rect" id="node5" title=" " alt="" coords="312,181,387,207"/>
-<area shape="rect" id="node6" title=" " alt="" coords="881,181,940,207"/>
-<area shape="rect" id="node7" href="$property_2cpp_2include_2tetengo_2property_2storage_8hpp.html" title="A storage." alt="" coords="337,108,549,133"/>
-<area shape="rect" id="node8" title=" " alt="" coords="411,181,535,207"/>
-<area shape="rect" id="node9" title=" " alt="" coords="559,181,627,207"/>
-<area shape="rect" id="node10" title=" " alt="" coords="652,181,857,207"/>
+<area shape="rect" id="Node000001" title="A storage proxy." alt="" coords="181,5,368,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,181,72,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,62,69,176,66,171,234,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,181,187,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,62,162,173,158,169,251,58"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="211,181,288,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,61,256,168,251,167,268,60"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="312,181,387,207"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="289,59,341,168,336,170,285,61"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="881,181,940,207"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="369,54,868,178,867,184,367,59"/>
+<area shape="rect" id="Node000007" href="$property_2cpp_2include_2tetengo_2property_2storage_8hpp.html" title="A storage." alt="" coords="337,108,549,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="327,58,409,99,407,104,325,62"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="363,136,237,156,86,184,85,179,236,151,362,131"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="395,136,200,182,199,176,394,131"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="413,136,294,179,293,174,411,131"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="429,135,377,175,374,171,426,131"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="549,130,697,149,868,179,867,184,696,155,549,136"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="411,181,535,207"/>
+<area shape="poly" id="edge12_Node000007_Node000008" title=" " alt="" coords="450,133,465,168,461,170,445,135"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="559,181,627,207"/>
+<area shape="poly" id="edge13_Node000007_Node000009" title=" " alt="" coords="468,131,557,173,555,178,466,136"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="652,181,857,207"/>
+<area shape="poly" id="edge14_Node000007_Node000010" title=" " alt="" coords="493,131,692,176,690,181,492,136"/>
 </map>

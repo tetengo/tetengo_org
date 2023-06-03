@@ -1,11 +1,32 @@
 <map id="library/lattice/c/include/tetengo/lattice/lattice.h" name="library/lattice/c/include/tetengo/lattice/lattice.h">
-<area shape="rect" id="node1" title="A lattice." alt="" coords="275,5,453,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="76,387,159,412"/>
-<area shape="rect" id="node3" title=" " alt="" coords="537,387,612,412"/>
-<area shape="rect" id="node4" href="$input_8h.html" title="An input." alt="" coords="94,313,261,339"/>
-<area shape="rect" id="node5" href="$node_8h.html" title="A node." alt="" coords="549,167,715,192"/>
-<area shape="rect" id="node8" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="263,93,465,119"/>
-<area shape="rect" id="node6" href="$entry_8h.html" title="An entry." alt="" coords="308,240,473,265"/>
-<area shape="rect" id="node7" href="$stringView_8h.html" title="A string view." alt="" coords="285,313,486,339"/>
-<area shape="rect" id="node9" href="$connection_8h.html" title="A connection." alt="" coords="219,167,423,192"/>
+<area shape="rect" id="Node000001" title="A lattice." alt="" coords="275,5,453,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="76,387,159,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,30,188,40,143,49,101,64,64,83,34,108,15,139,8,178,8,254,10,273,16,292,37,326,63,355,90,377,87,381,60,358,32,329,11,294,5,274,3,254,3,178,10,137,30,104,61,78,99,59,142,44,187,34,274,25"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="537,387,612,412"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="454,40,549,63,647,93,689,111,723,131,746,153,755,178,755,254,751,278,742,300,727,320,709,337,668,365,625,384,623,379,665,360,706,333,723,316,737,298,746,277,749,254,749,178,742,156,720,135,687,116,645,98,548,68,453,46"/>
+<area shape="rect" id="Node000004" href="$input_8h.html" title="An input." alt="" coords="94,313,261,339"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="325,48,290,68,252,95,217,128,189,168,177,193,172,215,172,265,176,299,171,300,167,265,167,214,172,192,184,165,213,125,249,91,287,63,323,43"/>
+<area shape="rect" id="Node000005" href="$node_8h.html" title="A node." alt="" coords="549,167,715,192"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="399,43,601,157,598,162,396,48"/>
+<area shape="rect" id="Node000008" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="263,93,465,119"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="367,46,367,79,361,79,361,46"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="169,341,138,378,134,374,165,337"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="242,336,525,386,524,392,241,341"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="628,194,611,224,583,265,545,307,500,341,474,352,438,362,350,378,173,397,172,392,349,373,437,357,472,347,497,336,542,303,578,261,606,221,624,191"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="639,191,648,219,655,256,657,299,646,340,630,363,609,381,606,377,626,360,642,338,651,298,650,257,642,220,634,193"/>
+<area shape="rect" id="Node000006" href="$entry_8h.html" title="An entry." alt="" coords="308,240,473,265"/>
+<area shape="poly" id="edge9_Node000005_Node000006" title=" " alt="" coords="594,195,444,239,442,233,592,189"/>
+<area shape="poly" id="edge10_Node000006_Node000003" title=" " alt="" coords="418,263,458,283,500,311,534,343,560,374,556,377,530,346,497,315,456,288,416,268"/>
+<area shape="poly" id="edge11_Node000006_Node000004" title=" " alt="" coords="357,268,226,311,224,306,356,263"/>
+<area shape="rect" id="Node000007" href="$stringView_8h.html" title="A string view." alt="" coords="285,313,486,339"/>
+<area shape="poly" id="edge12_Node000006_Node000007" title=" " alt="" coords="392,266,390,300,385,300,387,265"/>
+<area shape="poly" id="edge13_Node000007_Node000003" title=" " alt="" coords="417,336,532,379,530,384,415,341"/>
+<area shape="poly" id="edge15_Node000008_Node000002" title=" " alt="" coords="300,121,243,139,214,152,188,169,149,201,122,231,103,266,85,314,83,330,86,345,101,374,96,376,81,347,78,330,80,313,98,264,118,228,145,197,185,164,212,148,241,134,298,116"/>
+<area shape="poly" id="edge16_Node000008_Node000003" title=" " alt="" coords="390,116,424,137,458,165,498,218,530,276,554,330,569,373,564,374,549,332,525,278,493,221,454,168,421,141,387,121"/>
+<area shape="poly" id="edge20_Node000008_Node000004" title=" " alt="" coords="293,121,248,139,227,152,210,168,192,200,182,235,178,270,178,300,173,300,173,270,176,234,187,198,206,165,224,148,245,134,291,116"/>
+<area shape="poly" id="edge21_Node000008_Node000005" title=" " alt="" coords="408,116,576,161,575,166,406,121"/>
+<area shape="poly" id="edge19_Node000008_Node000006" title=" " alt="" coords="388,117,416,136,438,166,442,184,437,201,417,231,412,228,433,199,437,183,434,168,412,140,385,121"/>
+<area shape="rect" id="Node000009" href="$connection_8h.html" title="A connection." alt="" coords="219,167,423,192"/>
+<area shape="poly" id="edge17_Node000008_Node000009" title=" " alt="" coords="359,120,337,156,333,154,355,118"/>
+<area shape="poly" id="edge18_Node000009_Node000006" title=" " alt="" coords="335,190,372,228,368,232,331,194"/>
 </map>

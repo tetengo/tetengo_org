@@ -1,4 +1,5 @@
 <map id="tetengo_lattice_entriesConnectionCostPair_tag" name="tetengo_lattice_entriesConnectionCostPair_tag">
-<area shape="rect" id="node1" title="A pair of entries and a connection cost." alt="" coords="5,108,251,148"/>
-<area shape="rect" id="node2" href="$structtetengo__lattice__entry__tag.html" title="An entry." alt="" coords="33,5,223,31"/>
+<area shape="rect" id="Node000001" title="A pair of entries and a connection cost." alt="" coords="5,108,251,148"/>
+<area shape="rect" id="Node000002" href="$structtetengo__lattice__entry__tag.html" title="An entry." alt="" coords="33,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,45,131,108,125,108,125,45"/>
 </map>

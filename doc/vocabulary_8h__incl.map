@@ -1,10 +1,26 @@
 <map id="library/lattice/c/include/tetengo/lattice/vocabulary.h" name="library/lattice/c/include/tetengo/lattice/vocabulary.h">
-<area shape="rect" id="node1" title="A vocabulary." alt="" coords="209,5,415,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="513,313,596,339"/>
-<area shape="rect" id="node3" title=" " alt="" coords="224,313,299,339"/>
-<area shape="rect" id="node4" href="$connection_8h.html" title="A connection." alt="" coords="106,93,310,119"/>
-<area shape="rect" id="node5" href="$entry_8h.html" title="An entry." alt="" coords="109,167,275,192"/>
-<area shape="rect" id="node6" href="$input_8h.html" title="An input." alt="" coords="350,240,517,265"/>
-<area shape="rect" id="node8" href="$node_8h.html" title="A node." alt="" coords="335,93,500,119"/>
-<area shape="rect" id="node7" href="$stringView_8h.html" title="A string view." alt="" coords="22,240,223,265"/>
+<area shape="rect" id="Node000001" title="A vocabulary." alt="" coords="209,5,415,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="513,313,596,339"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,30,450,38,482,50,513,68,538,92,554,116,565,143,574,201,571,257,564,300,559,299,566,256,568,202,560,145,550,119,534,95,509,72,480,55,448,43,415,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="224,313,299,339"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,41,144,61,113,76,85,95,52,128,34,159,23,194,12,241,9,253,12,264,24,274,43,283,95,299,155,310,211,317,210,323,154,315,94,304,41,288,21,279,7,267,3,254,7,239,18,193,29,156,48,124,81,91,110,71,142,56,208,36"/>
+<area shape="rect" id="Node000004" href="$connection_8h.html" title="A connection." alt="" coords="106,93,310,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="289,48,236,87,233,83,285,43"/>
+<area shape="rect" id="Node000005" href="$entry_8h.html" title="An entry." alt="" coords="109,167,275,192"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="209,35,177,43,146,55,118,72,96,95,91,104,91,113,101,130,122,146,148,159,145,164,119,150,97,134,86,114,86,103,91,92,115,68,144,50,176,37,208,30"/>
+<area shape="rect" id="Node000006" href="$input_8h.html" title="An input." alt="" coords="350,240,517,265"/>
+<area shape="poly" id="edge12_Node000001_Node000006" title=" " alt="" coords="417,34,444,42,471,54,495,71,514,92,523,110,525,130,521,149,512,169,487,204,459,233,455,229,483,201,507,166,516,148,519,129,518,112,510,95,491,75,468,59,442,47,415,39"/>
+<area shape="rect" id="Node000008" href="$node_8h.html" title="A node." alt="" coords="335,93,500,119"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="339,43,392,83,389,87,336,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="208,120,200,154,195,153,203,118"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="204,191,221,212,237,239,250,270,258,299,253,301,245,272,232,241,216,215,200,194"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="232,189,382,233,380,239,230,195"/>
+<area shape="rect" id="Node000007" href="$stringView_8h.html" title="A string view." alt="" coords="22,240,223,265"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="183,194,145,232,142,228,179,190"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="454,263,525,304,522,309,452,268"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="407,268,303,310,301,306,405,263"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="146,263,228,305,225,309,144,268"/>
+<area shape="poly" id="edge14_Node000008_Node000002" title=" " alt="" coords="432,117,479,167,507,201,530,239,544,269,552,299,547,300,539,271,526,241,502,204,475,170,428,121"/>
+<area shape="poly" id="edge15_Node000008_Node000003" title=" " alt="" coords="411,121,280,304,276,301,407,117"/>
+<area shape="poly" id="edge16_Node000008_Node000005" title=" " alt="" coords="382,121,242,165,241,160,380,116"/>
 </map>

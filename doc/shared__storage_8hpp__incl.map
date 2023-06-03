@@ -1,10 +1,22 @@
 <map id="library/trie/cpp/include/tetengo/trie/shared_storage.hpp" name="library/trie/cpp/include/tetengo/trie/shared_storage.hpp">
-<area shape="rect" id="node1" title="A shared storage." alt="" coords="150,5,385,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,167,52,192"/>
-<area shape="rect" id="node3" title=" " alt="" coords="76,167,147,192"/>
-<area shape="rect" id="node4" title=" " alt="" coords="171,167,238,192"/>
-<area shape="rect" id="node5" title=" " alt="" coords="491,167,563,192"/>
-<area shape="rect" id="node6" title=" " alt="" coords="587,167,665,192"/>
-<area shape="rect" id="node7" href="$trie_2cpp_2include_2tetengo_2trie_2storage_8hpp.html" title="A storage." alt="" coords="242,93,421,119"/>
-<area shape="rect" id="node8" title=" " alt="" coords="262,167,467,192"/>
+<area shape="rect" id="Node000001" title="A shared storage." alt="" coords="150,5,385,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,167,52,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,48,60,161,57,157,236,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="76,167,147,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,48,135,159,131,155,246,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="171,167,238,192"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,47,232,94,213,154,208,152,228,92,253,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="491,167,563,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="329,43,381,64,434,91,476,122,509,154,505,158,472,126,431,96,379,68,327,48"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="587,167,665,192"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="335,43,401,64,470,91,539,125,597,157,594,162,536,129,468,96,399,69,333,48"/>
+<area shape="rect" id="Node000007" href="$trie_2cpp_2include_2tetengo_2trie_2storage_8hpp.html" title="A storage." alt="" coords="242,93,421,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="285,44,315,81,311,84,281,47"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="272,121,179,141,66,169,64,164,178,136,271,116"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="297,121,160,165,159,160,295,116"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="312,121,239,162,236,157,310,116"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="364,116,483,159,482,164,362,121"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="379,116,575,163,574,168,378,121"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="262,167,467,192"/>
+<area shape="poly" id="edge12_Node000007_Node000008" title=" " alt="" coords="339,118,356,153,351,155,334,120"/>
 </map>

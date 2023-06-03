@@ -1,7 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,101,160,141"/>
-<area shape="rect" id="node2" href="$classtetengo_1_1json_1_1reader__iterator.html" title="A reader iterator." alt="" coords="208,5,365,45"/>
-<area shape="rect" id="node3" href="$classtetengo_1_1lattice_1_1n__best__iterator.html" title="An N&#45;best lattice path iterator." alt="" coords="218,69,355,109"/>
-<area shape="rect" id="node4" href="$classtetengo_1_1trie_1_1double__array__iterator.html" title="A double array iterator." alt="" coords="209,133,364,173"/>
-<area shape="rect" id="node5" href="$classtetengo_1_1trie_1_1trie__iterator.html" title="A trie iterator." alt="" coords="215,197,358,237"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,101,160,141"/>
+<area shape="rect" id="Node000001" href="$classtetengo_1_1json_1_1reader__iterator.html" title="A reader iterator." alt="" coords="208,5,365,45"/>
+<area shape="poly" id="edge54_Node000000_Node000001" title=" " alt="" coords="132,92,207,55,234,43,236,48,209,60,134,97"/>
+<area shape="rect" id="Node000002" href="$classtetengo_1_1lattice_1_1n__best__iterator.html" title="An N&#45;best lattice path iterator." alt="" coords="218,69,355,109"/>
+<area shape="poly" id="edge55_Node000000_Node000002" title=" " alt="" coords="173,104,217,97,218,103,174,110"/>
+<area shape="rect" id="Node000003" href="$classtetengo_1_1trie_1_1double__array__iterator.html" title="A double array iterator." alt="" coords="209,133,364,173"/>
+<area shape="poly" id="edge56_Node000000_Node000003" title=" " alt="" coords="174,133,210,139,209,144,173,138"/>
+<area shape="rect" id="Node000004" href="$classtetengo_1_1trie_1_1trie__iterator.html" title="A trie iterator." alt="" coords="215,197,358,237"/>
+<area shape="poly" id="edge57_Node000000_Node000004" title=" " alt="" coords="134,145,209,183,236,195,234,200,207,188,132,150"/>
 </map>

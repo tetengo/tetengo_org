@@ -1,5 +1,7 @@
 <map id="tetengo::lattice::unordered_map_vocabulary" name="tetengo::lattice::unordered_map_vocabulary">
-<area shape="rect" id="node1" title="An unordered map vocabulary." alt="" coords="9,152,203,192"/>
-<area shape="rect" id="node2" href="$classtetengo_1_1lattice_1_1vocabulary.html" title="A vocabulary." alt="" coords="5,79,207,104"/>
-<area shape="rect" id="node3" title=" " alt="" coords="31,5,181,31"/>
+<area shape="rect" id="Node000001" title="An unordered map vocabulary." alt="" coords="9,152,203,192"/>
+<area shape="rect" id="Node000002" href="$classtetengo_1_1lattice_1_1vocabulary.html" title="A vocabulary." alt="" coords="5,79,207,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,118,109,152,103,152,103,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="31,5,181,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,44,109,79,103,79,103,44"/>
 </map>

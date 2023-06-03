@@ -1,5 +1,7 @@
 <map id="tetengo::property::memory_storage" name="tetengo::property::memory_storage">
-<area shape="rect" id="node1" title="A memory storage." alt="" coords="9,167,151,207"/>
-<area shape="rect" id="node2" href="$classtetengo_1_1property_1_1storage.html" title="A storage." alt="" coords="9,79,151,119"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000001" title="A memory storage." alt="" coords="9,167,151,207"/>
+<area shape="rect" id="Node000002" href="$classtetengo_1_1property_1_1storage.html" title="A storage." alt="" coords="9,79,151,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,133,83,166,77,166,77,133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,155,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,44,83,79,77,79,77,44"/>
 </map>

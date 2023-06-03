@@ -1,12 +1,30 @@
 <map id="library/lattice/c/include/tetengo/lattice/input.h" name="library/lattice/c/include/tetengo/lattice/input.h">
-<area shape="rect" id="node1" title="An input." alt="" coords="534,5,705,45"/>
-<area shape="rect" id="node2" href="$entry_8h.html" title="An entry." alt="" coords="377,93,548,133"/>
-<area shape="rect" id="node4" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="446,269,652,309"/>
-<area shape="rect" id="node5" href="$lattice_8h.html" title="A lattice." alt="" coords="460,357,638,397"/>
-<area shape="rect" id="node3" href="$connection_8h.html" title="A connection." alt="" coords="324,181,532,221"/>
-<area shape="rect" id="node7" href="$node_8h.html" title="A node." alt="" coords="129,181,300,221"/>
-<area shape="rect" id="node6" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="134,445,356,485"/>
-<area shape="rect" id="node8" href="$constraint_8h.html" title="A constraint." alt="" coords="38,357,241,397"/>
-<area shape="rect" id="node9" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="64,269,320,309"/>
-<area shape="rect" id="node10" href="$path_8h.html" title="A path." alt="" coords="265,357,436,397"/>
+<area shape="rect" id="Node000001" title="An input." alt="" coords="534,5,705,45"/>
+<area shape="rect" id="Node000002" href="$entry_8h.html" title="An entry." alt="" coords="377,93,548,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="575,54,498,96,496,91,572,50"/>
+<area shape="rect" id="Node000004" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="446,269,652,309"/>
+<area shape="poly" id="edge18_Node000001_Node000004" title=" " alt="" coords="614,59,557,270,552,268,609,58"/>
+<area shape="rect" id="Node000005" href="$lattice_8h.html" title="A lattice." alt="" coords="460,357,638,397"/>
+<area shape="poly" id="edge17_Node000001_Node000005" title=" " alt="" coords="639,56,662,107,682,173,687,208,687,243,681,278,667,311,641,340,608,360,605,355,638,336,663,308,676,277,682,243,682,208,677,174,657,109,634,58"/>
+<area shape="rect" id="Node000003" href="$connection_8h.html" title="A connection." alt="" coords="324,181,532,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,147,438,182,433,180,447,145"/>
+<area shape="poly" id="edge16_Node000002_Node000004" title=" " alt="" coords="510,139,530,158,546,180,554,203,557,227,555,269,550,269,552,227,549,204,541,183,526,161,506,143"/>
+<area shape="rect" id="Node000007" href="$node_8h.html" title="A node." alt="" coords="129,181,300,221"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="396,140,270,184,268,179,394,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,227,524,267,521,271,464,231"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="552,323,552,357,546,357,546,323"/>
+<area shape="rect" id="Node000006" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="134,445,356,485"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="470,404,312,448,311,443,468,399"/>
+<area shape="poly" id="edge15_Node000007_Node000004" title=" " alt="" coords="302,222,476,267,475,272,300,227"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="270,225,358,267,518,355,516,360,356,272,268,229"/>
+<area shape="poly" id="edge12_Node000007_Node000006" title=" " alt="" coords="117,223,76,242,57,255,42,271,20,303,10,333,12,363,29,396,50,418,76,434,105,446,135,455,134,460,103,451,73,439,47,422,24,399,7,365,4,332,15,300,38,268,54,251,73,237,115,218"/>
+<area shape="rect" id="Node000008" href="$constraint_8h.html" title="A constraint." alt="" coords="38,357,241,397"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="117,224,82,243,54,271,48,289,54,308,75,335,102,355,99,359,71,339,49,311,42,289,50,268,79,239,115,220"/>
+<area shape="rect" id="Node000009" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="64,269,320,309"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="209,235,199,270,194,268,203,234"/>
+<area shape="rect" id="Node000010" href="$path_8h.html" title="A path." alt="" coords="265,357,436,397"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="283,226,311,244,334,268,345,290,352,314,354,357,349,357,346,315,340,292,330,271,307,248,280,230"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="175,404,223,443,220,447,172,408"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="176,322,154,359,149,356,171,320"/>
+<area shape="poly" id="edge14_Node000010_Node000006" title=" " alt="" coords="318,408,270,447,267,443,315,404"/>
 </map>

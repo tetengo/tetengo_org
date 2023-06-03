@@ -6,12 +6,22 @@
 <!-- Title: library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp Pages: 1 -->
 <svg width="348pt" height="181pt"
  viewBox="0.00 0.00 347.50 181.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
+<style type="text/css"><![CDATA[
+.node, .edge {opacity: 0.7;}
+.node.selected, .edge.selected {opacity: 1;}
+.edge:hover path { stroke: red; }
+.edge:hover polygon { stroke: red; fill: red; }
+]]></style>
+<script type="application/ecmascript" xlink:href="svg.min.js"/>
+<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 177)">
 <title>library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp</title>
 <!-- Node1 -->
-<g id="node1" class="node">
+<g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="A double array iterator.">
+<g id="a_Node000001"><a xlink:title="A double array iterator.">
 <polygon fill="#999999" stroke="#666666" points="242,-173 99,-173 99,-132 242,-132 242,-173"/>
 <text text-anchor="start" x="107" y="-161" font-family="Helvetica,sans-Serif" font-size="10.00">library/trie/cpp/include</text>
 <text text-anchor="start" x="107" y="-150" font-family="Helvetica,sans-Serif" font-size="10.00">/tetengo/trie/double_array</text>
@@ -20,9 +30,9 @@
 </g>
 </g>
 <!-- Node2 -->
-<g id="node2" class="node">
+<g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="double__array_8hpp.html" target="_top" xlink:title="A double array.">
+<g id="a_Node000002"><a xlink:href="double__array_8hpp.html" target="_top" xlink:title="A double array.">
 <polygon fill="white" stroke="#666666" points="163,-96 0,-96 0,-66 163,-66 163,-96"/>
 <text text-anchor="start" x="8" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">library/trie/cpp/include</text>
 <text text-anchor="middle" x="81.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/tetengo/trie/double_array.hpp</text>
@@ -30,15 +40,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge">
+<g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
+<g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M137.08,-125.41C124.32,-115.44 110.26,-104.46 99.48,-96.04"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="135.2,-128.37 145.23,-131.77 139.51,-122.86 135.2,-128.37"/>
+</a>
+</g>
 </g>
 <!-- Node3 -->
-<g id="node3" class="node">
+<g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="trie__iterator_8hpp.html" target="_top" xlink:title="A trie iterator.">
+<g id="a_Node000003"><a xlink:href="trie__iterator_8hpp.html" target="_top" xlink:title="A trie iterator.">
 <polygon fill="white" stroke="#666666" points="339.5,-96 181.5,-96 181.5,-66 339.5,-66 339.5,-96"/>
 <text text-anchor="start" x="189.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">library/trie/cpp/include</text>
 <text text-anchor="middle" x="260.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/tetengo/trie/trie_iterator.hpp</text>
@@ -46,15 +59,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge">
+<g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
+<g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M204.29,-125.41C217.2,-115.44 231.41,-104.46 242.32,-96.04"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="201.83,-122.89 196.05,-131.77 206.1,-128.43 201.83,-122.89"/>
+</a>
+</g>
 </g>
 <!-- Node4 -->
-<g id="node4" class="node">
+<g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="trie_8hpp.html" target="_top" xlink:title="A trie.">
+<g id="a_Node000004"><a xlink:href="trie_8hpp.html" target="_top" xlink:title="A trie.">
 <polygon fill="white" stroke="#666666" points="323.5,-30 197.5,-30 197.5,0 323.5,0 323.5,-30"/>
 <text text-anchor="start" x="205.5" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">library/trie/cpp/include</text>
 <text text-anchor="middle" x="260.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">/tetengo/trie/trie.hpp</text>
@@ -62,10 +78,28 @@
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
+<g id="edge3_Node000003_Node000004" class="edge">
 <title>Node3&#45;&gt;Node4</title>
+<g id="a_edge3_Node000003_Node000004"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M260.5,-55.54C260.5,-46.96 260.5,-37.61 260.5,-30.16"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="257,-55.8 260.5,-65.8 264,-55.8 257,-55.8"/>
+</a>
 </g>
 </g>
+</g>
+</svg>
+</svg>
+
+<style type='text/css'>
+<![CDATA[
+[data-mouse-over-selected='false'] { opacity: 0.7; }
+[data-mouse-over-selected='true']  { opacity: 1.0; }
+]]>
+</style>
+<script type="application/ecmascript"><![CDATA[
+document.addEventListener('DOMContentLoaded', (event) => {
+  highlightEdges();
+  highlightAdjacentNodes();
+});
+]]></script>
 </svg>

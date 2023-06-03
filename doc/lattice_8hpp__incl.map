@@ -1,8 +1,13 @@
 <map id="library/lattice/cpp/include/tetengo/lattice/lattice.hpp" name="library/lattice/cpp/include/tetengo/lattice/lattice.hpp">
-<area shape="rect" id="node1" title="A lattice." alt="" coords="147,5,319,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,108,76,133"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,108,178,133"/>
-<area shape="rect" id="node4" title=" " alt="" coords="203,108,263,133"/>
-<area shape="rect" id="node5" title=" " alt="" coords="287,108,349,133"/>
-<area shape="rect" id="node6" title=" " alt="" coords="374,108,579,133"/>
+<area shape="rect" id="Node000001" title="A lattice." alt="" coords="147,5,319,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,76,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,63,80,105,78,100,173,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,108,178,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,62,164,100,160,96,202,58"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="203,108,263,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,60,235,94,230,94,230,60"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="287,108,349,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="261,58,299,96,295,100,257,62"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="374,108,579,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="308,58,432,101,430,106,306,63"/>
 </map>

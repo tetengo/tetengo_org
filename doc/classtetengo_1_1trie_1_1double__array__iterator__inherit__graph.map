@@ -1,4 +1,5 @@
 <map id="tetengo::trie::double_array_iterator" name="tetengo::trie::double_array_iterator">
-<area shape="rect" id="node1" title="A double array iterator." alt="" coords="235,27,389,67"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,187,89"/>
+<area shape="rect" id="Node000001" title="A double array iterator." alt="" coords="235,27,389,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,187,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,45,234,45,234,50,201,50"/>
 </map>

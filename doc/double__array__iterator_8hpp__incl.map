@@ -1,12 +1,21 @@
 <map id="library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp" name="library/trie/cpp/include/tetengo/trie/double_array_iterator.hpp">
-<area shape="rect" id="node1" title="A double array iterator." alt="" coords="320,5,511,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,115,76,141"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,115,167,141"/>
-<area shape="rect" id="node4" title=" " alt="" coords="192,115,263,141"/>
-<area shape="rect" id="node5" title=" " alt="" coords="287,115,362,141"/>
-<area shape="rect" id="node6" title=" " alt="" coords="387,115,444,141"/>
-<area shape="rect" id="node7" title=" " alt="" coords="469,115,527,141"/>
-<area shape="rect" id="node8" title=" " alt="" coords="552,115,612,141"/>
-<area shape="rect" id="node9" title=" " alt="" coords="636,115,699,141"/>
-<area shape="rect" id="node10" title=" " alt="" coords="723,108,889,148"/>
+<area shape="rect" id="Node000001" title="A double array iterator." alt="" coords="320,5,511,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,115,76,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,54,209,79,89,111,82,113,80,108,88,105,208,73,319,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,115,167,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,63,180,111,174,113,173,108,178,105,325,58"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,115,263,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,62,264,112,261,107,361,58"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="287,115,362,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="392,62,348,107,344,103,388,58"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="387,115,444,141"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="418,60,418,101,413,101,413,60"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="469,115,527,141"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="441,59,480,103,476,107,437,62"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="552,115,612,141"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="463,58,551,107,549,111,461,62"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="636,115,699,141"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="494,58,626,106,631,107,629,112,624,110,492,63"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="723,108,889,148"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="512,54,715,102,713,107,510,59"/>
 </map>

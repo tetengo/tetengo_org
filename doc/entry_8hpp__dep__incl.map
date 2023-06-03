@@ -1,8 +1,15 @@
 <map id="library/lattice/cpp/include/tetengo/lattice/entry.hpp" name="library/lattice/cpp/include/tetengo/lattice/entry.hpp">
-<area shape="rect" id="node1" title="An entry." alt="" coords="187,5,359,60"/>
-<area shape="rect" id="node2" href="$node_8hpp.html" title="A node." alt="" coords="63,108,235,163"/>
-<area shape="rect" id="node5" href="$unordered__map__vocabulary_8hpp.html" title="An unordered map vocabulary." alt="" coords="275,211,508,265"/>
-<area shape="rect" id="node6" href="$vocabulary_8hpp.html" title="A vocabulary." alt="" coords="311,108,483,163"/>
-<area shape="rect" id="node3" href="$n__best__iterator_8hpp.html" title="An N&#45;best lattice path iterator." alt="" coords="5,313,177,368"/>
-<area shape="rect" id="node4" href="$path_8hpp.html" title="A path." alt="" coords="68,211,240,265"/>
+<area shape="rect" id="Node000001" title="An entry." alt="" coords="187,5,359,60"/>
+<area shape="rect" id="Node000002" href="$node_8hpp.html" title="A node." alt="" coords="63,108,235,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,71,183,110,179,106,228,67"/>
+<area shape="rect" id="Node000005" href="$unordered__map__vocabulary_8hpp.html" title="An unordered map vocabulary." alt="" coords="275,211,508,265"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="277,73,284,117,302,161,323,187,348,208,345,212,319,191,297,164,279,119,271,74"/>
+<area shape="rect" id="Node000006" href="$vocabulary_8hpp.html" title="A vocabulary." alt="" coords="311,108,483,163"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="318,67,366,106,363,110,314,71"/>
+<area shape="rect" id="Node000003" href="$n__best__iterator_8hpp.html" title="An N&#45;best lattice path iterator." alt="" coords="5,313,177,368"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,173,72,191,58,212,52,237,55,264,64,290,76,312,71,314,59,292,50,265,46,237,53,210,68,187,87,169"/>
+<area shape="rect" id="Node000004" href="$path_8hpp.html" title="A path." alt="" coords="68,211,240,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="153,176,155,210,150,211,148,177"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="133,279,110,315,105,312,128,276"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="397,177,395,211,390,210,392,176"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="library/lattice/cpp/include/tetengo/lattice/constraint.hpp" name="library/lattice/cpp/include/tetengo/lattice/constraint.hpp">
-<area shape="rect" id="node1" title="A constraint." alt="" coords="53,5,225,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,108,83,133"/>
-<area shape="rect" id="node3" title=" " alt="" coords="107,108,170,133"/>
-<area shape="rect" id="node4" title=" " alt="" coords="195,108,400,133"/>
+<area shape="rect" id="Node000001" title="A constraint." alt="" coords="53,5,225,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,83,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,62,69,101,65,97,108,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="107,108,170,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,60,141,94,136,94,136,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,108,400,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,58,265,99,263,104,186,62"/>
 </map>

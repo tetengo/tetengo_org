@@ -1,11 +1,26 @@
 <map id="library/lattice/c/include/tetengo/lattice/entry.h" name="library/lattice/c/include/tetengo/lattice/entry.h">
-<area shape="rect" id="node1" title="An entry." alt="" coords="165,5,336,45"/>
-<area shape="rect" id="node2" href="$connection_8h.html" title="A connection." alt="" coords="5,93,213,133"/>
-<area shape="rect" id="node3" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="53,181,259,221"/>
-<area shape="rect" id="node6" href="$node_8h.html" title="A node." alt="" coords="288,93,459,133"/>
-<area shape="rect" id="node4" href="$lattice_8h.html" title="A lattice." alt="" coords="132,269,311,309"/>
-<area shape="rect" id="node5" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="307,357,528,397"/>
-<area shape="rect" id="node7" href="$constraint_8h.html" title="A constraint." alt="" coords="385,269,588,309"/>
-<area shape="rect" id="node8" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="436,181,692,221"/>
-<area shape="rect" id="node9" href="$path_8h.html" title="A path." alt="" coords="628,269,799,309"/>
+<area shape="rect" id="Node000001" title="An entry." alt="" coords="165,5,336,45"/>
+<area shape="rect" id="Node000002" href="$connection_8h.html" title="A connection." alt="" coords="5,93,213,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,55,142,96,139,91,207,50"/>
+<area shape="rect" id="Node000003" href="$vocabulary_8h.html" title="A vocabulary." alt="" coords="53,181,259,221"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="250,59,243,97,228,135,207,162,184,183,180,179,203,158,223,132,238,95,245,58"/>
+<area shape="rect" id="Node000006" href="$node_8h.html" title="A node." alt="" coords="288,93,459,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="290,51,348,91,345,95,287,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,144,148,180,143,182,124,147"/>
+<area shape="rect" id="Node000004" href="$lattice_8h.html" title="A lattice." alt="" coords="132,269,311,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,231,209,267,205,271,177,234"/>
+<area shape="rect" id="Node000005" href="$nBestIterator_8h.html" title="An N&#45;best lattice path iterator." alt="" coords="307,357,528,397"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="278,312,375,355,373,360,276,317"/>
+<area shape="poly" id="edge14_Node000006_Node000003" title=" " alt="" coords="314,141,205,184,203,179,312,136"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="350,146,240,271,236,267,346,142"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="370,147,365,222,367,266,376,309,387,334,403,356,398,359,383,337,371,310,362,267,360,222,365,147"/>
+<area shape="rect" id="Node000007" href="$constraint_8h.html" title="A constraint." alt="" coords="385,269,588,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="388,145,404,182,426,220,468,267,464,271,422,223,400,184,383,147"/>
+<area shape="rect" id="Node000008" href="$constraintElement_8h.html" title="A constraint element." alt="" coords="436,181,692,221"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="429,137,523,179,521,184,427,141"/>
+<area shape="rect" id="Node000009" href="$path_8h.html" title="A path." alt="" coords="628,269,799,309"/>
+<area shape="poly" id="edge12_Node000006_Node000009" title=" " alt="" coords="473,119,541,127,610,139,668,156,690,167,706,180,718,201,723,225,720,269,715,269,718,226,713,203,702,183,687,172,666,161,608,145,540,132,472,124"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="465,322,435,359,431,355,461,319"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="540,233,506,271,502,267,536,230"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="636,316,483,360,481,355,635,311"/>
 </map>

@@ -1,5 +1,7 @@
 <map id="library/text/cpp/include/tetengo/text/grapheme_splitting/character_width.hpp" name="library/text/cpp/include/tetengo/text/grapheme_splitting/character_width.hpp">
-<area shape="rect" id="node1" title="A character width." alt="" coords="147,5,365,60"/>
-<area shape="rect" id="node2" href="$default__characterX_8hpp.html" title="A default character width." alt="" coords="5,108,243,163"/>
-<area shape="rect" id="node3" href="$east__asian__characX_8hpp.html" title="An east Asian character width." alt="" coords="267,108,509,163"/>
+<area shape="rect" id="Node000001" title="A character width." alt="" coords="147,5,365,60"/>
+<area shape="rect" id="Node000002" href="$default__characterX_8hpp.html" title="A default character width." alt="" coords="5,108,243,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,70,160,110,157,106,209,66"/>
+<area shape="rect" id="Node000003" href="$east__asian__characX_8hpp.html" title="An east Asian character width." alt="" coords="267,108,509,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,66,355,106,352,110,300,70"/>
 </map>

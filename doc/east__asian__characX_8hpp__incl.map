@@ -1,7 +1,12 @@
 <map id="library/text/cpp/include/tetengo/text/grapheme_splitting/east_asian_characX.hpp" name="library/text/cpp/include/tetengo/text/grapheme_splitting/east_asian_characX.hpp">
-<area shape="rect" id="node1" title="An east Asian character width." alt="" coords="5,5,248,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="47,211,118,236"/>
-<area shape="rect" id="node3" title=" " alt="" coords="88,123,165,148"/>
-<area shape="rect" id="node4" href="$character__width_8hpp.html" title="A character width." alt="" coords="190,108,362,163"/>
-<area shape="rect" id="node5" title=" " alt="" coords="173,211,379,236"/>
+<area shape="rect" id="Node000001" title="An east Asian character width." alt="" coords="5,5,248,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="47,211,118,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,62,90,84,79,109,74,131,74,155,79,197,74,198,68,155,69,131,73,107,85,81,101,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,123,165,148"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,60,129,109,124,109,124,60"/>
+<area shape="rect" id="Node000004" href="$character__width_8hpp.html" title="A character width." alt="" coords="190,108,362,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,58,227,98,224,102,164,62"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="218,165,122,208,120,203,216,160"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="173,211,379,236"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="279,163,279,197,273,197,273,163"/>
 </map>

@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 122)">
 <title>library/property/cpp/include/tetengo/property/storage.hpp</title>
 <!-- Node1 -->
-<g id="node1" class="node">
+<g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="A storage.">
+<g id="a_Node000001"><a xlink:title="A storage.">
 <polygon fill="#999999" stroke="#666666" points="377,-118 237,-118 237,-77 377,-77 377,-118"/>
 <text text-anchor="start" x="245" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">library/property/cpp</text>
 <text text-anchor="start" x="245" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/property</text>
@@ -20,9 +20,9 @@
 </g>
 </g>
 <!-- Node2 -->
-<g id="node2" class="node">
+<g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="file__storage_8hpp.html" target="_top" xlink:title="A file storage.">
+<g id="a_Node000002"><a xlink:href="file__storage_8hpp.html" target="_top" xlink:title="A file storage.">
 <polygon fill="white" stroke="#666666" points="140,-41 0,-41 0,0 140,0 140,-41"/>
 <text text-anchor="start" x="8" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">library/property/cpp</text>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/property</text>
@@ -31,15 +31,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge">
+<g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
+<g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M235.73,-73.94C202.61,-63.46 163.6,-51.12 131.75,-41.04"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="234.76,-77.31 245.35,-76.99 236.87,-70.64 234.76,-77.31"/>
+</a>
+</g>
 </g>
 <!-- Node3 -->
-<g id="node3" class="node">
+<g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="property_2cpp_2include_2tetengo_2property_2memory__storage_8hpp.html" target="_top" xlink:title="A memory storage.">
+<g id="a_Node000003"><a xlink:href="property_2cpp_2include_2tetengo_2property_2memory__storage_8hpp.html" target="_top" xlink:title="A memory storage.">
 <polygon fill="white" stroke="#666666" points="298,-41 158,-41 158,0 298,0 298,-41"/>
 <text text-anchor="start" x="166" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">library/property/cpp</text>
 <text text-anchor="start" x="166" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/property</text>
@@ -48,15 +51,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge">
+<g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
+<g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M278.87,-69.79C268.89,-60.32 257.85,-49.84 248.62,-41.07"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="276.58,-72.45 286.24,-76.79 281.4,-67.37 276.58,-72.45"/>
+</a>
+</g>
 </g>
 <!-- Node4 -->
-<g id="node4" class="node">
+<g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="storage__proxy_8hpp.html" target="_top" xlink:title="A storage proxy.">
+<g id="a_Node000004"><a xlink:href="storage__proxy_8hpp.html" target="_top" xlink:title="A storage proxy.">
 <polygon fill="white" stroke="#666666" points="456,-41 316,-41 316,0 456,0 456,-41"/>
 <text text-anchor="start" x="324" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">library/property/cpp</text>
 <text text-anchor="start" x="324" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/property</text>
@@ -65,15 +71,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
+<g id="edge3_Node000001_Node000004" class="edge">
 <title>Node1&#45;&gt;Node4</title>
+<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M335.13,-69.79C345.11,-60.32 356.15,-49.84 365.38,-41.07"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="332.6,-67.37 327.76,-76.79 337.42,-72.45 332.6,-67.37"/>
+</a>
+</g>
 </g>
 <!-- Node5 -->
-<g id="node5" class="node">
+<g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="windows__registry__storage_8hpp.html" target="_top" xlink:title="A Windows registry storage.">
+<g id="a_Node000005"><a xlink:href="windows__registry__storage_8hpp.html" target="_top" xlink:title="A Windows registry storage.">
 <polygon fill="white" stroke="#666666" points="642,-41 474,-41 474,0 642,0 642,-41"/>
 <text text-anchor="start" x="482" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">library/property/cpp</text>
 <text text-anchor="start" x="482" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/property</text>
@@ -82,10 +91,13 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
-<g id="edge4" class="edge">
+<g id="edge4_Node000001_Node000005" class="edge">
 <title>Node1&#45;&gt;Node5</title>
+<g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M382.03,-74.08C417.21,-63.57 458.73,-51.16 492.6,-41.04"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="380.87,-70.77 372.29,-76.99 382.88,-77.48 380.87,-70.77"/>
+</a>
+</g>
 </g>
 </g>
 </svg>

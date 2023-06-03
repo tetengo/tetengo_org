@@ -1,4 +1,5 @@
 <map id="tetengo::property::property_set" name="tetengo::property::property_set">
-<area shape="rect" id="node1" title="A property set." alt="" coords="9,79,151,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000001" title="A property set." alt="" coords="9,79,151,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,44,83,79,77,79,77,44"/>
 </map>

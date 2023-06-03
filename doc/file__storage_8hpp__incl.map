@@ -1,12 +1,23 @@
 <map id="library/property/cpp/include/tetengo/property/file_storage.hpp" name="library/property/cpp/include/tetengo/property/file_storage.hpp">
-<area shape="rect" id="node1" title="A file storage." alt="" coords="65,5,252,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,181,96,207"/>
-<area shape="rect" id="node3" title=" " alt="" coords="120,181,197,207"/>
-<area shape="rect" id="node4" href="$property_2cpp_2include_2tetengo_2property_2storage_8hpp.html" title="A storage." alt="" coords="243,108,455,133"/>
-<area shape="rect" id="node5" title=" " alt="" coords="221,181,288,207"/>
-<area shape="rect" id="node6" title=" " alt="" coords="312,181,387,207"/>
-<area shape="rect" id="node7" title=" " alt="" coords="411,181,469,207"/>
-<area shape="rect" id="node8" title=" " alt="" coords="494,181,618,207"/>
-<area shape="rect" id="node9" title=" " alt="" coords="642,181,710,207"/>
-<area shape="rect" id="node10" title=" " alt="" coords="735,181,940,207"/>
+<area shape="rect" id="Node000001" title="A file storage." alt="" coords="65,5,252,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,181,96,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,62,69,171,64,168,139,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="120,181,197,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,60,161,168,156,168,156,60"/>
+<area shape="rect" id="Node000004" href="$property_2cpp_2include_2tetengo_2property_2storage_8hpp.html" title="A storage." alt="" coords="243,108,455,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,58,312,100,310,105,216,63"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="302,136,110,181,109,176,301,131"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="320,136,204,179,202,174,318,131"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="221,181,288,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="336,135,283,175,280,171,333,131"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="312,181,387,207"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="352,134,352,168,347,168,347,134"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="411,181,469,207"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="366,131,416,170,413,175,362,135"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="494,181,618,207"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="383,131,510,174,509,179,382,136"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="642,181,710,207"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="407,131,629,178,628,183,406,136"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="735,181,940,207"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="428,131,745,177,745,182,427,136"/>
 </map>

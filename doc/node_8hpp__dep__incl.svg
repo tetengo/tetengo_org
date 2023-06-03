@@ -6,12 +6,22 @@
 <!-- Title: library/lattice/cpp/include/tetengo/lattice/node.hpp Pages: 1 -->
 <svg width="184pt" height="203pt"
  viewBox="0.00 0.00 184.00 203.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
+<style type="text/css"><![CDATA[
+.node, .edge {opacity: 0.7;}
+.node.selected, .edge.selected {opacity: 1;}
+.edge:hover path { stroke: red; }
+.edge:hover polygon { stroke: red; fill: red; }
+]]></style>
+<script type="application/ecmascript" xlink:href="svg.min.js"/>
+<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 199)">
 <title>library/lattice/cpp/include/tetengo/lattice/node.hpp</title>
 <!-- Node1 -->
-<g id="node1" class="node">
+<g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="A node.">
+<g id="a_Node000001"><a xlink:title="A node.">
 <polygon fill="#999999" stroke="#666666" points="129,-195 0,-195 0,-154 129,-154 129,-195"/>
 <text text-anchor="start" x="8" y="-183" font-family="Helvetica,sans-Serif" font-size="10.00">library/lattice/cpp</text>
 <text text-anchor="start" x="8" y="-172" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/lattice</text>
@@ -20,9 +30,9 @@
 </g>
 </g>
 <!-- Node2 -->
-<g id="node2" class="node">
+<g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="n__best__iterator_8hpp.html" target="_top" xlink:title="An N&#45;best lattice path iterator.">
+<g id="a_Node000002"><a xlink:href="n__best__iterator_8hpp.html" target="_top" xlink:title="An N&#45;best lattice path iterator.">
 <polygon fill="white" stroke="#666666" points="129,-41 0,-41 0,0 129,0 129,-41"/>
 <text text-anchor="start" x="8" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">library/lattice/cpp</text>
 <text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/lattice</text>
@@ -31,15 +41,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge">
+<g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
+<g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M47.5,-144.8C43.4,-136.44 39.6,-127.1 37.5,-118 33.41,-100.24 33.41,-94.76 37.5,-77 40.39,-64.47 46.5,-51.49 52.18,-41.24"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="44.45,-146.52 52.18,-153.76 50.65,-143.28 44.45,-146.52"/>
+</a>
+</g>
 </g>
 <!-- Node3 -->
-<g id="node3" class="node">
+<g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="path_8hpp.html" target="_top" xlink:title="A path.">
+<g id="a_Node000003"><a xlink:href="path_8hpp.html" target="_top" xlink:title="A path.">
 <polygon fill="white" stroke="#666666" points="176,-118 47,-118 47,-77 176,-77 176,-118"/>
 <text text-anchor="start" x="55" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">library/lattice/cpp</text>
 <text text-anchor="start" x="55" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">/include/tetengo/lattice</text>
@@ -48,16 +61,37 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge">
+<g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
+<g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M82.29,-145.11C87.94,-136.09 94.06,-126.33 99.23,-118.07"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="79.19,-143.46 76.85,-153.79 85.12,-147.18 79.19,-143.46"/>
+</a>
+</g>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
-<g id="edge3" class="edge">
+<g id="edge3_Node000003_Node000002" class="edge">
 <title>Node3&#45;&gt;Node2</title>
+<g id="a_edge3_Node000003_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M93.71,-68.11C88.06,-59.09 81.94,-49.33 76.77,-41.07"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="90.88,-70.18 99.15,-76.79 96.81,-66.46 90.88,-70.18"/>
+</a>
 </g>
 </g>
+</g>
+</svg>
+</svg>
+
+<style type='text/css'>
+<![CDATA[
+[data-mouse-over-selected='false'] { opacity: 0.7; }
+[data-mouse-over-selected='true']  { opacity: 1.0; }
+]]>
+</style>
+<script type="application/ecmascript"><![CDATA[
+document.addEventListener('DOMContentLoaded', (event) => {
+  highlightEdges();
+  highlightAdjacentNodes();
+});
+]]></script>
 </svg>

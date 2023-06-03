@@ -1,6 +1,9 @@
 <map id="library/json/cpp/include/tetengo/json/reader_iterator.hpp" name="library/json/cpp/include/tetengo/json/reader_iterator.hpp">
-<area shape="rect" id="node1" title="A reader iterato." alt="" coords="18,5,253,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,101,76,126"/>
-<area shape="rect" id="node3" title=" " alt="" coords="100,101,171,126"/>
-<area shape="rect" id="node4" title=" " alt="" coords="195,93,361,133"/>
+<area shape="rect" id="Node000001" title="A reader iterato." alt="" coords="18,5,253,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,101,76,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,48,66,93,62,89,113,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,101,171,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,46,138,87,133,87,133,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="195,93,361,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,43,236,84,234,89,165,48"/>
 </map>

@@ -1,4 +1,5 @@
 <map id="tetengo::trie::trie&lt; Key, Value, KeySerializer &gt;" name="tetengo::trie::trie&lt; Key, Value, KeySerializer &gt;">
-<area shape="rect" id="node1" title="A trie." alt="" coords="5,79,219,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="37,5,187,31"/>
+<area shape="rect" id="Node000001" title="A trie." alt="" coords="5,79,219,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,187,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,44,115,79,109,79,109,44"/>
 </map>

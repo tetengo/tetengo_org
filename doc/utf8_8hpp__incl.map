@@ -1,6 +1,9 @@
 <map id="library/text/cpp/include/tetengo/text/encoding/utf8.hpp" name="library/text/cpp/include/tetengo/text/encoding/utf8.hpp">
-<area shape="rect" id="node1" title="A UTF&#45;8 encoding." alt="" coords="70,5,242,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,108,83,133"/>
-<area shape="rect" id="node3" title=" " alt="" coords="107,108,205,133"/>
-<area shape="rect" id="node4" title=" " alt="" coords="229,108,435,133"/>
+<area shape="rect" id="Node000001" title="A UTF&#45;8 encoding." alt="" coords="70,5,242,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,108,83,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,62,72,102,69,97,120,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="107,108,205,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,60,159,94,153,94,153,60"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="229,108,435,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,58,297,100,295,104,209,62"/>
 </map>

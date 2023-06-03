@@ -6,12 +6,22 @@
 <!-- Title: library/text/cpp/include/tetengo/text/encoding/utf8.hpp Pages: 1 -->
 <svg width="330pt" height="104pt"
  viewBox="0.00 0.00 330.00 104.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
+<style type="text/css"><![CDATA[
+.node, .edge {opacity: 0.7;}
+.node.selected, .edge.selected {opacity: 1;}
+.edge:hover path { stroke: red; }
+.edge:hover polygon { stroke: red; fill: red; }
+]]></style>
+<script type="application/ecmascript" xlink:href="svg.min.js"/>
+<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 100)">
 <title>library/text/cpp/include/tetengo/text/encoding/utf8.hpp</title>
 <!-- Node1 -->
-<g id="node1" class="node">
+<g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="A UTF&#45;8 encoding.">
+<g id="a_Node000001"><a xlink:title="A UTF&#45;8 encoding.">
 <polygon fill="#999999" stroke="#666666" points="177.5,-96 48.5,-96 48.5,-55 177.5,-55 177.5,-96"/>
 <text text-anchor="start" x="56.5" y="-84" font-family="Helvetica,sans-Serif" font-size="10.00">library/text/cpp/include</text>
 <text text-anchor="start" x="56.5" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">/tetengo/text/encoding</text>
@@ -20,49 +30,73 @@
 </g>
 </g>
 <!-- Node2 -->
-<g id="node2" class="node">
+<g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:title=" ">
+<g id="a_Node000002"><a xlink:title=" ">
 <polygon fill="#e0e0e0" stroke="#999999" points="58,-19 0,-19 0,0 58,0 58,-19"/>
 <text text-anchor="middle" x="29" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">memory</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
-<g id="edge1" class="edge">
+<g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
+<g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M87.34,-54.95C74.88,-45.46 60.15,-34.24 48.61,-25.44"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="50.57,-22.54 40.5,-19.26 46.33,-28.11 50.57,-22.54"/>
+</a>
+</g>
 </g>
 <!-- Node3 -->
-<g id="node3" class="node">
+<g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:title=" ">
+<g id="a_Node000003"><a xlink:title=" ">
 <polygon fill="#e0e0e0" stroke="#999999" points="149.5,-19 76.5,-19 76.5,0 149.5,0 149.5,-19"/>
 <text text-anchor="middle" x="113" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">string_view</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge">
+<g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
+<g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M113,-54.95C113,-46.85 113,-37.5 113,-29.47"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="116.5,-29.26 113,-19.26 109.5,-29.26 116.5,-29.26"/>
+</a>
+</g>
 </g>
 <!-- Node4 -->
-<g id="node4" class="node">
+<g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:title=" ">
+<g id="a_Node000004"><a xlink:title=" ">
 <polygon fill="#e0e0e0" stroke="#999999" points="322,-19 168,-19 168,0 322,0 322,-19"/>
 <text text-anchor="middle" x="245" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">boost/core/noncopyable.hpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
+<g id="edge3_Node000001_Node000004" class="edge">
 <title>Node1&#45;&gt;Node4</title>
+<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M153.32,-54.95C174.37,-44.75 199.54,-32.54 218.18,-23.5"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="219.81,-26.6 227.28,-19.09 216.75,-20.31 219.81,-26.6"/>
+</a>
 </g>
 </g>
+</g>
+</svg>
+</svg>
+
+<style type='text/css'>
+<![CDATA[
+[data-mouse-over-selected='false'] { opacity: 0.7; }
+[data-mouse-over-selected='true']  { opacity: 1.0; }
+]]>
+</style>
+<script type="application/ecmascript"><![CDATA[
+document.addEventListener('DOMContentLoaded', (event) => {
+  highlightEdges();
+  highlightAdjacentNodes();
+});
+]]></script>
 </svg>

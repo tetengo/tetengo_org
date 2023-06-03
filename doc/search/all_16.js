@@ -2,7 +2,7 @@ var searchData=
 [
   ['whole_5fpath_5fcost_0',['whole_path_cost',['../classtetengo_1_1lattice_1_1cap.html#a951b74e3d46b41aa6c16d1346bf0bd08',1,'tetengo::lattice::cap']]],
   ['wide_1',['wide',['../classtetengo_1_1text_1_1grapheme__splitting_1_1character__width.html#a479d9848061aa467bfbdc030cfae3416ab71e59a3962a4af02e9a7dc3b88ed3ea',1,'tetengo::text::grapheme_splitting::character_width']]],
-  ['width_2',['width',['../classtetengo_1_1text_1_1grapheme.html#a316323c4b2d8ee1b4688d39a6c6db61f',1,'tetengo::text::grapheme::width()'],['../structtetengo__text__grapheme__tag.html#a1316fcf9aef27487ffaa7cd7fcdf7b10',1,'tetengo_text_grapheme_tag::width()']]],
+  ['width_2',['width',['../classtetengo_1_1text_1_1grapheme.html#a316323c4b2d8ee1b4688d39a6c6db61f',1,'tetengo::text::grapheme::width()'],['../structtetengo__text__grapheme__tag.html#a1316fcf9aef27487ffaa7cd7fcdf7b10',1,'tetengo_text_grapheme_tag::width']]],
   ['width_5fof_3',['width_of',['../classtetengo_1_1text_1_1grapheme__splitting_1_1character__width.html#a45fed4a4599b4756f42b77e11fcc2ece',1,'tetengo::text::grapheme_splitting::character_width']]],
   ['wildcard_5fconstraint_5felement_4',['wildcard_constraint_element',['../classtetengo_1_1lattice_1_1wildcard__constraint__element.html',1,'tetengo::lattice::wildcard_constraint_element'],['../classtetengo_1_1lattice_1_1wildcard__constraint__element.html#a9c6b0dc682a0315bcae90e80606b063c',1,'tetengo::lattice::wildcard_constraint_element::wildcard_constraint_element()']]],
   ['wildcard_5fconstraint_5felement_2ehpp_5',['wildcard_constraint_element.hpp',['../wildcard__constraint__element_8hpp.html',1,'']]],

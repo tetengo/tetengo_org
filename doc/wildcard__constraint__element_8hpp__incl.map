@@ -1,7 +1,11 @@
 <map id="library/lattice/cpp/include/tetengo/lattice/wildcard_constraint_element.hpp" name="library/lattice/cpp/include/tetengo/lattice/wildcard_constraint_element.hpp">
-<area shape="rect" id="node1" title="A wildcard constraint element." alt="" coords="18,5,261,60"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,115,76,141"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,115,178,141"/>
-<area shape="rect" id="node4" href="$constraint__element_8hpp.html" title="A constraint element." alt="" coords="202,108,389,148"/>
-<area shape="rect" id="node5" title=" " alt="" coords="193,196,398,221"/>
+<area shape="rect" id="Node000001" title="A wildcard constraint element." alt="" coords="18,5,261,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,115,76,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,62,65,107,61,104,109,58"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,115,178,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,60,142,101,137,101,137,60"/>
+<area shape="rect" id="Node000004" href="$constraint__element_8hpp.html" title="A constraint element." alt="" coords="202,108,389,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,58,253,98,250,103,182,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="193,196,398,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,148,298,182,293,182,293,148"/>
 </map>

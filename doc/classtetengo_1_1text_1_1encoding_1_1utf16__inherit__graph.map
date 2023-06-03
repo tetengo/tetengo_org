@@ -1,4 +1,5 @@
 <map id="tetengo::text::encoding::utf16" name="tetengo::text::encoding::utf16">
-<area shape="rect" id="node1" title="A UTF&#45;16 encoding." alt="" coords="5,79,179,119"/>
-<area shape="rect" id="node2" title=" " alt="" coords="17,5,167,31"/>
+<area shape="rect" id="Node000001" title="A UTF&#45;16 encoding." alt="" coords="5,79,179,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="17,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,44,95,79,89,79,89,44"/>
 </map>

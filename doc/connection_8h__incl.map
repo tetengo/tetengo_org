@@ -1,8 +1,15 @@
 <map id="library/lattice/c/include/tetengo/lattice/connection.h" name="library/lattice/c/include/tetengo/lattice/connection.h">
-<area shape="rect" id="node1" title="A connection." alt="" coords="20,5,228,45"/>
-<area shape="rect" id="node2" href="$entry_8h.html" title="An entry." alt="" coords="41,93,206,119"/>
-<area shape="rect" id="node3" title=" " alt="" coords="86,240,161,265"/>
-<area shape="rect" id="node4" href="$input_8h.html" title="An input." alt="" coords="248,167,415,192"/>
-<area shape="rect" id="node6" href="$stringView_8h.html" title="A string view." alt="" coords="23,167,224,192"/>
-<area shape="rect" id="node5" title=" " alt="" coords="290,240,373,265"/>
+<area shape="rect" id="Node000001" title="A connection." alt="" coords="20,5,228,45"/>
+<area shape="rect" id="Node000002" href="$entry_8h.html" title="An entry." alt="" coords="41,93,206,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,46,126,79,121,79,121,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="86,240,161,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,121,42,139,26,152,13,168,9,179,9,188,22,206,46,222,74,234,72,239,43,227,18,210,4,190,3,178,8,165,22,148,39,135,77,116"/>
+<area shape="rect" id="Node000004" href="$input_8h.html" title="An input." alt="" coords="248,167,415,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="158,116,286,160,284,165,156,121"/>
+<area shape="rect" id="Node000006" href="$stringView_8h.html" title="A string view." alt="" coords="23,167,224,192"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="126,119,126,153,121,153,121,119"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="299,195,171,238,170,233,297,189"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="290,240,373,265"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="334,192,334,226,329,226,329,192"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="126,192,126,226,121,226,121,192"/>
 </map>

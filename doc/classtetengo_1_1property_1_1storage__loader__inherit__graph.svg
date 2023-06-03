@@ -6,12 +6,22 @@
 <!-- Title: tetengo::property::storage_loader Pages: 1 -->
 <svg width="443pt" height="194pt"
  viewBox="0.00 0.00 443.00 193.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" onload="init(evt)">
+<style type="text/css"><![CDATA[
+.node, .edge {opacity: 0.7;}
+.node.selected, .edge.selected {opacity: 1;}
+.edge:hover path { stroke: red; }
+.edge:hover polygon { stroke: red; fill: red; }
+]]></style>
+<script type="application/ecmascript" xlink:href="svg.min.js"/>
+<svg id="graph" class="graph">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 189.5)">
 <title>tetengo::property::storage_loader</title>
 <!-- Node1 -->
-<g id="node1" class="node">
+<g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="A storage loader.">
+<g id="a_Node000001"><a xlink:title="A storage loader.">
 <polygon fill="#999999" stroke="#666666" points="255,-113.5 148,-113.5 148,-83.5 255,-83.5 255,-113.5"/>
 <text text-anchor="start" x="156" y="-101.5" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::property::</text>
 <text text-anchor="middle" x="201.5" y="-90.5" font-family="Helvetica,sans-Serif" font-size="10.00">storage_loader</text>
@@ -19,9 +29,9 @@
 </g>
 </g>
 <!-- Node3 -->
-<g id="node3" class="node">
+<g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classtetengo_1_1property_1_1file__storage__loader.html" target="_top" xlink:title="A file storage loader.">
+<g id="a_Node000003"><a xlink:href="classtetengo_1_1property_1_1file__storage__loader.html" target="_top" xlink:title="A file storage loader.">
 <polygon fill="white" stroke="#666666" points="418,-185.5 308,-185.5 308,-155.5 418,-155.5 418,-185.5"/>
 <text text-anchor="start" x="316" y="-173.5" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::property::</text>
 <text text-anchor="middle" x="363" y="-162.5" font-family="Helvetica,sans-Serif" font-size="10.00">file_storage_loader</text>
@@ -29,15 +39,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge">
+<g id="edge2_Node000001_Node000003" class="edge">
 <title>Node1&#45;&gt;Node3</title>
+<g id="a_edge2_Node000001_Node000003"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M236.55,-118.74C252.72,-127.89 272.52,-138.44 291,-146.5 298.27,-149.67 306.11,-152.7 313.84,-155.46"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="237.9,-115.48 227.48,-113.54 234.42,-121.55 237.9,-115.48"/>
+</a>
+</g>
 </g>
 <!-- Node4 -->
-<g id="node4" class="node">
+<g id="Node000004" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classtetengo_1_1property_1_1memory__storage__loader.html" target="_top" xlink:title="A memory storage loader.">
+<g id="a_Node000004"><a xlink:href="classtetengo_1_1property_1_1memory__storage__loader.html" target="_top" xlink:title="A memory storage loader.">
 <polygon fill="white" stroke="#666666" points="431,-137.5 295,-137.5 295,-107.5 431,-107.5 431,-137.5"/>
 <text text-anchor="start" x="303" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::property::</text>
 <text text-anchor="middle" x="363" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">memory_storage_loader</text>
@@ -45,15 +58,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
+<g id="edge3_Node000001_Node000004" class="edge">
 <title>Node1&#45;&gt;Node4</title>
+<g id="a_edge3_Node000001_Node000004"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M265.18,-107.93C274.93,-109.4 285.04,-110.92 294.88,-112.4"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="265.58,-104.45 255.17,-106.43 264.54,-111.37 265.58,-104.45"/>
+</a>
+</g>
 </g>
 <!-- Node5 -->
-<g id="node5" class="node">
+<g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classtetengo_1_1property_1_1storage__loader__proxy.html" target="_top" xlink:title="A storage loader proxy.">
+<g id="a_Node000005"><a xlink:href="classtetengo_1_1property_1_1storage__loader__proxy.html" target="_top" xlink:title="A storage loader proxy.">
 <polygon fill="white" stroke="#666666" points="424,-89.5 302,-89.5 302,-59.5 424,-59.5 424,-89.5"/>
 <text text-anchor="start" x="310" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::property::</text>
 <text text-anchor="middle" x="363" y="-66.5" font-family="Helvetica,sans-Serif" font-size="10.00">storage_loader_proxy</text>
@@ -61,15 +77,18 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
-<g id="edge4" class="edge">
+<g id="edge4_Node000001_Node000005" class="edge">
 <title>Node1&#45;&gt;Node5</title>
+<g id="a_edge4_Node000001_Node000005"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M265.18,-89.07C277.27,-87.25 289.92,-85.35 301.93,-83.54"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="264.54,-85.63 255.17,-90.57 265.58,-92.55 264.54,-85.63"/>
+</a>
+</g>
 </g>
 <!-- Node6 -->
-<g id="node6" class="node">
+<g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classtetengo_1_1property_1_1windows__registry__storage__loader.html" target="_top" xlink:title="A Windows registry storage loader.">
+<g id="a_Node000006"><a xlink:href="classtetengo_1_1property_1_1windows__registry__storage__loader.html" target="_top" xlink:title="A Windows registry storage loader.">
 <polygon fill="white" stroke="#666666" points="435,-41 291,-41 291,0 435,0 435,-41"/>
 <text text-anchor="start" x="299" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00">tetengo::property::</text>
 <text text-anchor="start" x="299" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">windows_registry_storage</text>
@@ -78,25 +97,46 @@
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
-<g id="edge5" class="edge">
+<g id="edge5_Node000001_Node000006" class="edge">
 <title>Node1&#45;&gt;Node6</title>
+<g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
 <path fill="none" stroke="#63b8ff" d="M237.89,-78.28C253.92,-69.39 273.22,-59.05 291,-50.5 297.63,-47.31 304.69,-44.11 311.69,-41.04"/>
 <polygon fill="#63b8ff" stroke="#63b8ff" points="235.89,-75.39 228.87,-83.32 239.31,-81.5 235.89,-75.39"/>
+</a>
+</g>
 </g>
 <!-- Node2 -->
-<g id="node2" class="node">
+<g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:title=" ">
+<g id="a_Node000002"><a xlink:title=" ">
 <polygon fill="white" stroke="#bfbfbf" points="112,-108 0,-108 0,-89 112,-89 112,-108"/>
 <text text-anchor="middle" x="56" y="-96" font-family="Helvetica,sans-Serif" font-size="10.00">boost::noncopyable</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
-<g id="edge1" class="edge">
+<g id="edge1_Node000001_Node000002" class="edge">
 <title>Node2&#45;&gt;Node1</title>
+<g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
 <path fill="none" stroke="#8b1a1a" d="M122.34,-98.5C130.83,-98.5 139.45,-98.5 147.7,-98.5"/>
 <polygon fill="#8b1a1a" stroke="#8b1a1a" points="122.07,-95 112.07,-98.5 122.07,-102 122.07,-95"/>
+</a>
 </g>
 </g>
+</g>
+</svg>
+</svg>
+
+<style type='text/css'>
+<![CDATA[
+[data-mouse-over-selected='false'] { opacity: 0.7; }
+[data-mouse-over-selected='true']  { opacity: 1.0; }
+]]>
+</style>
+<script type="application/ecmascript"><![CDATA[
+document.addEventListener('DOMContentLoaded', (event) => {
+  highlightEdges();
+  highlightAdjacentNodes();
+});
+]]></script>
 </svg>

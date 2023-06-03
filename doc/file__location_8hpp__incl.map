@@ -1,6 +1,9 @@
 <map id="library/json/cpp/include/tetengo/json/file_location.hpp" name="library/json/cpp/include/tetengo/json/file_location.hpp">
-<area shape="rect" id="node1" title="A file location." alt="" coords="21,5,239,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,93,76,119"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,93,159,119"/>
-<area shape="rect" id="node4" title=" " alt="" coords="183,93,335,119"/>
+<area shape="rect" id="Node000001" title="A file location." alt="" coords="21,5,239,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,76,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,66,86,62,82,107,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,93,159,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,46,133,79,127,79,127,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="183,93,335,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,43,230,84,227,88,160,48"/>
 </map>

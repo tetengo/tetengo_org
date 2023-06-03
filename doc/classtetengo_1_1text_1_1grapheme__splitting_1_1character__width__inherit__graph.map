@@ -1,6 +1,9 @@
 <map id="tetengo::text::grapheme_splitting::character_width" name="tetengo::text::grapheme_splitting::character_width">
-<area shape="rect" id="node1" title="A character width." alt="" coords="203,41,397,81"/>
-<area shape="rect" id="node3" href="$classtetengo_1_1text_1_1grapheme__splitting_1_1default__character__width.html" title="A default character width." alt="" coords="445,5,692,45"/>
-<area shape="rect" id="node4" href="$classtetengo_1_1text_1_1grapheme__splitting_1_1east__asian__character__width.html" title="An east Asian character width." alt="" coords="479,70,659,125"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,49,155,74"/>
+<area shape="rect" id="Node000001" title="A character width." alt="" coords="203,41,397,81"/>
+<area shape="rect" id="Node000003" href="$classtetengo_1_1text_1_1grapheme__splitting_1_1default__character__width.html" title="A default character width." alt="" coords="445,5,692,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="411,44,445,39,445,45,411,49"/>
+<area shape="rect" id="Node000004" href="$classtetengo_1_1text_1_1grapheme__splitting_1_1east__asian__character__width.html" title="An east Asian character width." alt="" coords="479,70,659,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="412,74,479,83,478,88,411,79"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,49,155,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,59,202,59,202,64,168,64"/>
 </map>
