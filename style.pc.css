@@ -7,7 +7,7 @@
         --background-color: #E0D0A0;
         --link-hover-color: #4060C0;
         --link-shadow-color: #80C0E0;
-        --font-size: max(9pt, min(1.2vw, 12pt));
+        --font-size: max(8pt, min(1.2vw, 12pt));
         --max-content-width: 1000pt;
         --logo-font-family: "Handlee", sans-serif;
         --heading-font-family: "Murecho", sans-serif;
@@ -196,7 +196,7 @@
 
         box-shadow: var(--panel-box-shadow);
 
-        padding: 2em max(2em, 3.5vw) 1.5em max(2em, 3.5vw);
+        padding: 2em max(2em, 3vw) 1.5em max(2em, 3vw);
     }
 
     section.panel h3 {
