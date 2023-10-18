@@ -7,7 +7,7 @@
         --background-color: #E0D0A0;
         --link-hover-color: #4060C0;
         --link-shadow-color: #80C0E0;
-        --font-size: min(2.5vw, 12pt);
+        --font-size: max(9pt, min(1.2vw, 12pt));
         --max-content-width: 1000pt;
         --logo-font-family: "Handlee", sans-serif;
         --heading-font-family: "Murecho", sans-serif;
@@ -48,6 +48,10 @@
         text-shadow: 0em 0em 1em var(--link-shadow-color);
     }
 
+    rt {
+        font-size: 0.5em;
+    }
+
     body {
         background-attachment: fixed;
         background-color: var(--background-color);
@@ -63,7 +67,7 @@
 
     header {
         display: grid;
-        grid-template-columns: 2fr 6fr 2fr 1fr;
+        grid-template-columns: 2fr 4fr 2fr 1fr;
 
         backdrop-filter: var(--panel-backdrop-filter);
         background-color: var(--panel-background-color);
