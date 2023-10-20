@@ -82,9 +82,9 @@
     }
 
     section.logo,
-    navi.source-set,
+    nav.source-set,
     section.license,
-    navi.language {
+    nav.language {
         margin: auto 0em;
     }
 
@@ -124,15 +124,15 @@
         content: ": ";
     }
 
+    section.source a {
+        font-size: var(--source-font-size);
+    }
+
     section.source ul li,
     section.source ul li h3,
     section.source ul li ul,
     section.source ul li ul li {
         display: inline-block;
-    }
-
-    section.source a {
-        font-size: var(--source-font-size);
     }
 
     section.source ul li {
@@ -141,8 +141,6 @@
 
     section.source ul li h3 {
         font-size: var(--source-font-size);
-
-        margin: 0em 0em 0em 1em;
     }
 
     section.source ul li ul li:last-child {
@@ -157,7 +155,7 @@
         content: ")";
     }
 
-    navi.language {
+    nav.language {
         text-align: right;
     }
 
