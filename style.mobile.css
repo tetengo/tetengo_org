@@ -218,7 +218,7 @@
     }
 
     section.panel h3 {
-        color: rgba(160, 160, 176, 50%);
+        color: rgba(128, 128, 144, 50%);
         font-family: var(--heading-font-family);
         font-size: 3.5em;
         letter-spacing: 0.05em;

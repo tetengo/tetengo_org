@@ -198,18 +198,18 @@
     }
 
     section.panel h3 {
-        color: rgba(160, 160, 176, 50%);
+        color: rgba(128, 128, 144, 50%);
         font-family: var(--heading-font-family);
         font-size: 4em;
         letter-spacing: 0.05em;
-        text-align: center;
+        text-align: right;
         text-shadow: 0.05em 0.05em 0.1em rgba(96, 96, 104, 25%);
         vertical-align: bottom;
 
         position: absolute;
-        Left: 0em;
+        right: 0.5em;
         bottom: -0.4em;
-        width: 100%;
+        width: calc(100% - 1em);
         height: auto;
         z-index: -1;
     }
