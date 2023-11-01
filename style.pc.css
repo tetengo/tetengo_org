@@ -70,6 +70,7 @@
         grid-template-columns: 2fr 4fr 2fr 1fr;
 
         backdrop-filter: var(--panel-backdrop-filter);
+        -webkit-backdrop-filter: var(--panel-backdrop-filter);
         background-color: var(--panel-background-color);
 
         border-color: var(--panel-border-color);
@@ -187,6 +188,7 @@
         text-shadow: 0em 0em 0.5em var(--panel-background-color);
 
         backdrop-filter: var(--panel-backdrop-filter);
+        -webkit-backdrop-filter: var(--panel-backdrop-filter);
         background-color: var(--panel-background-color);
 
         border: var(--panel-border-width) solid var(--panel-border-color);
