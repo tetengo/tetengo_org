@@ -1,3 +1,225 @@
 @charset "UTF-8";
 
-@media only screen and (min-width: 801px) {}
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+@media only screen and (min-width: 1025px) {
+    :root {
+        --subtitle-font-size: max(1.0rem, 1.2lvw);
+        color: #606060;
+        font-family: "Josefin Sans", sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    a {
+        color: #606060;
+        text-decoration-color: #4040FF;
+    }
+
+    a:hover {
+        color: #4040FF;
+    }
+
+    hr {
+        display: none;
+    }
+
+    div.title-and-navi {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: max(55rem, 100lvh);
+    }
+
+    header {
+        background-color: #E0E0E0;
+        background-image: url("background.jpg");
+        background-position: center;
+        background-size: cover;
+    }
+
+    header h1 {
+        color: #FFFFFF;
+        font-size: 4rem;
+        font-weight: normal;
+        letter-spacing: 0.25rem;
+        text-shadow: 0.2rem 0.2rem 0.1rem #000000;
+
+        position: absolute;
+        top: 10rem;
+        left: 10rem;
+        width: calc(50lvw - 20rem);
+        height: auto;
+
+        margin: 0;
+    }
+
+    header p {
+        color: #FFFFFF;
+        font-size: var(--subtitle-font-size);
+        text-align: right;
+        text-shadow: 0.2rem 0.2rem 0.1rem #000000;
+        vertical-align: bottom;
+
+        position: absolute;
+        bottom: 10rem;
+        left: 10rem;
+        width: calc(50lvw - 20rem);
+        height: auto;
+
+        margin: 0;
+    }
+
+    div.navi {
+        padding: 2rem 5rem;
+        background-color: #FFFFFF;
+    }
+
+    nav.language ul,
+    nav.language li {
+        display: block;
+    }
+
+    nav.language ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    nav.language li {
+        text-align: right;
+
+        margin: 0;
+        padding: 0;
+    }
+
+    li.language-selected {
+        font-weight: bold;
+    }
+
+    li.language-selected::before {
+        content: "▶";
+    }
+
+    nav.links h2 {
+        display: none;
+    }
+
+    section.for {
+        margin: 5rem 2rem;
+        padding: 1rem 1rem 1rem 4rem;
+        border: 0.5rem #E0E0E0;
+        border-style: none none none solid;
+    }
+
+    section.for h3 {
+        font-size: 1.5rem;
+        font-weight: normal;
+        letter-spacing: 0.1rem;
+
+        margin: 0 0 0 -2rem;
+    }
+
+    ul.github {
+        margin: 1rem 0;
+        padding: 0;
+
+        list-style-type: none;
+    }
+
+    div.features {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 2rem;
+    }
+
+    section.feature h4 {
+        font-size: 1.2rem;
+        font-weight: normal;
+
+        margin: 0;
+        border: 0.15rem #C0C0C0;
+        border-style: none none solid none;
+    }
+
+    section.feature ul {
+        margin: 0.5rem 0;
+        padding: 0 0 0 1rem;
+
+        list-style-type: none;
+    }
+
+    section.feature li {
+        margin: 0.5rem 0;
+    }
+
+    main {
+        margin: 10rem auto;
+        width: 50lvw;
+    }
+
+    main h2 {
+        font-size: 1.5rem;
+        font-weight: bold;
+        letter-spacing: 0.1rem;
+        text-align: center;
+
+        margin: 0;
+    }
+
+    section.library {
+        margin: 5rem 0;
+        padding: 2rem 4rem 2rem 4rem;
+        border: 0.15rem solid #808080;
+        border-radius: 0.5rem;
+
+    }
+
+    section.library h3 {
+        font-size: 1.2rem;
+        letter-spacing: 0.1rem;
+
+        margin: 0;
+
+    }
+
+    section.library p {
+        margin: 1rem 0;
+
+    }
+
+    p.available-for {
+        text-align: right;
+
+        margin: 0;
+    }
+
+    p.available-for span {
+        display: none;
+    }
+
+    p.available-for a {
+        color: #FFFFFF;
+        text-decoration: none;
+
+        margin: 0 0.5rem 0 0;
+        padding: 0.2rem 1rem;
+        background-color: #808080;
+        border-style: none;
+        border-radius: 1rem;
+    }
+
+    footer {
+        margin: 0 0 2rem 0;
+    }
+
+    address {
+        font-style: normal;
+        text-align: center;
+    }
+
+}

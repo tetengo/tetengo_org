@@ -8,96 +8,118 @@
 </head>
 
 <body>
-  <header>
-    <h1>tetengo.org</h1>
-    <p>Library Set for Rust and C/C++</p>
-  </header>
+  <div class="title-and-navi">
+    <header>
+      <h1>tetengo.</h1>
+      <p>Library Set for Rust and C/C++</p>
+    </header>
 
-  <nav>
-    <ul>
-      <li class="language-selected">English</li>
-      <li><a href="index.ja.html">日本語</a></li>
-    </ul>
-  </nav>
+    <div class="navi">
+      <nav class="language">
+        <ul>
+          <li class="language-selected">English</li>
+          <li><a href="index.ja.html">日本語</a></li>
+        </ul>
+      </nav>
 
-  <hr />
+      <hr />
 
-  <nav>
-    <h2>Links to Resources</h2>
-    <section>
-      <h3>for Rust</h3>
-      <ul>
-        <li><a href="https://github.com/tetengo/tetengo.rs/">GitHub</a></li>
-      </ul>
-      <section>
-        <h4><a href="#lib-trie">Trie</a></h4>
-        <ul>
-          <li><a href="https://crates.io/crates/tetengo_trie">crates.io</a></li>
-          <li><a href="https://docs.rs/tetengo_trie/1.1.0">Documents</a></li>
-        </ul>
-      </section>
-      <section>
-        <h4><a href="#lib-lattice">Lattice</a></h4>
-        <ul>
-          <li><a href="https://crates.io/crates/tetengo_lattice">crates.io</a></li>
-          <li><a href="https://docs.rs/tetengo_lattice/1.1.0">Documents</a></li>
-        </ul>
-      </section>
-    </section>
-    <section>
-      <h3>for C/C++</h3>
-      <ul>
-        <li><a href="https://github.com/tetengo/tetengo.cpp/">GitHub</a></li>
-      </ul>
-      <section>
-        <h4><a href="#man">All Products</a></h4>
-        <ul>
-          <li><a href="https://github.com/tetengo/tetengo.cpp/releases/tag/v1.8.1">Download</a></li>
-          <li><a href="doc.cpp/index.html">Documents</a></li>
-        </ul>
-      </section>
-    </section>
-  </nav>
+      <nav class="links">
+        <h2>Resource Links</h2>
+        <section class="for" id="for-rust">
+          <h3>for Rust</h3>
+          <ul class="github">
+            <li><a href="https://github.com/tetengo/tetengo.rs/">GitHub</a></li>
+          </ul>
+          <div class="features">
+            <section class="feature">
+              <h4><a href="#lib-lattice">Lattice</a></h4>
+              <ul>
+                <li><a href="https://crates.io/crates/tetengo_lattice">crates.io</a></li>
+                <li><a href="https://docs.rs/tetengo_lattice/1.1.0">Documents</a></li>
+              </ul>
+            </section>
+            <section class="feature">
+              <h4><a href="#lib-trie">Trie</a></h4>
+              <ul>
+                <li><a href="https://crates.io/crates/tetengo_trie">crates.io</a></li>
+                <li><a href="https://docs.rs/tetengo_trie/1.1.0">Documents</a></li>
+              </ul>
+            </section>
+          </div>
+        </section>
+        <section class="for" id="for-cpp">
+          <h3>for C/C++</h3>
+          <ul class="github">
+            <li><a href="https://github.com/tetengo/tetengo.cpp/">GitHub</a></li>
+          </ul>
+          <div class="features">
+            <section class="feature">
+              <h4><a href="#main">All Products</a></h4>
+              <ul>
+                <li><a href="https://github.com/tetengo/tetengo.cpp/releases/tag/v1.8.1">Download</a></li>
+                <li><a href="doc.cpp/index.html">Documents</a></li>
+              </ul>
+            </section>
+          </div>
+        </section>
+      </nav>
+    </div>
+  </div>
 
   <hr />
 
   <main id="main">
     <h2>About Libraries</h2>
-    <section id="lib-json">
+    <section class="library" id="lib-json">
       <h3>Json</h3>
       <p>
-        A pull-style JSON parser library based on <a href="https://datatracker.ietf.org/doc/html/rfc8259">RFC 8259</a>.
+        A pull-style JSON parser library,
+        adhering to <a href="https://datatracker.ietf.org/doc/html/rfc8259">RFC 8259</a>.
       </p>
-      <p><span>Available for </span><span>C/C++</span></p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-cpp">C/C++</a>
+      </p>
     </section>
-    <section id="lib-lattice">
+    <section class="library" id="lib-lattice">
       <h3>Lattice</h3>
       <p>
-        An implementation of the Viterbi and the A* algorithm.
+        Implements the Viterbi and the A* algorithms for efficient pathfinding.
       </p>
-      <p><span>Available for </span><span>Rust</span><span> &amp; </span></span><span>C/C++</span></p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-rust">Rust</a><span> &amp; </span>
+        <a href="#for-cpp">C/C++</a>
+      </p>
     </section>
-    <section id="lib-property">
+    <section class="library" id="lib-property">
       <h3>Property</h3>
       <p>
         Platform-independent access to application settings.
       </p>
-      <p><span>Available for </span><span>C/C++</span></p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-cpp">C/C++</a>
+      </p>
     </section>
-    <section id="lib-text">
+    <section class="library" id="lib-text">
       <h3>Text</h3>
       <p>
-        A grapheme splitter conforming to <a href="https://unicode.org/versions/Unicode14.0.0/">Unicode 14.0.0</a>,
-        and a string encoding converter.
+        Offers a grapheme splitter compliant with <a href="https://unicode.org/versions/Unicode14.0.0/">Unicode
+          14.0.0</a>,
+        alongside a string encoding converter.
       </p>
-      <p><span>Available for </span><span>C/C++</span></p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-cpp">C/C++</a>
+      </p>
     </section>
-    <section id="lib-trie">
+    <section class="library" id="lib-trie">
       <h3>Trie</h3>
       <p>
         An associative data structure for common prefix search. Implemented with double array.
       </p>
-      <p><span>Available for </span><span>Rust</span><span> &amp; </span></span><span>C/C++</span></p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-rust">Rust</a><span> &amp; </span>
+        <a href="#for-cpp">C/C++</a>
+      </p>
     </section>
   </main>
 
