@@ -4,11 +4,6 @@
 
 @media only screen and (min-width: 1025px) {
     :root {
-        --header-margin: 5rem;
-        --title-and-navi-height: max(36rem, 100lvh);
-        --title-text-shadow: 0.1rem 0.1rem 0.2rem #000000, 0 0 1rem #FFFFFF;
-        --subtitle-font-size: max(1.2rem, 1.2lvw);
-
         color: #606060;
         font-family: "Josefin Sans", "Zen Kurenaido", sans-serif;
         font-size: 24px;
@@ -37,12 +32,17 @@
     }
 
     div.title-and-navi {
+        --title-and-navi-height: max(36rem, 100lvh);
+
         display: grid;
         grid-template-columns: 50% 50%;
         grid-template-rows: var(--title-and-navi-height);
     }
 
     header {
+        --header-margin: 5rem;
+        --title-text-shadow: 0.1rem 0.1rem 0.2rem #000000, 0 0 1rem #FFFFFF;
+
         background-color: #E0E0E0;
         background-image: url("background.jpg");
         background-position: center;
@@ -66,6 +66,8 @@
     }
 
     header p {
+        --subtitle-font-size: max(1.2rem, 1.2lvw);
+
         color: #FFFFFF;
         font-size: var(--subtitle-font-size);
         font-weight: 400;
@@ -83,7 +85,9 @@
     }
 
     div.navi {
-        padding: 1rem 5rem;
+        width: max(36lvw, 20rem);
+
+        margin: 1rem auto;
         background-color: #FFFFFF;
     }
 
@@ -118,8 +122,8 @@
     }
 
     section.for {
-        margin: 1rem 1rem;
-        padding: 1rem 1rem 1rem 4rem;
+        margin: 2rem 1rem;
+        padding: 0 0 0 2rem;
     }
 
     section.for h3 {
@@ -181,7 +185,7 @@
     }
 
     main {
-        margin: 10rem 20rem;
+        margin: 10rem 0;
     }
 
     main h2 {
@@ -194,11 +198,12 @@
     }
 
     section.library {
-        margin: 5rem 0;
+        width: min(40rem, 60lvw);
+
+        margin: 5rem auto;
         padding: 2rem 4rem 2rem 4rem;
         border: 0.05rem solid #C0C0C0;
         border-radius: 0.5rem;
-
     }
 
     section.library h3 {
@@ -206,12 +211,10 @@
         letter-spacing: 0.1rem;
 
         margin: 0;
-
     }
 
     section.library p {
         margin: 1rem 0;
-
     }
 
     p.available-for {
