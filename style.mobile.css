@@ -90,15 +90,12 @@
     }
 
     nav.language ul {
-        font-size: 1rem;
-
         margin: 0;
         padding: 0;
     }
 
     nav.language li {
         color: #FFFFFF;
-        font-size: 1rem;
         text-align: right;
         text-shadow: var(--title-text-shadow);
 
