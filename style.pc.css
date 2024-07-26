@@ -1,25 +1,31 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Zen+Kurenaido&display=swap');
 
 @media only screen and (min-width: 1025px) {
     :root {
-        --subtitle-font-size: max(1.0rem, 1.2lvw);
+        --header-margin: 5rem;
+        --title-and-navi-height: max(36rem, 100lvh);
+        --title-text-shadow: 0.1rem 0.1rem 0.2rem #000000, 0 0 1rem #FFFFFF;
+        --subtitle-font-size: max(1.2rem, 1.2lvw);
+
         color: #606060;
-        font-family: "Josefin Sans", sans-serif;
-        font-size: 20px;
+        font-family: "Josefin Sans", "Zen Kurenaido", sans-serif;
+        font-size: 24px;
         font-weight: 300;
 
+        box-sizing: border-box;
     }
 
     body {
         margin: 0;
         padding: 0;
+        background-color: #FFFFFF;
     }
 
     a {
         color: #606060;
-        text-decoration-color: #4040FF;
+        text-decoration-thickness: 0.05rem;
     }
 
     a:hover {
@@ -32,8 +38,8 @@
 
     div.title-and-navi {
         display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: max(55rem, 100lvh);
+        grid-template-columns: 50% 50%;
+        grid-template-rows: var(--title-and-navi-height);
     }
 
     header {
@@ -48,12 +54,12 @@
         font-size: 4rem;
         font-weight: normal;
         letter-spacing: 0.25rem;
-        text-shadow: 0.2rem 0.2rem 0.1rem #000000;
+        text-shadow: var(--title-text-shadow);
 
         position: absolute;
-        top: 10rem;
-        left: 10rem;
-        width: calc(50lvw - 20rem);
+        top: var(--header-margin);
+        left: var(--header-margin);
+        width: calc(50lvw - 2 * var(--header-margin));
         height: auto;
 
         margin: 0;
@@ -62,21 +68,22 @@
     header p {
         color: #FFFFFF;
         font-size: var(--subtitle-font-size);
+        font-weight: 400;
         text-align: right;
-        text-shadow: 0.2rem 0.2rem 0.1rem #000000;
+        text-shadow: var(--title-text-shadow);
         vertical-align: bottom;
 
         position: absolute;
-        bottom: 10rem;
-        left: 10rem;
-        width: calc(50lvw - 20rem);
+        top: calc(var(--title-and-navi-height) - var(--subtitle-font-size) - var(--header-margin));
+        left: var(--header-margin);
+        width: calc(50lvw - 2 * var(--header-margin));
         height: auto;
 
         margin: 0;
     }
 
     div.navi {
-        padding: 2rem 5rem;
+        padding: 1rem 5rem;
         background-color: #FFFFFF;
     }
 
@@ -91,6 +98,7 @@
     }
 
     nav.language li {
+        font-size: 0.8rem;
         text-align: right;
 
         margin: 0;
@@ -110,10 +118,8 @@
     }
 
     section.for {
-        margin: 5rem 2rem;
+        margin: 1rem 1rem;
         padding: 1rem 1rem 1rem 4rem;
-        border: 0.5rem #E0E0E0;
-        border-style: none none none solid;
     }
 
     section.for h3 {
@@ -124,11 +130,16 @@
         margin: 0 0 0 -2rem;
     }
 
+
     ul.github {
         margin: 1rem 0;
         padding: 0;
 
         list-style-type: none;
+    }
+
+    ul.github li {
+        margin: 1rem 0;
     }
 
     div.features {
@@ -137,13 +148,25 @@
         column-gap: 2rem;
     }
 
+    section.feature {
+        margin: 1rem 0;
+    }
+
     section.feature h4 {
         font-size: 1.2rem;
         font-weight: normal;
 
         margin: 0;
-        border: 0.15rem #C0C0C0;
+        border: 0.05rem #C0C0C0;
         border-style: none none solid none;
+    }
+
+    section.feature h4 a {
+        text-decoration: none;
+    }
+
+    section.feature h4 a:hover {
+        text-decoration: underline;
     }
 
     section.feature ul {
@@ -154,12 +177,11 @@
     }
 
     section.feature li {
-        margin: 0.5rem 0;
+        margin: 1rem 0;
     }
 
     main {
-        margin: 10rem auto;
-        width: 50lvw;
+        margin: 10rem 20rem;
     }
 
     main h2 {
@@ -174,7 +196,7 @@
     section.library {
         margin: 5rem 0;
         padding: 2rem 4rem 2rem 4rem;
-        border: 0.15rem solid #808080;
+        border: 0.05rem solid #C0C0C0;
         border-radius: 0.5rem;
 
     }

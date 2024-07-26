@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>tetengo.org</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="title-and-navi">
+    <header>
+      <h1>tetengo.</h1>
+      <p>Rust、C/C++ 向けライブラリー</p>
+    </header>
+
+    <div class="navi">
+      <nav class="language">
+        <ul>
+          <li><a href="index.html">English</a></li>
+          <li class="language-selected">日本語</li>
+        </ul>
+      </nav>
+
+      <hr />
+
+      <nav class="links">
+        <h2>Resource Links</h2>
+        <section class="for" id="for-rust">
+          <h3>for Rust</h3>
+          <ul class="github">
+            <li><a href="https://github.com/tetengo/tetengo.rs/">GitHub</a></li>
+          </ul>
+          <div class="features">
+            <section class="feature">
+              <h4><a href="#lib-lattice">Lattice</a></h4>
+              <ul>
+                <li><a href="https://crates.io/crates/tetengo_lattice">crates.io</a></li>
+                <li><a href="https://docs.rs/tetengo_lattice/1.1.0">ドキュメント</a></li>
+              </ul>
+            </section>
+            <section class="feature">
+              <h4><a href="#lib-trie">Trie</a></h4>
+              <ul>
+                <li><a href="https://crates.io/crates/tetengo_trie">crates.io</a></li>
+                <li><a href="https://docs.rs/tetengo_trie/1.1.0">ドキュメント</a></li>
+              </ul>
+            </section>
+          </div>
+        </section>
+        <section class="for" id="for-cpp">
+          <h3>for C/C++</h3>
+          <ul class="github">
+            <li><a href="https://github.com/tetengo/tetengo.cpp/">GitHub</a></li>
+          </ul>
+          <div class="features">
+            <section class="feature">
+              <h4><a href="#main">All Products</a></h4>
+              <ul>
+                <li><a href="https://github.com/tetengo/tetengo.cpp/releases/tag/v1.8.1">ダウンロード</a></li>
+                <li><a href="doc.cpp/index.html">ドキュメント</a></li>
+              </ul>
+            </section>
+          </div>
+        </section>
+      </nav>
+    </div>
+  </div>
+
+  <hr />
+
+  <main id="main">
+    <h2>About Libraries</h2>
+    <section class="library" id="lib-json">
+      <h3>Json</h3>
+      <p>
+        <a href="https://tools.ietf.org/html/rfc8259">RFC 8259</a> に基づく
+        pull 型の JSON パーザーのライブラリー。
+      </p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-cpp">C/C++</a>
+      </p>
+    </section>
+    <section class="library" id="lib-lattice">
+      <h3>Lattice</h3>
+      <p>
+        効率的な経路探索用のための、ビタビアルゴリズムと A* アルゴリズムの実装です。
+      </p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-rust">Rust</a><span> &amp; </span>
+        <a href="#for-cpp">C/C++</a>
+      </p>
+    </section>
+    <section class="library" id="lib-property">
+      <h3>Property</h3>
+      <p>
+        プラットフォームに依存しない、アプリケーション設定の読み書き処理。
+      </p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-cpp">C/C++</a>
+      </p>
+    </section>
+    <section class="library" id="lib-text">
+      <h3>Text</h3>
+      <p>
+        <a href="https://unicode.org/versions/Unicode14.0.0/">Unicode 14.0.0</a> に準拠した書記素分割器、
+        および文字列エンコーディング変換器。
+      </p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-cpp">C/C++</a>
+      </p>
+    </section>
+    <section class="library" id="lib-trie">
+      <h3>Trie</h3>
+      <p>
+        共通接頭辞検索を行うことができるデータ構造で、ダブル配列で実装しています。
+      </p>
+      <p class="available-for">
+        <span>Available for </span><a href="#for-rust">Rust</a><span> &amp; </span>
+        <a href="#for-cpp">C/C++</a>
+      </p>
+    </section>
+  </main>
+
+  <hr />
+
+  <footer>
+    <address>
+      Copyright &copy; 2019-2024 <a href="https://x.com/kaorut">kaoru</a>
+    </address>
+  </footer>
+</body>
+
+</html>
