@@ -64,7 +64,7 @@
 
     header p {
         color: #FFFFFF;
-        font-size: max(1rem, 3.5lvw);
+        font-size: 5lvw;
         font-weight: 400;
         text-align: center;
         text-shadow: var(--title-text-shadow);
@@ -74,7 +74,7 @@
     }
 
     div.navi {
-        margin: 1rem 1em;
+        margin: 3rem 1em;
         background-color: #FFFFFF;
     }
 
@@ -90,13 +90,15 @@
     }
 
     nav.language ul {
+        font-size: 1rem;
+
         margin: 0;
         padding: 0;
     }
 
     nav.language li {
         color: #FFFFFF;
-        font-size: 0.8rem;
+        font-size: 1rem;
         text-align: right;
         text-shadow: var(--title-text-shadow);
 
@@ -198,7 +200,7 @@
 
     section.library {
         margin: 2rem 1rem;
-        padding: 1rem 2rem;
+        padding: 2rem;
         border: 0.05rem solid #C0C0C0;
         border-radius: 0.5rem;
     }
