@@ -190,7 +190,7 @@
 
     main h2 {
         font-size: 1.5rem;
-        font-weight: bold;
+        font-weight: normal;
         letter-spacing: 0.1rem;
         text-align: center;
 
@@ -208,6 +208,7 @@
 
     section.library h3 {
         font-size: 1.2rem;
+        font-weight: normal;
         letter-spacing: 0.1rem;
 
         margin: 0;

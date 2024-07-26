@@ -96,6 +96,7 @@
 
     nav.language li {
         color: #FFFFFF;
+        font-size: 24px;
         text-align: right;
         text-shadow: var(--title-text-shadow);
 
@@ -188,7 +189,7 @@
 
     main h2 {
         font-size: 1.2rem;
-        font-weight: bold;
+        font-weight: normal;
         letter-spacing: 0.1rem;
         text-align: center;
 
@@ -204,6 +205,7 @@
 
     section.library h3 {
         font-size: 1.1rem;
+        font-weight: normal;
         letter-spacing: 0.1rem;
 
         margin: 0;
