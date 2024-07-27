@@ -6,7 +6,7 @@
     :root {
         color: #606060;
         font-family: "Josefin Sans", "Zen Kurenaido", sans-serif;
-        font-size: 24px;
+        font-size: 20px;
         font-weight: 300;
 
         box-sizing: border-box;
@@ -37,7 +37,9 @@
 
     header {
         --header-margin: 5rem;
-        --title-text-shadow: 0.1rem 0.1rem 0.2rem #000000, 0 0 1rem #FFFFFF;
+        --title-text-shadow: 0.1rem 0.1rem 0.05rem #000000,
+            0 0 0.5rem #606060,
+            0 0 1rem #606060;
 
         display: grid;
         grid-template-columns: 1fr;
@@ -53,18 +55,18 @@
 
     header h1 {
         color: #FFFFFF;
-        font-size: 15lvw;
+        font-size: 3.5rem;
         font-weight: normal;
         letter-spacing: 0.25rem;
         text-align: center;
         text-shadow: var(--title-text-shadow);
 
         margin: auto 0;
-   }
+    }
 
     header p {
         color: #FFFFFF;
-        font-size: 5lvw;
+        font-size: 1.2rem;
         font-weight: 400;
         text-align: center;
         text-shadow: var(--title-text-shadow);
@@ -96,7 +98,7 @@
 
     nav.language li {
         color: #FFFFFF;
-        font-size: 0.8rem;
+        font-size: 1rem;
         text-align: right;
         text-shadow: var(--title-text-shadow);
 
@@ -231,7 +233,7 @@
         text-decoration: none;
 
         margin: 0;
-        padding: 0.2rem 1rem;
+        padding: 0.2rem 0.5rem;
         background-color: #808080;
         border-style: none;
         border-radius: 1rem;
