@@ -1,11 +1,16 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Murecho:wght@100..900&display=swap');
 
 @media only screen and (min-width: 1025px) {
     :root {
-        color: #606060;
-        font-family: "Josefin Sans", "Zen Kurenaido", sans-serif;
+        --title-font-color: #FFFFFF;
+        --heading-font-color: #202020;
+        --main-font-coor: #606060;
+        --hovered-link-font-color: #6060E0;
+
+        color: var(--main-font-coor);
+        font-family: "Josefin Sans", "Murecho", sans-serif;
         font-size: 24px;
         font-weight: 300;
 
@@ -13,18 +18,21 @@
     }
 
     body {
+        text-shadow: 0.1rem 0.1rem 0.5rem #F0C0E0;
+
         margin: 0;
         padding: 0;
         background-color: #FFFFFF;
     }
 
     a {
-        color: #606060;
+        color: var(--main-font-coor);
         text-decoration-thickness: 0.05rem;
     }
 
     a:hover {
-        color: #4040FF;
+        color: var(--hovered-link-font-color);
+        text-decoration-style: wavy;
     }
 
     hr {
@@ -41,7 +49,9 @@
 
     header {
         --header-margin: 5rem;
-        --title-text-shadow: 0.1rem 0.1rem 0.2rem #000000, 0 0 1rem #FFFFFF;
+        --title-text-shadow: 0.1rem 0.1rem 0.05rem #000000,
+            0 0 0.5rem var(--main-font-coor),
+            0 0 1rem var(--main-font-coor);
 
         background-color: #E0E0E0;
         background-image: url("background.jpg");
@@ -50,7 +60,7 @@
     }
 
     header h1 {
-        color: #FFFFFF;
+        color: var(--title-font-color);
         font-size: 4rem;
         font-weight: normal;
         letter-spacing: 0.25rem;
@@ -68,7 +78,7 @@
     header p {
         --subtitle-font-size: max(1.2rem, 1.2lvw);
 
-        color: #FFFFFF;
+        color: var(--title-font-color);
         font-size: var(--subtitle-font-size);
         font-weight: 400;
         text-align: right;
@@ -127,13 +137,13 @@
     }
 
     section.for h3 {
+        color: var(--heading-font-color);
         font-size: 1.5rem;
         font-weight: normal;
         letter-spacing: 0.1rem;
 
         margin: 0 0 0 -2rem;
     }
-
 
     ul.github {
         margin: 1rem 0;
@@ -157,6 +167,7 @@
     }
 
     section.feature h4 {
+        color: var(--heading-font-color);
         font-size: 1.2rem;
         font-weight: normal;
 
@@ -166,11 +177,15 @@
     }
 
     section.feature h4 a {
+        color: var(--heading-font-color);
         text-decoration: none;
     }
 
     section.feature h4 a:hover {
+        color: var(--hovered-link-font-color);
         text-decoration: underline;
+        text-decoration-thickness: 0.05rem;
+        text-decoration-style: wavy;
     }
 
     section.feature ul {
@@ -189,6 +204,7 @@
     }
 
     main h2 {
+        color: var(--heading-font-color);
         font-size: 1.5rem;
         font-weight: normal;
         letter-spacing: 0.1rem;
@@ -207,6 +223,7 @@
     }
 
     section.library h3 {
+        color: var(--heading-font-color);
         font-size: 1.2rem;
         font-weight: normal;
         letter-spacing: 0.1rem;
@@ -216,6 +233,15 @@
 
     section.library p {
         margin: 1rem 0;
+    }
+
+    p.description-en {
+        text-align: left;
+    }
+
+    p.description-ja {
+        text-align: justify;
+        text-justify: inter-ideograph;
     }
 
     p.available-for {
@@ -233,7 +259,7 @@
         text-decoration: none;
 
         margin: 0 0.5rem 0 0;
-        padding: 0.2rem 1rem;
+        padding: 0.2rem 0.5rem;
         background-color: #808080;
         border-style: none;
         border-radius: 1rem;

@@ -1,30 +1,38 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Murecho:wght@100..900&display=swap');
 
 @media only screen and (max-width: 1024px) {
     :root {
-        color: #606060;
-        font-family: "Josefin Sans", "Zen Kurenaido", sans-serif;
-        font-size: 24px;
+        --title-font-color: #FFFFFF;
+        --heading-font-color: #202020;
+        --main-font-coor: #606060;
+        --hovered-link-font-color: #4040E0;
+
+        color: var(--main-font-coor);
+        font-family: "Josefin Sans", "Murecho", sans-serif;
+        font-size: 20px;
         font-weight: 300;
 
         box-sizing: border-box;
     }
 
     body {
+        text-shadow: 0.1rem 0.1rem 0.5rem #F0C0E0;
+
         margin: 0;
         padding: 0;
         background-color: #FFFFFF;
     }
 
     a {
-        color: #606060;
+        color: var(--main-font-coor);
         text-decoration-thickness: 0.05rem;
     }
 
     a:hover {
-        color: #4040FF;
+        color: var(--hovered-link-font-color);
+        text-decoration-style: wavy;
     }
 
     hr {
@@ -37,7 +45,9 @@
 
     header {
         --header-margin: 5rem;
-        --title-text-shadow: 0.1rem 0.1rem 0.2rem #000000, 0 0 1rem #FFFFFF;
+        --title-text-shadow: 0.1rem 0.1rem 0.05rem #000000,
+            0 0 0.5rem var(--main-font-coor),
+            0 0 1rem var(--main-font-coor);
 
         display: grid;
         grid-template-columns: 1fr;
@@ -52,19 +62,19 @@
     }
 
     header h1 {
-        color: #FFFFFF;
-        font-size: 15lvw;
+        color: var(--title-font-color);
+        font-size: 3.5rem;
         font-weight: normal;
         letter-spacing: 0.25rem;
         text-align: center;
         text-shadow: var(--title-text-shadow);
 
         margin: auto 0;
-   }
+    }
 
     header p {
-        color: #FFFFFF;
-        font-size: 5lvw;
+        color: var(--title-font-color);
+        font-size: 1.2rem;
         font-weight: 400;
         text-align: center;
         text-shadow: var(--title-text-shadow);
@@ -95,8 +105,8 @@
     }
 
     nav.language li {
-        color: #FFFFFF;
-        font-size: 24px;
+        color: var(--title-font-color);
+        font-size: 1rem;
         text-align: right;
         text-shadow: var(--title-text-shadow);
 
@@ -105,9 +115,12 @@
     }
 
     nav.language li a {
-        color: #FFFFFF;
+        color: var(--title-font-color);
     }
 
+    nav.language li a:hover {
+        color: var(--hovered-link-font-color);
+    }
     li.language-selected {
         font-weight: bold;
     }
@@ -126,13 +139,13 @@
     }
 
     section.for h3 {
+        color: var(--heading-font-color);
         font-size: 1.2rem;
         font-weight: normal;
         letter-spacing: 0.1rem;
 
         margin: 0 0 0 -1rem;
     }
-
 
     ul.github {
         margin: 1rem 0;
@@ -156,6 +169,7 @@
     }
 
     section.feature h4 {
+        color: var(--heading-font-color);
         font-size: 1.1rem;
         font-weight: normal;
 
@@ -165,11 +179,15 @@
     }
 
     section.feature h4 a {
+        color: var(--heading-font-color);
         text-decoration: none;
     }
 
     section.feature h4 a:hover {
+        color: var(--hovered-link-font-color);
         text-decoration: underline;
+        text-decoration-thickness: 0.05rem;
+        text-decoration-style: wavy;
     }
 
     section.feature ul {
@@ -188,6 +206,7 @@
     }
 
     main h2 {
+        color: var(--heading-font-color);
         font-size: 1.2rem;
         font-weight: normal;
         letter-spacing: 0.1rem;
@@ -204,6 +223,7 @@
     }
 
     section.library h3 {
+        color: var(--heading-font-color);
         font-size: 1.1rem;
         font-weight: normal;
         letter-spacing: 0.1rem;
@@ -213,6 +233,15 @@
 
     section.library p {
         margin: 1rem 0;
+    }
+
+    p.description[lang="en"] {
+        text-align: left;
+    }
+
+    p.description[lang="ja"] {
+        text-align: justify;
+        text-justify: inter-ideograph;
     }
 
     p.available-for {
@@ -231,7 +260,7 @@
         text-decoration: none;
 
         margin: 0;
-        padding: 0.2rem 1rem;
+        padding: 0.2rem 0.5rem;
         background-color: #808080;
         border-style: none;
         border-radius: 1rem;
