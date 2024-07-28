@@ -40,7 +40,7 @@
     }
 
     div.title-and-navi {
-        --title-and-navi-height: max(36rem, 100lvh);
+        --title-and-navi-height: max(38rem, 100lvh);
 
         display: grid;
         grid-template-columns: 50% 50%;
@@ -48,7 +48,7 @@
     }
 
     header {
-        --header-margin: 5rem;
+        --header-margin: 7rem;
         --title-text-shadow:
             0 0 1rem var(--main-font-coor),
             0 0 0.5rem var(--main-font-coor),
@@ -146,15 +146,27 @@
         margin: 0 0 0 -2rem;
     }
 
+    div.version-and-repo {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 2rem;
+
+        margin: 0.5rem 0;
+    }
+
+    p.version {
+        margin: 0;
+    }
+
     ul.github {
-        margin: 1rem 0;
+        margin: 0;
         padding: 0;
 
         list-style-type: none;
     }
 
     ul.github li {
-        margin: 1rem 0;
+        margin: 0;
     }
 
     div.features {
@@ -197,7 +209,13 @@
     }
 
     section.feature li {
-        margin: 1rem 0;
+        margin: 0.5rem 0;
+    }
+
+    p.license {
+        text-align: center;
+
+        margin: 0;
     }
 
     main {

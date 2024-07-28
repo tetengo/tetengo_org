@@ -151,6 +151,10 @@
         margin: 0 0 0 -1rem;
     }
 
+    p.version {
+        margin: 1rem 0;
+    }
+
     ul.github {
         margin: 1rem 0;
         padding: 0;
@@ -202,6 +206,12 @@
     }
 
     section.feature li {
+        margin: 1rem 0;
+    }
+
+    p.license {
+        text-align: center;
+
         margin: 1rem 0;
     }
 
