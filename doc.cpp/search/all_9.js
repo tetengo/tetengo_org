@@ -1,12 +1,24 @@
 var searchData=
 [
-  ['index_5fin_5fstep_0',['index_in_step',['../structtetengo__lattice__node__tag.html#adc01797f15a327a9ce8f85e9cccb16d2',1,'tetengo_lattice_node_tag::index_in_step'],['../classtetengo_1_1lattice_1_1node.html#a4e54b3fc75bd54e0027969517b63948c',1,'tetengo::lattice::node::index_in_step()']]],
-  ['input_1',['input',['../classtetengo_1_1lattice_1_1input.html',1,'tetengo::lattice']]],
-  ['input_2eh_2',['input.h',['../input_8h.html',1,'']]],
-  ['input_2ehpp_3',['input.hpp',['../input_8hpp.html',1,'']]],
-  ['insert_4',['insert',['../classtetengo_1_1json_1_1channel.html#abc30c9194504bfbdb8e0b44eda567256',1,'tetengo::json::channel::insert(element element_)'],['../classtetengo_1_1json_1_1channel.html#aea5a98080e0bbf7ca3db60b80e03c8f1',1,'tetengo::json::channel::insert(std::exception_ptr &amp;&amp;p_exception)']]],
-  ['instance_5',['instance',['../classtetengo_1_1text_1_1encoder.html#a5f4a60108e2c8274e61e812ac82ba2c2',1,'tetengo::text::encoder::instance()'],['../classtetengo_1_1text_1_1grapheme__splitting_1_1grapheme__segment.html#a07ddcabe1e8091c3616eed1cc00aaa84',1,'tetengo::text::grapheme_splitting::grapheme_segment::instance()'],['../classtetengo_1_1text_1_1grapheme__splitting_1_1east__asian__character__width.html#aef0889fd3cd1005a6a08e39e8678394c',1,'tetengo::text::grapheme_splitting::east_asian_character_width::instance()'],['../classtetengo_1_1text_1_1grapheme__splitting_1_1default__character__width.html#a063c773d7d57e85f121b9245cb04642a',1,'tetengo::text::grapheme_splitting::default_character_width::instance()'],['../classtetengo_1_1text_1_1encoding_1_1utf8.html#af6df062fbb6f9f0c25c0d59142bf99bf',1,'tetengo::text::encoding::utf8::instance()'],['../classtetengo_1_1text_1_1encoding_1_1utf16.html#ae10deacb03f609beee43604a28c10284',1,'tetengo::text::encoding::utf16::instance()'],['../classtetengo_1_1text_1_1encoding_1_1cp932.html#ab9a6758db2cebbcb7fc0c205cd1a04e1',1,'tetengo::text::encoding::cp932::instance()'],['../classtetengo_1_1platform__dependent_1_1text__encoder.html#aec7d1cef8255750967cfb140a209ab63',1,'tetengo::platform_dependent::text_encoder::instance()'],['../classtetengo_1_1platform__dependent_1_1property__set__file__path.html#a24dae210e738a9aad53950a544fadb0e',1,'tetengo::platform_dependent::property_set_file_path::instance()']]],
-  ['is_6',['is',['../classtetengo_1_1lattice_1_1input.html#a54302ee6215c5a8d0ea5c8f6a78e2f35',1,'tetengo::lattice::input']]],
-  ['is_5fbos_7',['is_bos',['../classtetengo_1_1lattice_1_1node.html#a461c44c565c5d5b8099c3c4fbcc397a5',1,'tetengo::lattice::node']]],
-  ['iterator_8',['iterator',['../classtetengo_1_1trie_1_1trie.html#ace7cc4b6e33d150b11e6089686d890d5',1,'tetengo::trie::trie']]]
+  ['features_0',['Features',['../index.html#autotoc_md0',1,'']]],
+  ['file_5flocation_1',['file_location',['../classtetengo_1_1json_1_1file__location.html',1,'tetengo::json::file_location'],['../classtetengo_1_1json_1_1file__location.html#a90be5e39ec80b66c579edbb4e86424b0',1,'tetengo::json::file_location::file_location()']]],
+  ['file_5flocation_2ehpp_2',['file_location.hpp',['../file__location_8hpp.html',1,'']]],
+  ['file_5fstorage_3',['file_storage',['../classtetengo_1_1property_1_1file__storage.html',1,'tetengo::property']]],
+  ['file_5fstorage_2ehpp_4',['file_storage.hpp',['../file__storage_8hpp.html',1,'']]],
+  ['file_5fstorage_5floader_5',['file_storage_loader',['../classtetengo_1_1property_1_1file__storage__loader.html',1,'tetengo::property::file_storage_loader'],['../classtetengo_1_1property_1_1file__storage__loader.html#a55173e5ac32045dea900aaaafd15eba6',1,'tetengo::property::file_storage_loader::file_storage_loader()']]],
+  ['files_6',['files',['../index.html#autotoc_md9',1,'Downloading the prebuilt library files'],['../index.html#autotoc_md15',1,'Getting the source files']]],
+  ['files_20cloned_20from_20the_20github_20repository_7',['Building from the source files cloned from the GitHub repository',['../index.html#autotoc_md10',1,'']]],
+  ['files_20from_20the_20github_20repository_8',['Cloning the source files from the GitHub repository',['../index.html#autotoc_md17',1,'']]],
+  ['files_20from_20www_20tetengo_20org_9',['Downloading the source files from www.tetengo.org',['../index.html#autotoc_md16',1,'']]],
+  ['filling_5frate_10',['filling_rate',['../classtetengo_1_1trie_1_1storage.html#a1454888b020dafefdd3698004abc3206',1,'tetengo::trie::storage']]],
+  ['find_11',['find',['../classtetengo_1_1trie_1_1double__array.html#a01ab1f129b13acb75b71610e70162fa0',1,'tetengo::trie::double_array::find()'],['../classtetengo_1_1trie_1_1trie__impl.html#a877d42f4944aa763fda56b104d068bd3',1,'tetengo::trie::trie_impl::find()'],['../classtetengo_1_1trie_1_1trie.html#a91cf94611b0e677642d18cb97a99ce8b',1,'tetengo::trie::trie::find()']]],
+  ['find_5fconnection_12',['find_connection',['../classtetengo_1_1lattice_1_1vocabulary.html#af158dbb7a07a2db54e2e8ffdc1c5f3ed',1,'tetengo::lattice::vocabulary']]],
+  ['find_5fconnection_5fproc_13',['find_connection_proc',['../structtetengo__lattice__customVocabularyDefinition__tag.html#a49a5986b7f7e4ab9b1e441cab485b8e5',1,'tetengo_lattice_customVocabularyDefinition_tag']]],
+  ['find_5fentries_14',['find_entries',['../classtetengo_1_1lattice_1_1vocabulary.html#a0f164d4b16f4a2531be599fa987e5265',1,'tetengo::lattice::vocabulary']]],
+  ['find_5fentries_5fproc_15',['find_entries_proc',['../structtetengo__lattice__customVocabularyDefinition__tag.html#a37cd15a34de0540faad06fe341e44a33',1,'tetengo_lattice_customVocabularyDefinition_tag']]],
+  ['fixed_5fvalue_5fsize_16',['fixed_value_size',['../classtetengo_1_1trie_1_1value__serializer.html#a1fdedd60c3e89d47a1bf734ae84c4468',1,'tetengo::trie::value_serializer']]],
+  ['from_20the_20github_20repository_17',['from the GitHub repository',['../index.html#autotoc_md10',1,'Building from the source files cloned from the GitHub repository'],['../index.html#autotoc_md17',1,'Cloning the source files from the GitHub repository']]],
+  ['from_20the_20source_20files_20cloned_20from_20the_20github_20repository_18',['Building from the source files cloned from the GitHub repository',['../index.html#autotoc_md10',1,'']]],
+  ['from_20www_20tetengo_20org_19',['Downloading the source files from www.tetengo.org',['../index.html#autotoc_md16',1,'']]],
+  ['fullwidth_20',['fullwidth',['../classtetengo_1_1text_1_1grapheme__splitting_1_1character__width.html#a479d9848061aa467bfbdc030cfae3416ab8f38b4e11bfea1098ec6f86c33a3e44',1,'tetengo::text::grapheme_splitting::character_width']]]
 ];

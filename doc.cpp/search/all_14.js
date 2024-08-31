@@ -1,10 +1,11 @@
 var searchData=
 [
-  ['unordered_5fmap_5fvocabulary_0',['unordered_map_vocabulary',['../classtetengo_1_1lattice_1_1unordered__map__vocabulary.html',1,'tetengo::lattice::unordered_map_vocabulary'],['../classtetengo_1_1lattice_1_1unordered__map__vocabulary.html#a1de41ea38f51559b7205959bde9f5059',1,'tetengo::lattice::unordered_map_vocabulary::unordered_map_vocabulary()']]],
-  ['unordered_5fmap_5fvocabulary_2ehpp_1',['unordered_map_vocabulary.hpp',['../unordered__map__vocabulary_8hpp.html',1,'']]],
-  ['update_2',['update',['../classtetengo_1_1property_1_1property__set.html#a85ce0ef183485504a65752c1dca4e297',1,'tetengo::property::property_set']]],
-  ['utf16_3',['utf16',['../classtetengo_1_1text_1_1encoding_1_1utf16.html',1,'tetengo::text::encoding']]],
-  ['utf16_2ehpp_4',['utf16.hpp',['../utf16_8hpp.html',1,'']]],
-  ['utf8_5',['utf8',['../classtetengo_1_1text_1_1encoding_1_1utf8.html',1,'tetengo::text::encoding']]],
-  ['utf8_2ehpp_6',['utf8.hpp',['../utf8_8hpp.html',1,'']]]
+  ['reader_0',['reader',['../classtetengo_1_1json_1_1reader.html',1,'tetengo::json']]],
+  ['reader_2eh_1',['reader.h',['../reader_8h.html',1,'']]],
+  ['reader_2ehpp_2',['reader.hpp',['../reader_8hpp.html',1,'']]],
+  ['reader_5fiterator_3',['reader_iterator',['../classtetengo_1_1json_1_1reader__iterator.html',1,'tetengo::json::reader_iterator'],['../classtetengo_1_1json_1_1reader__iterator.html#a73bc0cadddc79ca8069b4846e66e51d2',1,'tetengo::json::reader_iterator::reader_iterator()'],['../classtetengo_1_1json_1_1reader__iterator.html#a5a83e306cbaa4ba02f26f999cd39aad9',1,'tetengo::json::reader_iterator::reader_iterator(reader &amp;reader_)']]],
+  ['reader_5fiterator_2ehpp_4',['reader_iterator.hpp',['../reader__iterator_8hpp.html',1,'']]],
+  ['regional_5',['regional',['../classtetengo_1_1text_1_1grapheme__splitting_1_1grapheme__segment.html#aee5c9020fe607c4367b2ab6e237b2949a49889d3f78e208b1538f15a0c7bc16d0',1,'tetengo::text::grapheme_splitting::grapheme_segment']]],
+  ['repository_6',['repository',['../index.html#autotoc_md10',1,'Building from the source files cloned from the GitHub repository'],['../index.html#autotoc_md17',1,'Cloning the source files from the GitHub repository']]],
+  ['requirements_7',['Requirements',['../index.html#autotoc_md8',1,'Requirements'],['../index.html#autotoc_md14',1,'Requirements']]]
 ];

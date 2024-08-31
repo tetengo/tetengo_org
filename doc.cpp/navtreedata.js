@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "tetengo", "index.html", [
-    [ "tetengo 1.8.1", "index.html", "index" ],
+    [ "tetengo 1.8.2", "index.html", "index" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],

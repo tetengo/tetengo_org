@@ -1,7 +1,7 @@
 var classtetengo_1_1json_1_1json__grammar =
 [
     [ "primitive_handler_type", "classtetengo_1_1json_1_1json__grammar.html#a8fc8bcaada6ac531b6db19dd4542c102", null ],
-    [ "structure_handler_type", "classtetengo_1_1json_1_1json__grammar.html#aefc17aab95a2a3c185f9ff6bad7105f1", null ],
+    [ "structure_handler_type", "classtetengo_1_1json_1_1json__grammar.html#aeb4debd464b6568748b4e52cf43a1654", null ],
     [ "primitive_type_type", "classtetengo_1_1json_1_1json__grammar.html#ab1305466bb69c0dca357c3953a29427d", [
       [ "string", "classtetengo_1_1json_1_1json__grammar.html#ab1305466bb69c0dca357c3953a29427dab45cffe084dd3d20d928bee85e7b0f21", null ],
       [ "number", "classtetengo_1_1json_1_1json__grammar.html#ab1305466bb69c0dca357c3953a29427dab1bc248a7ff2b2e95569f56de68615df", null ],
