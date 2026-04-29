@@ -3,8 +3,8 @@ var hierarchy =
     [ "tetengo::trie::double_array::building_observer_set_type", "structtetengo_1_1trie_1_1double__array_1_1building__observer__set__type.html", null ],
     [ "tetengo::trie::trie_impl::building_observer_set_type", "structtetengo_1_1trie_1_1trie__impl_1_1building__observer__set__type.html", null ],
     [ "tetengo::lattice::connection", "classtetengo_1_1lattice_1_1connection.html", null ],
-    [ "tetengo::trie::default_deserializer< Object, typename >", "classtetengo_1_1trie_1_1default__deserializer.html", null ],
-    [ "tetengo::trie::default_serializer< Object, typename >", "classtetengo_1_1trie_1_1default__serializer.html", null ],
+    [ "tetengo::trie::default_deserializer&lt; Object, typename &gt;", "classtetengo_1_1trie_1_1default__deserializer.html", null ],
+    [ "tetengo::trie::default_serializer&lt; Object, typename &gt;", "classtetengo_1_1trie_1_1default__serializer.html", null ],
     [ "tetengo::json::element", "classtetengo_1_1json_1_1element.html", null ],
     [ "tetengo::lattice::entry", "classtetengo_1_1lattice_1_1entry.html", null ],
     [ "tetengo::lattice::entry_view", "classtetengo_1_1lattice_1_1entry__view.html", null ],
@@ -17,6 +17,7 @@ var hierarchy =
       [ "tetengo::text::grapheme", "classtetengo_1_1text_1_1grapheme.html", null ]
     ] ],
     [ "boost::stl_interfaces::iterator_interface", null, [
+      [ "tetengo::trie::trie_iterator< value_type >", "classtetengo_1_1trie_1_1trie__iterator.html", null ],
       [ "tetengo::json::reader_iterator", "classtetengo_1_1json_1_1reader__iterator.html", null ],
       [ "tetengo::lattice::n_best_iterator", "classtetengo_1_1lattice_1_1n__best__iterator.html", null ],
       [ "tetengo::trie::double_array_iterator", "classtetengo_1_1trie_1_1double__array__iterator.html", null ],

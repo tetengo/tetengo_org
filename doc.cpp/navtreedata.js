@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "tetengo", "index.html", [
-    [ "tetengo 1.8.2", "index.html", "index" ],
+    [ "tetengo 1.9.0", "index.html", "index" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
@@ -65,5 +65,6 @@ var NAVTREEINDEX =
 "reader__iterator_8hpp_source.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

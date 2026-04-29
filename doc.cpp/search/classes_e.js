@@ -19,6 +19,7 @@ var searchData=
   ['trie_16',['trie',['../classtetengo_1_1trie_1_1trie.html',1,'tetengo::trie']]],
   ['trie_5fimpl_17',['trie_impl',['../classtetengo_1_1trie_1_1trie__impl.html',1,'tetengo::trie']]],
   ['trie_5fiterator_18',['trie_iterator',['../classtetengo_1_1trie_1_1trie__iterator.html',1,'tetengo::trie']]],
-  ['trie_5fiterator_5fimpl_19',['trie_iterator_impl',['../classtetengo_1_1trie_1_1trie__iterator__impl.html',1,'tetengo::trie']]],
-  ['type_5ftype_20',['type_type',['../structtetengo_1_1json_1_1element_1_1type__type.html',1,'tetengo::json::element']]]
+  ['trie_5fiterator_3c_20value_5ftype_20_3e_19',['trie_iterator&lt; value_type &gt;',['../classtetengo_1_1trie_1_1trie__iterator.html',1,'tetengo::trie']]],
+  ['trie_5fiterator_5fimpl_20',['trie_iterator_impl',['../classtetengo_1_1trie_1_1trie__iterator__impl.html',1,'tetengo::trie']]],
+  ['type_5ftype_21',['type_type',['../structtetengo_1_1json_1_1element_1_1type__type.html',1,'tetengo::json::element']]]
 ];

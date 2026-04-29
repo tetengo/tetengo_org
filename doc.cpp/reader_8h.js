@@ -11,5 +11,5 @@ var reader_8h =
     [ "tetengo_json_reader_hasNext", "reader_8h.html#a4a84f9878c749c16b45085066a453133", null ],
     [ "tetengo_json_reader_next", "reader_8h.html#a97d312e812e57bb529bb3bc694351432", null ],
     [ "tetengo_json_reader_peek", "reader_8h.html#adcff08f2ddba81ac374c33df37b01238", null ],
-    [ "tetengo_json_reader_streamReaderDefaultBufferCapacity", "reader_8h.html#a393e3945805ced1ab721eddf50bf0b80", null ]
+    [ "tetengo_json_reader_streamReaderDefaultBufferCapacity", "reader_8h.html#aa0fd31b382f31f9eac7502744cd1f446", null ]
 ];

@@ -15,7 +15,7 @@ var trie_2c_2include_2tetengo_2trie_2storage_8h =
     [ "tetengo_trie_storage_serialize", "trie_2c_2include_2tetengo_2trie_2storage_8h.html#ace1c02e75f12e53e730f2ccbc34fc3fd", null ],
     [ "tetengo_trie_storage_setBaseAt", "trie_2c_2include_2tetengo_2trie_2storage_8h.html#a67697f6371e0cdf49aac93b5009eb1f6", null ],
     [ "tetengo_trie_storage_setCheckAt", "trie_2c_2include_2tetengo_2trie_2storage_8h.html#a3dbbaa485244dbe34d5ef695fcea0004", null ],
-    [ "tetengo_trie_storage_vacantCheckValue", "trie_2c_2include_2tetengo_2trie_2storage_8h.html#aa7a0f187a14ad77855dba1ed1327883e", null ],
+    [ "tetengo_trie_storage_vacantCheckValue", "trie_2c_2include_2tetengo_2trie_2storage_8h.html#a062f2b08afc53905d4bf49441445a0be", null ],
     [ "tetengo_trie_storage_valueAt", "trie_2c_2include_2tetengo_2trie_2storage_8h.html#af597cefa94290fc0b4b7dc9ba3090b2e", null ],
     [ "tetengo_trie_storage_valueCount", "trie_2c_2include_2tetengo_2trie_2storage_8h.html#a54cc6349d0cd3f5f45ac12524828bc94", null ]
 ];
