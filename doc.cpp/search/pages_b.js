@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['json_0',['Parsing JSON',['../namespacetetengo_1_1json.html#usage-json-parsing',1,'']]]
+  ['install_0',['How to Build and Install',['../index.html#autotoc_md6',1,'']]],
+  ['installing_1',['Building and installing',['../index.html#autotoc_md18',1,'']]]
 ];
